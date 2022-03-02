@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **December 21, 2021**
+Last updated: **December 24, 2021**
 
 **On this page:**
 
@@ -44,11 +44,12 @@ These restrictions are in effect until January 18, 2022.
     wedding receptions or other celebrations
 -   [Indoor events at venues] can only have 50%
     capacity. This includes events like concerts, sports or movies
--   [Bars, nightclubs and lounges are closed]
+-   [Bars and nightclubs are closed]
 -   [Restaurants, cafes and pubs] can have a maximum
-    of 6 people at each table
--   [Adult gyms, fitness centres and dance studios] are
-    closed
+    of 6 people at each table and must have physical distancing or
+    barriers between tables
+-   [Indoor adult exercise, fitness and dance activities] are
+    not permitted
 
 ```{=html}
 <!-- -->
@@ -64,8 +65,8 @@ These restrictions are in effect until January 31, 2022.
 -   [At restaurants, cafes and pubs], customers must
     stay seated and cannot move between or visit other tables. Masks are
     required when not seated
--   [All sports tournaments] and related travel are
-    not allowed
+-   [All sports tournaments] are not allowed, except
+    for high performance athletes
 
 
 ------------------------------------------------------------------------
@@ -76,7 +77,6 @@ Restrictions, guidance and requirements stay the same for:
 
 -   [Wearing masks]
 -   [Worship services]
--   [Fairs, festivals and trade shows]
 -   [Workplaces]
 -   [Outdoor organized events]
 -   [Regional restrictions]
@@ -168,10 +168,13 @@ the mouth. 
 PHO order on gatherings and events 
 ------------------------------------------------
 
-This content is a summary of the verbal PHO order on gatherings and
-events. It is not legal advice and does not provide an interpretation of
-the law. In the event of any conflict or difference between this webpage
-and the order, the order is correct and legal and must be followed. 
+This content is a summary of the [PHO order --- Gatherings and Events
+(PDF,
+550KB)]
+document. It is not legal advice and does not provide an interpretation
+of the law. In the event of any conflict or difference between this
+webpage and the order, the order is correct and legal and must be
+followed. 
 
 ### Personal gatherings 
 
@@ -196,10 +199,9 @@ Everyone is encouraged to:
 Indoor organized gatherings of any size are not allowed. Examples of an
 organized gathering include:
 
--   New Year\'s Eve parties
--   Wedding receptions
--   Funeral receptions
--   Other life events or celebrations
+-   Parties and celebrations like New Year\'s Eve parties
+-   Wedding and funeral receptions
+-   Sponsored or ticketed parties
 
 ### Indoor events at venues 
 
@@ -218,6 +220,12 @@ All spectators must be seated at:
 -   Lectures, presentations and workshops
 -   Sponsored and ticketed events
 
+#### Casinos 
+
+Casinos can operate at 50% seated capacity, including gaming positions.
+Food and liquor services at casinos must follow the [rules for food and
+liquor serving premises].
+
 ### Outdoor organized gatherings 
 
 Outdoor organized seated gatherings can have a capacity of 5,000 people
@@ -233,7 +241,7 @@ All]()
 
 Fairs, festivals and trade shows
 
-Fairs, festivals and trade shows can return to normal operations with a
+Fairs, festivals and trade shows are limited to 50% capacity with a
 communicable disease plan. 
 
  
@@ -283,46 +291,100 @@ workplaces. 
 -   [Review communicable disease prevention guidance from
     WorkSafeBC]
 
-### Exercise 
+### Exercise and fitness 
 
-#### Gyms and fitness centres 
+**Adult** indoor individual and group fitness or exercise activities are
+not permitted. For example:
 
-Adult gyms, fitness centres and dance studios are closed.
+-   Working out at the gym
+-   Participating in low or high intensity group exercise or fitness
+    classes
+-   Participating in dance classes at a dance studio
+
+The following exercise and fitness activities can continue:
+
+-   Programs specifically for children and youth
+-   Activities that take place in [swimming pools]
+-   Training for [high performance athletes]
+
+#### Swimming pools 
+
+Swimming pools can operate at 50% capacity. Public swimming pools must
+scan [proof of vaccination QR codes for
+entry].
+Pools at hotels and apartments are exempt.
+
+Activities that take place in swimming pools are allowed. For example,
+aquafit, lane swim and group classes.
 
 ### Sports 
 
-#### Adult and youth outdoor and indoor group and team sports  
+Sport tournaments are not allowed. Tournaments are single or multi-day
+events where 3 or more teams compete against each other outside of
+regular league play. This restriction does not include:
 
-All sports tournaments and related travel are not allowed.
+-   A gathering where team members compete individually against each
+    other
+-   A gathering where the result will decide if a team will advance to
+    play in a national or international competition
 
-Non-employee supervisors, coaches and assistants of indoor sports and
-group activities for people 21 years or younger must be fully
-vaccinated.
+Other sport activities that normally take place in a sport environment
+can continue, including:
+
+-   Participating in an adult indoor sport or recreation program as long
+    as it does not exceed 50% of the occupancy of the space
+-   Participating or competing in individual sports like skiing,
+    swimming or skating
+-   Competing in regular league play for individual or team sport
+
+Other requirements for sport include:
+
+-   [Masks are required indoors] when not participating in a
+    sport
+-   [Proof of vaccination is
+    required] for
+    spectators and adult participants at indoor sporting events
+-   Non-employee supervisors, coaches and assistants of indoor sports
+    and group activities for people 21 years or younger must be fully
+    vaccinated
+
+#### Travel for sport 
+
+Travel to other provinces or countries is not recommended.
+
+#### High performance athletes 
+
+High performance athletes who have a Canadian Sport Institute Pacific
+designation are exempt. They can train, travel or compete in accordance
+with their sport association\'s COIVID-19 safety protocols.
 
 ------------------------------------------------------------------------
 
 PHO order on restaurants, pubs and bars 
 ------------------------------------------------------------
 
-This content is a summary of the verbal PHO order on food and liquor
-service premises. It is not legal advice and does not provide an
-interpretation of the law. In the event of any conflict or difference
-between this webpage and the order, the order is correct and legal and
-must be followed. 
+This content is a summary of the [PHO order --- Food and Liquor Serving
+Premises (PDF,
+481KB)]
+document. It is not legal advice and does not provide an interpretation
+of the law. In the event of any conflict or difference between this
+webpage and the order, the order is correct and legal and must be
+followed. 
 
 Businesses will transition from a COVID-19 Safety Plan to a communicable
 disease plan.
 
 ### Restaurants, cafes, pubs, bars and nightclubs 
 
-Bars, nightclubs and lounges are closed.
+Places that do not offer full meal service must close. This includes
+places like bars, nightclubs and lounges that do not serve meals.
 
 Indoor and outdoor dining is allowed with physical distancing
 requirements and other rules, including:
 
 -   A maximum of 6 people at a table
--   Physical distancing or barriers between tables
--   Customers must remain seated and cannot move between or visit other
+-   There needs to be 2 metres or physical barriers between tables
+-   Customers must stay seated and cannot move between or visit other
     tables
 -   No dancing
 -   Normal liquor service hours

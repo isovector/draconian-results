@@ -236,7 +236,8 @@ allowed. For example:
 
 -   Working out at a gym
 -   Participating in low or high intensity group exercise or fitness
-    classes
+    classes, including yoga, barre, CrossFit, High Intensity Interval
+    Training (HIIT) and weight training
 -   Participating in dance classes at a dance studio
 
 The exercise and fitness activities that can continue include:

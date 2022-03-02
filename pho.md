@@ -19,7 +19,7 @@ compliance and enforcement officials.
 
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
 
-Last updated: **May 31, 2021**
+Last updated: **June 7, 2021**
 
 **On this page:**
 
@@ -412,15 +412,20 @@ All]()
 [Adult and youth outdoor group and team
 sports]()
 
-Outdoor group sports for adults and youth are allowed, including:\
+Outdoor group sports are allowed for adults or youth who are registered
+with a sports club, organization or facility. Activities include:\
  
 
 -   Games
 -   Tournaments and competitions
 -   Practices
 
-Contact your local sports organization for guidance on COVID-19 Safety
-Plan requirements.
+Contact your local sports organization:
+
+-   For guidance on current COVID-19 Safety Plan requirements
+-   To discuss safety plan adjustments that will align with [BC\'s
+    Restart
+    plan]
 
  
 
@@ -455,14 +460,13 @@ in the same private residence.
 [High performance athletes]()
 
 High performance athletes already training in B.C. as of November 19,
-2020 can train, travel and compete together. They must follow the
-COVID-19 safety protocols of the provincial or national sports
-organization they are affiliated with.
+2020 can continue to train, travel and compete together. They must
+follow the COVID-19 safety protocols of the provincial or national
+sports organization they are affiliated with.
 
-To qualify as a high-performance athlete, you must be identified by the
-Canadian Sports Institute Pacific as a high-performance athlete
-affiliated with an accredited provincial or national sports
-organization.
+Review information for athletes from viaSport: [Return to Sport Restart
+2.0 (PDF,
+64.3KB)].
 
 #### Spectators 
 
@@ -473,8 +477,18 @@ aid to a player. 
 
 #### Travel for sport 
 
-Travel outside your travel region for athletic activities like games,
-competitions, training and practice is prohibited.
+You are allowed to travel to the club, organization or facility where
+you would normally train or play at, even if it\'s outside of your
+community. **Travel outside of your health region is not permitted.**
+
+For example:
+
+-   An archer from Oliver may travel to Penticton to compete at their
+    arching club's facility
+-   A soccer team from Coquitlam may not travel to play against a team
+    from a different club in New Westminster
+-   A softball player may not travel from Victoria to Vancouver to play
+    for their team
 
 ------------------------------------------------------------------------
 

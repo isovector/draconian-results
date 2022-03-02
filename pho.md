@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **April 19, 2021**
+Last updated: **April 20, 2021**
 
 **On this page:**
 
@@ -39,7 +39,6 @@ midnight. They include:
 -   Restaurants, pubs and bars are [closed for
     indoor dining]. Outdoor patio seating and
     take-out or delivery is allowed
--   Whistler Blackcomb ski resort is closed
 -   Workplaces with a COVID-19 exposure may be ordered to [close for a
     minimum of 10 days]
 
@@ -387,7 +386,7 @@ where transmission has occurred.
 
 Exceptions will be made for workplaces like:
 
--   Police stations and fire halls
+-   Courthouses, police stations and fire halls
 -   Healthcare facilities, schools, shelters
 -   Ferry system and public transportation
 -   Distribution hubs of necessary goods such as food and medicine
@@ -469,8 +468,8 @@ exercise must suspend the following activities:
 
 #### Indoor low intensity group exercise 
 
-Indoor low intensity group exercise is prohibited until April 19 at
-11:59 pm. These include:
+Indoor low intensity group exercise is prohibited until May 25 at
+midnight. These include:
 
 -   Yoga (Hatha)
 -   Low intensity exercise machines and cardio equipment
@@ -550,9 +549,9 @@ participant\'s residence, like a neighbouring community. For example:
 #### Adult indoor and outdoor group sports 
 
 Group sports are activities involving more than one person. This
-includes training and practice for an individual or team sport. Games,
-tournaments and competitions for indoor and outdoor group sports for
-people 22 years of age and older are prohibited. These include:
+includes group training and practice for an individual or team sport.
+Games, tournaments and competitions for indoor and outdoor group sports
+for people 22 years of age and older are prohibited. These include:
 
 -   Basketball
 -   Cheerleading
@@ -579,11 +578,11 @@ people 22 years of age and older are prohibited. These include:
 -   Football
 -   Baseball
 -   Softball
--   Tennis
--   Golf
--   Pickleball
+-   Tennis (Tournaments)
+-   Golf (Tournaments)
+-   Pickleball (Tournaments/Group Competitions)
 -   Cricket
--   Group cycling
+-   Group cycling (Competitions)
 
 While restrictions are currently in place related to adult group sports,
 some indoor and outdoor sports and activities, including drills and
@@ -611,7 +610,7 @@ PHO order on restaurants, pubs and bars
 ------------------------------------------------------------
 
 Restaurants, pubs, bars and food courts are closed for indoor dining
-until April 19 at 11:59 pm.
+until May 25 at midnight.
 
 -   Outdoor patio seating and take-out or delivery is allowed
 -   Breweries, wineries and tasting rooms can operate outdoor patios

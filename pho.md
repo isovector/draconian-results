@@ -2,10 +2,6 @@
 Provincial and regional restrictions
 ====================================
 
-The PHO orders on [gatherings and events] and
-[food and liquor serving premises] have
-been extended.
-
 
 !
 
@@ -17,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 17, 2022**
+Last updated: **January 18, 2022**
 
 **On this page:**
 
@@ -96,13 +92,10 @@ the mouth. 
 PHO order on gatherings and events 
 ------------------------------------------------
 
-This content is a summary of the [PHO order --- Gatherings and Events
-(PDF,
-550KB)]
-document. It is not legal advice and does not provide an interpretation
-of the law. In the event of any conflict or difference between this
-webpage and the order, the order is correct and legal and must be
-followed. 
+This content is a summary of the verbal PHO orders on gatherings and
+events. It is not legal advice and does not provide an interpretation of
+the law. In the event of any conflict or difference between this webpage
+and the order, the order is correct and legal and must be followed. 
 
 ### Personal gatherings 
 
@@ -229,8 +222,19 @@ Additional safety precautions are required in higher risk workplaces. 
 
 ### Exercise and fitness 
 
-Adult indoor individual and group fitness or exercise activities are not
-allowed. For example:
+**Starting January 20**, adult indoor individual and group fitness or
+exercise activities are allowed with increased safety protocols and
+capacity limits, including:
+
+-   7 square metres of space between workout machines or people in a
+    group class
+-   Masks worn at all times, except when actively exercising. We
+    strongly encourage people wear a mask even when exercising
+-   Pre-bookings for drop-in individual fitness where operationally
+    possible
+
+**Until January 19 at 11:59 pm**, adult indoor individual and group
+fitness or exercise activities are not allowed. For example:
 
 -   Working out at a gym. Gyms at hotels and apartments can stay open
 -   Participating in low or high intensity group exercise or fitness
@@ -238,11 +242,7 @@ allowed. For example:
     Training (HIIT) and weight training
 -   Participating in dance classes at a dance studio
 
-The exercise and fitness activities that can continue include:
-
--   Programs specifically for children and youth
--   Activities that take place in [swimming pools]
--   Training for [high performance athletes]
+Programs specifically for children and youth are allowed. 
 
 #### Swimming pools 
 
@@ -335,9 +335,6 @@ vaccination rates. Orders are made by a region\'s Medical Health
 Officer. **Follow regional restrictions in addition to the province-wide
 restrictions.**
 
-[Expand All]()[ \| ][Collapse
-All]()
-
  
 
 [Regional restrictions in Northern Health]()
@@ -414,8 +411,6 @@ Non-essential travel outside your community is strongly discouraged.
     185KB)]
 -   [Map of the Northern Health region (PDF,
     1.3MB)]
-
- 
 
 ------------------------------------------------------------------------
 

@@ -2,6 +2,12 @@
 Province-wide restrictions
 ==========================
 
+Regional restrictions are in place for people who live in Kelowna, West
+Kelowna, Peachland, Lake Country and on Westbank First Nations lands
+(Central Okanagan Local Health Area). [You must wear a mask in all
+indoor public
+spaces]. 
+
 
 !
 
@@ -13,12 +19,14 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **July 7, 2021**
+Last updated: **July 28, 2021**
 
 **On this page:**
 
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants and bars]
+-   [Guidance for visiting long-term care or seniors\' assisted living
+    facilities]
 -   [Mask guidance]
 -   [Enforcement]
 
@@ -168,6 +176,57 @@ at approximately 50% capacity across the sector.
 
 ------------------------------------------------------------------------
 
+Guidance for visiting long-term care or seniors\' assisted living facilities 
+-----------------------------------------------------------------------------------------------
+
+Larger, facility-wide social events or gatherings, adult day programs
+and in-facility respite are allowed.
+
+-   Indoor gatherings may include residents and staff across units of a
+    facility
+-   Outdoor gatherings may include family and friends
+
+You do not need to schedule an appointment to visit residents in
+long-term care or seniors\' assisted living facilities. There is no
+limit to the number of visitors for each resident.
+
+### Protecting long-term care residents 
+
+All visitors should be fully vaccinated before visiting a long-term care
+or seniors\' assisted-living facility. You\'re fully vaccinated 14 days
+after [dose
+2]. 
+
+To confirm your immunization record when visiting a long-term care
+facility, use ImmunizeBC\'s COVID-19 Vaccination Status Indicator tool. 
+
+[Launch
+tool]{.btn
+.btn-primary} You must provide your date of birth and Personal Health
+Number (PHN). 
+
+Safety precautions like visitor health screening, wearing masks in
+common areas, hand hygiene and physical distancing will continue.
+
+-   Staff who are not confirmed to be fully vaccinated will continue to
+    wear a medical mask at work and follow safety precautions
+-   Before your visit, review information for [Visitors in Long-Term
+    Care and Seniors' Assisted Living -- July 19, 2021 (PDF,
+    601KB)]
+
+#### When to wear a mask at long-term care facilities 
+
+-   All visitors must wear medical masks in hallways and common areas
+-   You can only remove your mask when visiting residents in their
+    living area **if you\'re fully vaccinated**
+-   You will need to show your [paper immunization record
+    card]
+    or your [online immunization record on Health
+    Gateway]
+    (available 48 hours after your vaccination appointment)
+
+------------------------------------------------------------------------
+
 Mask guidance 
 -------------------------------
 
@@ -179,7 +238,8 @@ older who are not yet fully vaccinated. 
 -   Masks are optional for children aged 2 to 12
 -   Children under 2 should not wear masks
 -   Proof of vaccination does not need to be requested by service
-    providers
+    providers, [except when visiting long-term care or seniors\'
+    assisted living facilities]
 -   Some people may choose to continue to wear a mask after they\'re
     fully vaccinated and that\'s okay
 

@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **April 1, 2021**
+Last updated: **April 9, 2021**
 
 **On this page:**
 
@@ -40,6 +40,8 @@ strengthening province-wide restrictions:
     indoor dining]. Outdoor patio seating and
     take-out or delivery is allowed
 -   Whistler Blackcomb ski resort is [closed]
+-   Workplaces with a COVID-19 exposure may be ordered to [close for a
+    minimum of 10 days]
 
 ### Safety recommendations 
 
@@ -371,9 +373,21 @@ Retail businesses are required to:\
 
 [Workplaces]()
 
-Employers must review and redouble their efforts on their COVID-19
-Safety Plan, remind employees to monitor themselves daily and to always
-stay home if they have symptoms.
+A workplace that has workers testing positive for COVID-19 and public
+health confirming transmission has occurred in the work environment
+may be ordered to close for a minimum of 10 days.
+
+For larger workplaces, the closure may be restricted to the locations
+where transmission has occurred.
+
+Exceptions will be made for workplaces like:
+
+-   Police stations and fire halls
+-   Healthcare facilities, schools, shelters
+-   Ferry system and public transportation
+-   Distribution hubs of necessary goods such as food and medicine
+
+------------------------------------------------------------------------
 
 Employers must make every effort to provide work from home options.  
 

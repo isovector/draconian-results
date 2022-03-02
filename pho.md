@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **March 11, 2021**
+Last updated: **March 15, 2021**
 
 **On this page:**
 
@@ -34,17 +34,31 @@ the order, the order is correct and legal and must be followed. 
 
 ### March 2021 update 
 
-The PHO is amending the gathering and events order. Up to 10 people may
-now gather outdoors. All restrictions for indoor gatherings remain in
-place. For example:
+The PHO has amended the gathering and events order. Up to 10 people can
+gather outdoors. For example:
 
--   Up to 10 people may gather at a park or beach
--   Up to 10 people may gather in the backyard of a residence
--   No gatherings of any size are allowed indoors
+-   Up to 10 people can gather at a park or beach
+-   Up to 10 people can gather in the backyard of a residence
 
-Do not gather with several groups of new people -- stick to **the same
+Do not gather with several groups of new people. **Stick to** **the same
 people**. Continue to use COVID-19 layers of protection and maintain
 physical distancing.
+
+All restrictions for indoor gatherings remain in place. No indoor
+gatherings of any size are allowed.
+
+#### St. Patrick\'s Day liquor sales 
+
+Effective March 17 at 8 pm until March 18 at 9 am, the service and sale
+of alcohol is prohibited. This applies to any establishment that sells
+or serves alcohol, including: 
+
+-   Restaurants
+-   Bars and pubs
+-   Liquor stores and grocery stores
+
+Unless a full meal service is provided, premises which are licensed to
+serve liquor must close between 9 pm on March 17 and 9 am on March 18.
 
 ### Gatherings inside residences or vacation accommodations 
 
@@ -427,8 +441,8 @@ their immediate community. For example:\
 
 #### Adult indoor and outdoor team sports 
 
-Indoor and outdoor team sports for people 22 years of age and older are
-prohibited. These include:
+Indoor and outdoor organized team sports for people 22 years of age and
+older are prohibited. These include:
 
 -   Basketball
 -   Cheerleading
@@ -461,8 +475,8 @@ some indoor and outdoor sports and activities, including drills and
 training activities, are permitted with a reduced number of
 participants:
 
--   Two people may engage in indoor sports with one another
--   Four people may engage in outdoor sports with one another
+-   2 people may engage in indoor sports with one another
+-   10 people may engage in outdoor sports with one another
 
 In both cases, participants must maintain a distance of 3 metres from
 one another unless everyone lives in the same private residence.

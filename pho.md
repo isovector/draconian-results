@@ -11,7 +11,7 @@ COVID-19. The restrictions are made by the Provincial Health Officer
 
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
 
-Last updated: **July 1, 2021**
+Last updated: **July 7, 2021**
 
 **On this page:**
 
@@ -59,10 +59,11 @@ All]()
 
  
 
-[Fairs, festivals and trade shows]()
+[Fairs, festivals, trade shows and
+receptions]()
 
-Fairs, festivals and trade shows can return to normal operations with a
-communicable disease plan. 
+Fairs, festivals, trade shows and stand up receptions can return to
+normal operations with a communicable disease plan. 
 
  
 
@@ -112,9 +113,9 @@ workplaces. 
 Indoor high intensity and low intensity group exercise is allowed with
 normal capacity. 
 
-#### Gyms and recreation facilities 
+#### Gyms, pools and recreation facilities 
 
-Gyms and recreation facilities can operate with normal capacity.
+Gyms, pools and recreation facilities can operate with normal capacity.
 
 ### Sports 
 

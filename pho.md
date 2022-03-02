@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **February 8, 2021**
+Last updated: **March 11, 2021**
 
 **On this page:**
 
@@ -32,25 +32,36 @@ It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
 
-By order of the PHO, all gatherings and events are suspended
-to significantly reduce COVID-19 transmission related to social
-interactions. The order came into effect November 19, 2020 at midnight
-and will be kept in place until further notice based on direction from
-the PHO.
+### March 2021 update 
 
-### Gatherings at residences or vacation accommodations 
+The PHO is amending the gathering and events order. Up to 10 people may
+now gather outdoors. All restrictions for indoor gatherings remain in
+place. For example:
 
-No social gatherings of **any size** at your residence with anyone other
-than your household or, if you live alone, your core bubble. For
+-   Up to 10 people may gather at a park or beach
+-   Up to 10 people may gather in the backyard of a residence
+-   No gatherings of any size are allowed indoors
+
+Do not gather with several groups of new people -- stick to **the same
+people**. Continue to use COVID-19 layers of protection and maintain
+physical distancing.
+
+### Gatherings inside residences or vacation accommodations 
+
+No social gatherings of **any size** inside your residence with anyone
+other than your household or, if you live alone, your core bubble. For
 example:
 
 -   Do not invite friends or extended family into your residence or
-    vacation accommodation
--   Do not gather in your backyard, patio, driveway or anywhere else
-    on your property
--   Do not host playdates for children
+    vacation accommodation.
+-   Do not host a party or event inside your house
 
-#### Core bubble 
+[Expand All]()[ \| ][Collapse
+All]()
+
+ 
+
+[Core bubble]()
 
 For most people, their core bubble is their immediate household. An
 immediate household is a group of people who live in the same residence.
@@ -63,9 +74,6 @@ For example:
 
 For people who live alone, a core bubble is a maximum of two people you
 see regularly.
-
-[Expand All]()[ \| ][Collapse
-All]()
 
  
 
@@ -94,8 +102,9 @@ gathering. 
 
 Visiting people who live alone
 
-People who live alone may have up to two visitors at their residence for
-a social purpose. These are the two people in your core bubble.
+People who live alone may have up to two visitors inside their
+residence for a social purpose. These are the two people in your core
+bubble.
 
 -   If those two people regularly interact with each other, they may
     visit the residence of the person who lives alone at the same time
@@ -109,8 +118,7 @@ one occupant. 
 
 These activities are not considered a social gathering:
 
--   Going for a walk or hike. You must make sure a walk or hike does
-    not turn into a group of people meeting outside
+-   Going for a walk or hike
 -   Parents carpooling kids to and from school
 -   Grandparents providing child care
 -   Public pools and public skating rinks, when not associated with an
@@ -176,7 +184,8 @@ Funerals, weddings and baptisms may proceed with a limited number of
 people and a COVID-19 Safety Plan in place. You can have a maximum of 10
 people attend, including the officiant. [Review BC Centre for Disease
 Control (BCCDC) information on event
-planning].
+planning].\
+ 
 
 -   The event organizer and staff present at the event are not included
     in the 10 people limit
@@ -184,11 +193,7 @@ planning].
     included in the 10 people limit
 
 Receptions associated with funerals, weddings or baptisms are not
-allowed at any location, that includes:\
- 
-
--   Inside or outside homes
--   Any public or community-based venues
+allowed inside homes or venues.
 
  
 
@@ -247,9 +252,8 @@ away from every other person present at all times.
 
 [Religious gatherings and worship services]()
 
-In-person religious gatherings and worship services of any size are
-prohibited.\
- 
+Inside in-person religious gatherings and worship services of any size
+are prohibited.
 
 -   You must not attend a service at a church, synagogue, mosque,
     gudwara, temple or other place of worship
@@ -483,10 +487,10 @@ are suspended.
 PHO order on restaurants, pubs and bars 
 ------------------------------------------------------------
 
-In order to limit the spread of COVID-19, people should only be visiting
-restaurants with their household. For people who live alone, this should
-be with a maximum of two people they regularly interact with (core
-bubble).
+In order to limit the spread of COVID-19, people should only be dining
+at restaurants with their household. For people who live alone, this
+should be with a maximum of two people they regularly interact with
+(core bubble).
 
 You must [wear a mask when not at a table]. Events are no longer
 allowed. 

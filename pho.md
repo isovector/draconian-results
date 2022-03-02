@@ -407,7 +407,7 @@ This includes:
 -   Competitions
 -   Practices
 
-Unpaid supervisors, coaches and assistants of sports and group
+Non-employee supervisors, coaches and assistants of sports and group
 activities for people 21 years or younger must be fully vaccinated.
 
 #### Spectators 

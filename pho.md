@@ -19,7 +19,7 @@ compliance and enforcement officials.
 
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
 
-Last updated: **May 26, 2021**
+Last updated: **May 28, 2021**
 
 **On this page:**
 
@@ -108,10 +108,10 @@ workplace, with some exceptions including:\
 [Indoor funerals, weddings and
 baptisms]()
 
-Indoor funerals, weddings and baptisms may proceed with a limited number
-of people and a COVID-19 Safety Plan in place. You can have a maximum of
-10 people attend, including the officiant. [Review BC Centre for Disease
-Control (BCCDC) information on event
+Indoor funerals, wedding ceremonies and baptisms may proceed with a
+limited number of people and a COVID-19 Safety Plan in place. You can
+have a maximum of 10 people attend, including the officiant. [Review BC
+Centre for Disease Control (BCCDC) information on event
 planning].\
  
 
@@ -122,30 +122,6 @@ planning].\
 
 Receptions associated with funerals, weddings or baptisms are not
 allowed inside homes or venues.
-
- 
-
-[Indoor religious gatherings and worship
-services]()
-
-Safety protocols for indoor in-person religious gatherings and worship
-services of any size are being reviewed and will be updated shortly.
-Until new protocols are released:\
- 
-
--   You must not attend an indoor service at a church, synagogue,
-    mosque, gudwara, temple or other place of worship
--   Religious services can continue using remote or virtual attendance
-    options, like Zoom or Skype
-
-You can still visit your place of worship for individual activities such
-as guidance from spiritual leaders, contemplation or personal prayer.
-
-Religious leaders may attend the home of a member of their religious
-community to provide religious services to the occupant.
-
-You can attend an [outdoor religious
-gathering].
 
  
 
@@ -183,12 +159,14 @@ after the funeral service, people must not gather or socially engage.
 
 ------------------------------------------------------------------------
 
-Outdoor weddings may proceed with a COVID-19 Safety Plan in place. You
-can have a maximum of 50 people attend, including the officiant. [Review
-BC Centre for Disease Control (BCCDC) information on event
+Outdoor seated wedding ceremonies may proceed with a COVID-19 Safety
+Plan in place. You can have a maximum of 50 people attend if the space
+allows for social distancing between guests, including the
+officiant. [Review BC Centre for Disease Control (BCCDC) information on
+event
 planning].
 Before, during and after the wedding service, people must not gather or
-engage socially.\
+engage socially. For example, there cannot be receptions or dancing.\
  
 
 -   The event organizer and staff present at the event are not included
@@ -198,50 +176,60 @@ engage socially.\
 
  
 
-[Outdoor religious gatherings and worship services]()
-
--   Read the [Variance: Outdoor Worship Services -- March 23, 2021 (PDF,
-    250KB)]
-
-Religious worship services may be held outdoors (including in open-sided
-tents and under overhead coverings). Before, during and after the
-service, people must not gather or socially engage.
-
--   Up to 50 people may attend, plus 2 extra people to make sure rules
-    are followed
--   Participants must be 2 metres apart unless they live in the same
-    private residence
--   Drive-in worship events can continue to operate (No more than
-    50 vehicles may be present, and people who attend in a vehicle must
-    remain in the vehicle)
--   Musical groups of up to 5 musicians may perform
--   The only people who can sing are soloists and worship leaders. The
-    only people who can chant are worship leaders
-
-Masks are required at all times by everyone in attendance.
-
--   Masks can only be removed by soloists (when singing), worship
-    leaders (when speaking, singing or chanting), readers (when reading
-    out loud), or musicians who need to do so to play their instrument.
-    They must maintain 3 metres of spacing or use a physical barrier
--   Masks are not required for people who can't wear a mask due to a
-    condition or impairment or kids under the age of 12
-
-Organizers must:
-
--   Collect information for contract tracing
--   Supply hand sanitizer
--   Caution those at risk, including seniors and those with underlying
-    medical conditions or compromised immune systems, from attending
-
- 
-
 [Perimeter seating vehicles and buses (limo and party
 bus)]()
 
 The limited operation of perimeter seating vehicles and buses is
 permitted, subject to restrictions respecting hours of operation and
 distancing of passengers.
+
+ 
+
+[Religious gatherings and worship
+services]()
+
+Religious worship services of up to 50 people may be held indoors or
+outdoors (including in open-sided tents and under overhead coverings).
+
+Organizers should review all of the rules and guidelines:\
+ 
+
+-   [Guidance for Holding Low Risk Worship Services (PDF,
+    384KB)]
+-   [Variance: Indoor Worship Services (PDF,
+    191KB)]
+-   [Variance: Outdoor Worship Services (PDF,
+    226KB)]
+
+------------------------------------------------------------------------
+
+#### Indoor services 
+
+-   Participants need to wear masks at all times, including when they
+    are seated
+-   Participants must be 2 metres apart unless they are from the same
+    household
+
+------------------------------------------------------------------------
+
+#### Outdoor services 
+
+-   Participants need to arrive and leave wearing masks. They can remove
+    masks when they are seated
+-   Participants must be 2 metres apart unless they are from the same
+    household or if they are all seated
+
+------------------------------------------------------------------------
+
+#### Funerals, weddings and baptisms 
+
+Funerals and baptisms have separate rules to follow. Weddings are
+considered events and follow indoor and outdoor organized gatherings
+rules.\
+ 
+
+-   [Indoor funerals, weddings and baptisms]
+-   [Outdoor funerals and weddings]
 
  
 

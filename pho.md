@@ -2,6 +2,10 @@
 Provincial and regional restrictions
 ====================================
 
+If you have mild symptoms and no risk factors for severe illness, you do
+not need a COVID test. [Find out when you need a
+test].
+
 
 !
 
@@ -558,8 +562,8 @@ Non-essential travel outside your community is strongly discouraged.
 -   [Review full details on the Northern Health
     website]
 -   [Gatherings and Events COVID-19 Order for Northern Health
-    Authority -- December 9, 2021 (PDF,
-    216KB)]
+    Authority -- December 24, 2021 (PDF,
+    185KB)]
 -   [Map of the Northern Health region (PDF,
     1.3MB)]
 

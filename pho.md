@@ -19,7 +19,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **August 6, 2021**
+Last updated: **August 20, 2021**
 
 **On this page:**
 
@@ -36,7 +36,8 @@ PHO order on gatherings and events
 ------------------------------------------------
 
 This content is a summary of the [PHO order -- Gatherings and
-Events (PDF)] document.
+Events (PDF,
+305KB)] document.
 It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
@@ -87,10 +88,10 @@ normal operations with a communicable disease plan. 
 
  
 
-Religious gatherings and worship services
+Worship services
 
-There are no capacity limits or restrictions on indoor or outdoor
-religious gatherings and worship services. 
+There are no capacity limits or restrictions on indoor or outdoor and
+worship services. 
 
  
 
@@ -172,6 +173,13 @@ Travel for sport is allowed. 
 PHO order on restaurants, pubs and bars 
 ------------------------------------------------------------
 
+This content is a summary of the [PHO order --- Food and Liquor Serving
+Premises (PDF,
+613KB)] document.
+It is not legal advice and does not provide an interpretation of the
+law. In the event of any conflict or difference between this webpage and
+the order, the order is correct and legal and must be followed. 
+
 Businesses will transition from a COVID-19 Safety Plan to a communicable
 disease plan. 
 
@@ -198,6 +206,13 @@ at approximately 50% capacity across the sector.
 
 Guidance for visiting long-term care or seniors\' assisted living facilities 
 -----------------------------------------------------------------------------------------------
+
+This content is a summary of the [PHO order --- COVID-19 Vaccination
+Status Information and Preventive Measures (PDF,
+513KB)] document.
+It is not legal advice and does not provide an interpretation of the
+law. In the event of any conflict or difference between this webpage and
+the order, the order is correct and legal and must be followed. 
 
 Larger, facility-wide social events or gatherings, adult day programs
 and in-facility respite are allowed.

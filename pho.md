@@ -16,6 +16,8 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
+[繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
+
 Last updated: **April 23, 2021**
 
 **On this page:**
@@ -720,27 +722,20 @@ can be enforced by police or other compliance and enforcement officials.
 [People who don\'t follow these orders could be
 fined].
 
-Translated content 
-------------------
+COVID-19 response 
+-----------------
 
 
--   [全省限制 ](Traditional
-    Chinese)
--   [全省限制] (Simplified
-    Chinese)
--   [ਪੂਰੇ ਪਰਾਂਤ ਤੇ ਲਾਗੂ
-    ਪਾਬੰਦੀਆਂ]
--   [Restrictions à l'échelle de la
-    province]
--   [Restricciones en toda la
-    provincia]
--   [القيود المفروضة في أنحاء
-    المقاطعة]
--   [Mga pagbabawal sa buong
-    lalawigan]
--   [محدودیت ها در سطح
-    استان]
--   [주 전역
-    제약]
+[!]
+
+Information for residents of B.C. about COVID-19, including:
+
+-   Vaccines
+-   Benefits and supports
+-   PHO orders and guidelines
+
+[Get COVID-19
+information]{.btn
+.btn-primary}
 
 

@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 10, 2022**
+Last updated: **January 14, 2022**
 
 **On this page:**
 
@@ -228,7 +228,7 @@ Additional safety precautions are required in higher risk workplaces. 
 Adult indoor individual and group fitness or exercise activities are not
 allowed. For example:
 
--   Working out at a gym
+-   Working out at a gym. Gyms at hotels and apartments can stay open
 -   Participating in low or high intensity group exercise or fitness
     classes, including yoga, barre, CrossFit, High Intensity Interval
     Training (HIIT) and weight training
@@ -245,7 +245,7 @@ The exercise and fitness activities that can continue include:
 Swimming pools can operate at 50% capacity. Public swimming pools must
 scan [proof of vaccination QR codes for
 entry].
-Pools at hotels and apartments are exempt.
+Pools at hotels and apartments can stay open.
 
 Activities that take place in swimming pools are allowed. For example,
 aquafit, lane swim and group classes.

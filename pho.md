@@ -192,20 +192,3 @@ can be enforced by police or other compliance and enforcement officials.
 [People who don\'t follow these orders could be
 fined].
 
-COVID-19 response 
------------------
-
-
-[!]
-
-Information for residents of B.C. about COVID-19, including:
-
--   Vaccines
--   Benefits and supports
--   PHO orders and guidelines
-
-[Get COVID-19
-information]{.btn
-.btn-primary}
-
-

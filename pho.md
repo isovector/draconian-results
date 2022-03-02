@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **April 12, 2021**
+Last updated: **April 19, 2021**
 
 **On this page:**
 
@@ -19,7 +19,6 @@ Last updated: **April 12, 2021**
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants and bars]
 -   [EPA order on masks in public indoor settings]
--   [Travel advisory]
 -   [Enforcement]
 
 ------------------------------------------------------------------------
@@ -29,8 +28,10 @@ Do your part to keep B.C. safe
 
 ### Stronger province-wide restrictions 
 
-Between March 29 at 11:59 pm and April 19 at 11:59 pm the PHO is
-strengthening province-wide restrictions:
+The PHO has strengthened province-wide restrictions. These
+restrictions came into effect March 29 at 11:59 pm and will be kept in
+place until further notice based on direction from the PHO. They
+include:
 
 -   The variance allowing indoor religious gatherings and worship
     services between March 28 and May 13 is suspended
@@ -39,9 +40,12 @@ strengthening province-wide restrictions:
 -   Restaurants, pubs and bars are [closed for
     indoor dining]. Outdoor patio seating and
     take-out or delivery is allowed
--   Whistler Blackcomb ski resort is [closed]
+-   Whistler Blackcomb ski resort is closed
 -   Workplaces with a COVID-19 exposure may be ordered to [close for a
     minimum of 10 days]
+
+**Avoid all non-essential travel.** Review the [current travel
+advisory.]
 
 ### Safety recommendations 
 
@@ -489,8 +493,8 @@ a COVID-19 Safety Plan that is strictly followed.
 
 ### Sports 
 
-The order places restrictions on adult and youth indoor and outdoor team
-sports. 
+The order places restrictions on adult and youth indoor and outdoor
+group sports. 
 
 [Expand All]()[ \| ][Collapse
 All]()
@@ -499,9 +503,10 @@ All]()
 
 [High performance athletes]()
 
-High performance athletes can train, travel and compete together. They
-must follow the COVID-19 safety protocols of the provincial or national
-sports organization they are affiliated with.
+High performance athletes already training in B.C. as of November 19,
+2020 can train, travel and compete together. They must follow the
+COVID-19 safety protocols of the provincial or national sports
+organization they are affiliated with.
 
 To qualify as a high-performance athlete, you must be identified by the
 Canadian Sports Institute Pacific as a high-performance athlete
@@ -521,8 +526,8 @@ aid to a player.
 
 Travel for sport
 
-Travel to, from and between communities for athletic activities like
-games, competitions, training and practice is prohibited. This includes:
+Travel for athletic activities like games, competitions, training and
+practice is prohibited. This includes:
 
 -   A hockey player travelling from Vernon to Penticton to participate
     on their spring hockey team
@@ -531,9 +536,9 @@ games, competitions, training and practice is prohibited. This includes:
 -   A dancer travelling from Langley to Whistler to participate in a
     virtual competition
 
-Athletes can travel to their home club if their home club is outside of
-their immediate community. That club needs to be close to the
-athletes\' residence, like a neighbouring community. For example:
+Participants can travel to their home club if their home club is outside
+of their immediate community. That club needs to be close to a
+participant\'s residence, like a neighbouring community. For example:
 
 -   A skier part of the local ski club travelling to their local
     mountain, which may be in a neighbouring community
@@ -544,10 +549,12 @@ athletes\' residence, like a neighbouring community. For example:
 
  
 
-#### Adult indoor and outdoor team sports 
+#### Adult indoor and outdoor group sports 
 
-Indoor and outdoor organized team sports for people 22 years of age and
-older are prohibited. These include:
+Group sports are activities involving more than one person. This
+includes training and practice for an individual or team sport. Games,
+tournaments and competitions for indoor and outdoor group sports for
+people 22 years of age and older are prohibited. These include:
 
 -   Basketball
 -   Cheerleading
@@ -557,8 +564,8 @@ older are prohibited. These include:
 -   Road hockey
 -   Ice hockey
 -   Ringette
+-   Martial arts and other combat sports
 
--   Martial arts
 -   Netball
 -   Team skating
 -   Soccer
@@ -566,40 +573,39 @@ older are prohibited. These include:
 -   Indoor bowling
 -   Lawn bowling
 -   Curling
-
 -   Lacrosse
 -   Hockey
 -   Ultimate
+
 -   Rugby 
 -   Football
 -   Baseball
 -   Softball
+-   Tennis
+-   Golf
+-   Pickleball
+-   Cricket
+-   Group cycling
 
-While restrictions are currently in place related to adult team sports,
+While restrictions are currently in place related to adult group sports,
 some indoor and outdoor sports and activities, including drills and
-training activities, are permitted with a reduced number of
-participants:
+training activities, are permitted with modifications and a reduced
+number of participants:
 
 -   2 people may engage in indoor sports with one another
 -   10 people may engage in outdoor sports with one another
 
-In both cases, participants must maintain a distance of 3 metres from
-one another unless everyone lives in the same private residence.
+Participants must maintain a distance of 3 metres from one another
+unless everyone lives in the same private residence.
 
 #### Youth indoor and outdoor team sports 
 
 All organized indoor and outdoor sports for people 21 years of age and
-younger should follow [viaSport\'s Return to Sport Phase 2
-guidance] with
-respect to maintaining physical distance for participants. This means
-games, tournaments and competitions are temporarily suspended for teams.
-
--   Individual drills and modified training activities can continue
--   Amateur sports organizations and leagues may implement additional
-    guidelines to ensure the health and safety of participants
-
-All indoor and outdoor team sports for people 22 years of age and older
-are suspended.
+younger are limited to training and practice where all participants
+maintain 3 metres of physical distance from one another. This means
+games, tournaments and competitions are temporarily suspended. Amateur
+sports organizations and leagues may implement additional guidelines to
+ensure the health and safety of participants.
 
 ------------------------------------------------------------------------
 
@@ -700,64 +706,6 @@ It is strongly recommended that masks be worn in the following areas:
     -   Kitchens
     -   Hallways
     -   Break rooms
-
-------------------------------------------------------------------------
-
-Travel advisory 
---------------------------
-
-
-At this time, all non-essential travel should be avoided. This includes
-travel into and out of B.C. and between regions of the province. For
-example:
-
--   Do not travel for a vacation
--   Do not travel to visit friends or family outside of your household
-    or core bubble
-
-### Travel for essential reasons 
-
-Individual circumstances may affect whether a trip is considered
-essential or non-essential. Essential travel within B.C. includes:
-
--   Regular travel for work within your region
--   Travel for things like medical appointments and hospital visits
-
-For example, if you live in Vancouver and work in Surrey you can
-continue to commute. 
-
-If you need to travel for essential reasons, take
-the same health and safety precautions you do at home.
-
--   Wash your hands often
--   Practice safe distancing, 2 m
--   Travel only with yourself, household or core bubble
--   Stick to the outdoors whenever possible
--   Clean spaces often
--   Wear a mask in indoor spaces
-
-#### First Nations communities 
-
-Many First Nations have declared a state of emergency for their
-communities and enacted COVID-19 community protection by-laws including
-travel bans for non-residents and non-essential visitors. It is
-important to respect these restrictions in addition to the province-wide
-travel advisory. 
-
-### Whistler Blackcomb closure 
-
-The Whistler Blackcomb ski resort is closed until April 19 at 11:59 pm.
-
-### Coming from outside of B.C. 
-
-At this time, people travelling to B.C. from another province or
-territory within Canada should only come for essential reasons. If you
-do travel, you are expected to follow the same travel guidelines as
-everyone else in B.C.
-
--   Review [B.C. travel
-    information]
-
 
 ------------------------------------------------------------------------
 

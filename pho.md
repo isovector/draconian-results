@@ -19,14 +19,14 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **October 15, 2021**
+Last updated: **October 19, 2021**
 
 **On this page:**
 
 -   [Regional restrictions by health authority]
 -   [PHO order on masks in public indoor settings]
 -   [PHO order on gatherings and events]
--   [PHO order on restaurants and bars]
+-   [PHO order on restaurants, pubs and bars]
 -   [Guidance for visiting long-term care or seniors\' assisted living
     facilities]
 -   [Enforcement]
@@ -389,12 +389,10 @@ are fully implemented. 
 PHO order on gatherings and events 
 ------------------------------------------------
 
-This content is a summary of the [PHO order -- Gatherings and
-Events (PDF,
-417KB)] document.
-It is not legal advice and does not provide an interpretation of the
-law. In the event of any conflict or difference between this webpage and
-the order, the order is correct and legal and must be followed. 
+This content is a summary of the verbal PHO order on gatherings and
+events. It is not legal advice and does not provide an interpretation of
+the law. In the event of any conflict or difference between this webpage
+and the order, the order is correct and legal and must be followed. 
 
 ### Personal gatherings 
 
@@ -410,6 +408,13 @@ organized gathering include wedding ceremonies or funerals. 
 Indoor organized seated gatherings can have a capacity of 50 people or
 50% capacity, whichever is greater. For example, if the venue has a
 normal seated capacity of 500 people, 250 people can attend. 
+
+Venues where [proof of
+vaccination]
+is required can return to full capacity from October 25, unless
+[additional regional restrictions] are in place.
+
+Dancing is not permitted.
 
 #### Outdoor organized gatherings 
 
@@ -498,7 +503,9 @@ seated capacity of 30,000 people, 15,000 spectators can attend. 
 
 Indoor sport activities can have 50 spectators or 50% seated capacity,
 whichever is greater. For example, if the venue has a normal seated
-capacity of 500 people, 250 spectators can attend. 
+capacity of 500 people, 250 spectators can attend. Venues can return to
+full capacity from October 25, unless [additional regional
+restrictions] are in place.
 
 #### Travel for sport 
 
@@ -510,22 +517,22 @@ Interior is discouraged unless you are fully vaccinated.
 PHO order on restaurants, pubs and bars 
 ------------------------------------------------------------
 
-This content is a summary of the [PHO order --- Food and Liquor Serving
-Premises (PDF,
-402KB)] document.
-It is not legal advice and does not provide an interpretation of the
-law. In the event of any conflict or difference between this webpage and
-the order, the order is correct and legal and must be followed. 
+This content is a summary of the verbal PHO order on food and liquor
+serving premises. It is not legal advice and does not provide an
+interpretation of the law. In the event of any conflict or difference
+between this webpage and the order, the order is correct and legal and
+must be followed. 
 
 Businesses will transition from a COVID-19 Safety Plan to a communicable
 disease plan.
 
 ### Restaurants, pubs, bars and nightclubs 
 
-There are no group limits for indoor and outdoor dining.
+There are no group limits for indoor and outdoor dining. The requirement
+to stay seated will be lifted from October 25, unless [additional
+regional restrictions] are in place.
 
 -   Venues can determine their own table limits
--   No socializing between tables
 -   No dancing
 -   Liquor service hours return to normal
 

@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 28, 2022**
+Last updated: **February 1, 2022**
 
 **On this page:**
 
@@ -171,8 +171,11 @@ liquor serving premises].
 
 Fairs, festivals and trade shows
 
-Fairs, festivals and trade shows are limited to 50% capacity with a
-COVID-19 safety plan.
+There are no capacity restrictions for outdoor fairs, festivals and
+trade shows.
+
+Indoor fairs, festivals and trade shows are limited to 50% capacity with
+a COVID-19 safety plan.
 
  
 
@@ -290,8 +293,8 @@ association\'s COVID-19 safety protocols.
 
 #### Child and youth sport tournaments 
 
-**Starting February 1,** all child and youth sport tournaments are
-allowed for people 21 years or younger. Tournament requirements include:
+All child and youth sport tournaments are allowed for people 21 years or
+younger. Tournament requirements include:
 
 -   [Masks required indoors] when not actively participating in
     a sport

@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 20, 2022**
+Last updated: **January 21, 2022**
 
 **On this page:**
 
@@ -21,7 +21,6 @@ Last updated: **January 20, 2022**
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants, pubs, bars and
     nightclubs]
--   [Regional restrictions by health authority]
 -   [Guidance for visiting long-term care or seniors\' assisted living
     facilities]
 -   [Enforcement]
@@ -322,93 +321,6 @@ requirements and other rules:
 
 Restaurants, cafes and pubs must scan [proof of vaccination QR codes for
 entry].
-
-------------------------------------------------------------------------
-
-Regional restrictions by health authority 
-------------------------------------------------------
-
-Some health authorities have restrictions for regions with lower
-vaccination rates. Orders are made by a region\'s Medical Health
-Officer. **Follow regional restrictions in addition to the province-wide
-restrictions.**
-
- 
-
-[Regional restrictions in Northern Health]()
-
-Northern Health has restrictions in place for all communities.
-
-### Personal gatherings 
-
-All people ages 12 and older must be fully vaccinated.
-
--   Indoor personal gatherings are limited to your household occupants
-    plus up to 10 visitors or one other household
--   Outdoor gatherings are limited to your household occupants, plus up
-    to 25 people
-
-People who are not fully vaccinated can only gather with their own
-household.
-
-### Organized gatherings 
-
-Indoor seated events are limited to 50% capacity. All people aged 12 and
-older must be fully vaccinated and show [proof of
-vaccination]. Masks
-are required.
-
-Outdoor events with more than 25 people are limited to 50% capacity.
-
-### Faith gatherings 
-
-Worship services and choirs are limited to 50% seated capacity. All
-people aged 12 and older must be fully vaccinated. Masks are required.
-
-People do not need to be fully vaccinated to attend virtual or drive-in
-services.
-
-### Restaurants, bars and nightclubs 
-
-Masks are required when not seated at a table.
-
-Fast food restaurants and unlicensed cafés without table service can
-either:
-
--   Provide take-out service only
--   Require all patrons to show proof of vaccination
-
-Licensed establishments, establishments that offer table service, and
-liquor manufacturing facilities with tasting rooms without full meal
-service:
-
--   Cannot serve alcohol between 10 pm and 9 am
--   Must require all patrons to show proof of vaccination
-
-Bars and nightclubs that do not offer full meal service must close.
-
-### Sports 
-
-Indoor and outdoor sporting events are limited to 50% spectator
-capacity and must have a COVID-19 safety plan. All spectators aged 5 and
-older must wear a mask, and all spectators aged 12 and older must show
-proof of full vaccination. 
-
-All participants aged 22 and older must be fully vaccinated.
-
-### Travel 
-
-Non-essential travel outside your community is strongly discouraged.
-
-------------------------------------------------------------------------
-
--   [Review full details on the Northern Health
-    website]
--   [Gatherings and Events COVID-19 Order for Northern Health
-    Authority -- December 24, 2021 (PDF,
-    185KB)]
--   [Map of the Northern Health region (PDF,
-    1.3MB)]
 
 ------------------------------------------------------------------------
 

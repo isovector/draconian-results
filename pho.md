@@ -2,41 +2,366 @@
 Provincial and regional restrictions
 ====================================
 
-Travelling soon? [Get your federal COVID-19 proof of
-vaccination].
-
 
 !
 
-Some provincial restrictions remain in place to help stop the spread of
+Provincial restrictions are in place to help stop the spread of
 COVID-19. The restrictions are made by the Provincial Health Officer
-(PHO) under the Public Health Act. Regional restrictions may be in place
-for health authorities with lower vaccination rates.
+(PHO) under the Public Health Act.
 
 English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **December 9, 2021**
+Last updated: **December 17, 2021**
 
 **On this page:**
 
--   [Regional restrictions by health authority]
+-   [New province-wide restrictions starting December 20]
 -   [PHO order on masks in public indoor settings]
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants, pubs and bars]
+-   [Regional restrictions by health authority]
 -   [Guidance for visiting long-term care or seniors\' assisted living
     facilities]
 -   [Enforcement]
 
 ------------------------------------------------------------------------
 
+New province-wide restrictions starting December 20 
+-----------------------------------------------------------
+
+To help keep B.C. safe, the PHO has introduced province-wide
+restrictions. They will be in effect December 20, 2021 to January 31,
+2022.
+
+### New Year\'s Eve parties 
+
+[New Year\'s Eve parties are not allowed]. Events held on
+December 31 must be seated events. Standing, mingling or dancing is not
+permitted.
+
+### Getting together indoors 
+
+[Indoor personal gatherings] are limited to your household
+plus 10 visitors or 1 other household. Everyone 12 + must be fully
+vaccinated.
+
+### Organized events 
+
+[Organized events] require proof of being fully
+vaccinated to attend. Everyone must wear a mask. 
+
+
+------------------------------------------------------------------------
+
+### Going to a restaurant or pub 
+
+Customers must remain seated and cannot move between or visit other
+tables [at restaurants and pubs]. 
+
+Masks are required when not seated at a table.
+
+```{=html}
+<!-- -->
+```
+
+
+------------------------------------------------------------------------
+
+### Sports tournaments 
+
+[All sports tournaments] and related travel are not
+allowed.
+
+
+------------------------------------------------------------------------
+
+### Large events 
+
+[Large events] with capacity for 1,000 or more people can
+only use 50% seated capacity.
+
+```{=html}
+<!-- -->
+```
+
+### Restrictions that have not changed 
+
+Restrictions, guidance and requirements stay the same for:
+
+-   [Wearing masks]
+-   [Worship services]
+-   [Fairs, festivals and trade shows]
+-   [Workplaces]
+-   [Exercise]
+-   [Regional restrictions]
+
+### Safety recommendations 
+
+In addition to the orders, the PHO strongly recommends:
+
+-   Keep gatherings small and only with those you know are fully
+    vaccinated
+-   Outdoor gatherings are safer than indoor
+-   Reduce social interactions
+-   Ensure proper ventilation indoors by opening windows
+-   Avoid all travel, if you\'re not fully vaccinated
+-   Follow the [current federal travel
+    advisory]
+-   Stay home if you feel sick
+
+------------------------------------------------------------------------
+
+PHO order on masks in public indoor settings 
+------------------------------------------------------
+
+This content is a summary of the [PHO order --- Face Coverings (PDF,
+440KB)]
+document. It is not legal advice and does not provide an interpretation
+of the law. In the event of any conflict or difference between this
+webpage and the order, the order is correct and legal and must be
+followed. 
+
+Masks are required in all public indoor settings for all people born in
+2016 or earlier (5+). 
+
+This includes:
+
+-   Malls and shopping centres
+-   Grocery and liquor stores
+-   Airports
+-   Coffee shops
+-   On public transportation, in a taxi or ride-sharing vehicle
+-   Libraries
+-   Clothing and retail stores
+-   [Places of worship, including congregants and
+    choirs]
+
+-   Areas of office buildings where services to the public are provided
+-   Common areas of sport and fitness centres when not engaged in
+    physical activity
+-   Common areas of post-secondary institutions and non-profit
+    organizations
+-   Inside schools, including all K to 12 students and staff
+
+-   Drug stores
+-   Community centres
+-   Recreation centres
+-   City Halls
+-   Restaurants, pubs and bars when not seated at a table
+-   Events happening under the [Gatherings and Events order]
+
+There are exemptions for:
+
+-   People with health conditions or with physical, cognitive or mental
+    impairments who cannot wear one
+-   People who cannot remove a mask on their own
+-   Children under the age of 5
+-   People who need to remove their masks to communicate due to another
+    person\'s hearing impairment
+
+A face shield is not a substitute for a mask as it has an opening below
+the mouth. 
+
+-   [Review Health Canada guidance on
+    masks]
+
+------------------------------------------------------------------------
+
+PHO order on gatherings and events 
+------------------------------------------------
+
+This content is a summary of the verbal PHO order on gatherings and
+events. It is not legal advice and does not provide an interpretation of
+the law. In the event of any conflict or difference between this webpage
+and the order, the order is correct and legal and must be followed. 
+
+### New Year\'s Eve parties 
+
+New Year\'s parties are not allowed. Events held on December 31 must be
+seated events. Standing, mingling or dancing is not permitted. These
+events must also follow restrictions for [organized
+gatherings].
+
+### Personal gatherings 
+
+Indoor personal gatherings at your home or vacation accommodation are
+limited to your household plus 10 visitors or 1 other
+household. Everyone 12+ must be [fully
+vaccinated].
+
+There are no restrictions for outdoor personal gatherings.
+
+### Organized gatherings 
+
+[Proof of
+vaccination]
+is required for all organized events of all sizes. Everyone must be
+fully vaccinated to attend. Businesses must scan proof of vaccination QR
+codes for entry.
+
+Organized gatherings have capacity restrictions. Examples of an
+organized gathering include wedding ceremonies or funeral receptions. 
+
+#### Indoor organized gatherings 
+
+Dancing is not permitted. [Masks are required indoors].
+
+Indoor organized gatherings with capacity for 1,000 people or more can
+only use 50% capacity.
+
+If more than 50 people are attending, all spectators must be seated at:
+
+-   Concerts, theatre, dance and symphony performances
+-   Weddings and funeral receptions (outside of a funeral home)
+-   Lectures, presentations and workshops
+-   Sponsored and ticketed parties
+
+You do not need to remain seated at:
+
+-   Conventions and trade shows
+-   Conferences (except during lectures, presentations and workshops)
+-   Recreational classes and activities like art classes and choir
+    rehearsals
+
+Private social events in workplaces are not subject to these
+restrictions.
+
+#### Outdoor organized gatherings 
+
+Outdoor organized seated gatherings with capacity for 1,000 people or
+more can only have 50% seated capacity. [Proof of
+vaccination]
+is required.
+
+### Organized gatherings by sector 
+
+[Expand All]()[ \| ][Collapse
+All]()
+
+ 
+
+Fairs, festivals and trade shows
+
+Fairs, festivals and trade shows can return to normal operations with a
+communicable disease plan. 
+
+ 
+
+Worship services
+
+If all participants are vaccinated as determined by the worship service
+leader, there are no capacity restrictions on worship services and
+choirs.
+
+If participants are not all vaccinated, worship services and choirs are
+limited to 50% seated capacity.
+
+------------------------------------------------------------------------
+
+Masks are required but can be temporarily removed for ceremonial eating
+and drinking, and by officiants, readers or for singing a solo where
+physical distancing is observed.
+
+ 
+
+[Workplaces]()
+
+A workplace that has workers testing positive for COVID-19 and public
+health confirming transmission has occurred in the work environment
+may be ordered to close for a minimum of 10 days.
+
+-   Review the [PHO Delegation: Workplace Closures (PDF,
+    319KB)]
+
+For larger workplaces, the closure may be restricted to the locations
+where transmission has occurred.
+
+Exceptions will be made for workplaces like:
+
+-   Courthouses, police stations and fire halls
+-   Healthcare facilities, schools, shelters
+-   Ferry system and public transportation
+-   Distribution hubs of necessary goods such as food and medicine
+
+------------------------------------------------------------------------
+
+Workplaces will transition from a COVID-19 Safety Plan to a communicable
+disease plan. Additional safety precautions are required in higher risk
+workplaces. 
+
+-   [Review communicable disease prevention guidance from
+    WorkSafeBC]
+
+### Exercise 
+
+#### Indoor high intensity and low intensity group exercise 
+
+Indoor high intensity and low intensity group exercise is allowed with
+normal capacity. 
+
+#### Gyms, pools and recreation facilities 
+
+Gyms, pools and recreation facilities can operate with normal capacity.
+
+### Sports 
+
+#### Adult and youth outdoor and indoor group and team sports  
+
+All sports tournaments and related travel are not allowed.
+
+Non-employee supervisors, coaches and assistants of indoor sports and
+group activities for people 21 years or younger must be fully
+vaccinated.
+
+#### Spectators 
+
+Indoor and outdoor sport activities with capacity for 1,000 spectators
+or more can only have 50% seated capacity. All spectators must have a
+seat. [Proof of
+vaccination]
+is required for all spectators at indoor sporting events.
+
+------------------------------------------------------------------------
+
+PHO order on restaurants, pubs and bars 
+------------------------------------------------------------
+
+This content is a summary of the verbal PHO order on food and liquor
+service premises. It is not legal advice and does not provide an
+interpretation of the law. In the event of any conflict or difference
+between this webpage and the order, the order is correct and legal and
+must be followed. 
+
+Businesses will transition from a COVID-19 Safety Plan to a communicable
+disease plan.
+
+### Restaurants, pubs, bars and nightclubs 
+
+There are no group limits for indoor and outdoor dining. You can dine at
+a restaurant or pub for New Year\'s Eve.
+
+-   Customers must remain seated and cannot move between or visit other
+    tables
+-   Venues can determine their own table limits
+-   No dancing
+-   Normal liquor service hours
+-   [Masks are required] when not seated at a table
+
+### Casinos 
+
+Casinos can operate at full seated capacity, including gaming positions.
+
+------------------------------------------------------------------------
+
 Regional restrictions by health authority 
 ------------------------------------------------------
 
-Some health authorities have additional restrictions in place for
-regions with lower vaccination rates. Orders are made by a region\'s
-Medical Health Officer.
+Some health authorities have restrictions for regions with lower
+vaccination rates. Orders are made by a region\'s Medical Health
+Officer. **If regional restrictions are different, follow the
+province-wide restrictions.**
 
 ### Fraser Health 
 
@@ -200,246 +525,6 @@ Non-essential travel outside your community is strongly discouraged.
 
 ------------------------------------------------------------------------
 
-PHO order on masks in public indoor settings 
-------------------------------------------------------
-
-This content is a summary of the [PHO order --- Face Coverings (PDF,
-440KB)]
-document. It is not legal advice and does not provide an interpretation
-of the law. In the event of any conflict or difference between this
-webpage and the order, the order is correct and legal and must be
-followed. 
-
-Masks are required in all public indoor settings for all people born in
-2016 or earlier (5+). 
-
-This includes:
-
--   Malls, shopping centres
--   Grocery and liquor stores
--   Airports
--   Coffee shops
--   On public transportation, in a taxi or ride-sharing vehicle
--   Libraries
--   Clothing and retail stores
--   [Places of worship, including congregants and
-    choirs]
-
--   Areas of office buildings where services to the public are provided
--   Common areas of sport and fitness centres when not engaged in
-    physical activity
--   Common areas of post-secondary institutions and non-profit
-    organizations
--   Inside schools, including all K to 12 students and staff
-
--   Drug stores
--   Community centres
--   Recreation centres
--   City Halls
--   Restaurants, pubs and bars when not seated at a table
--   Events happening under the [Gatherings and Events order]
-
-There are exemptions for:
-
--   People with health conditions or with physical, cognitive or mental
-    impairments who cannot wear one
--   People who cannot remove a mask on their own
--   Children under the age of 5
--   People who need to remove their masks to communicate due to another
-    person\'s hearing impairment
-
-A face shield is not a substitute for a mask as it has an opening below
-the mouth. 
-
--   [Review Health Canada guidance on
-    masks]
-
-------------------------------------------------------------------------
-
-PHO order on gatherings and events 
-------------------------------------------------
-
-This content is a summary of the [PHO order -- Gatherings and Events
-(PDF,
-480KB)]
-document. It is not legal advice and does not provide an interpretation
-of the law. In the event of any conflict or difference between this
-webpage and the order, the order is correct and legal and must be
-followed. 
-
-### Personal gatherings 
-
-There are no capacity restrictions on indoor or outdoor personal
-gatherings.
-
-### Organized gatherings 
-
-Organized gatherings have some capacity restrictions. Examples of an
-organized gathering include wedding ceremonies or funeral receptions. 
-
-#### Indoor organized gatherings 
-
-There are no capacity restrictions on indoor organized gatherings.
-[Proof of
-vaccination]
-is required for organized gatherings with more than 50 people. Dancing
-is not permitted. [Masks are required indoors].
-
-If more than 50 people are attending, all spectators must be seated at:
-
--   Concerts, theatre, dance and symphony performances
--   Weddings and funeral receptions (outside of a funeral home)
--   Lectures, presentations and workshops
--   Sponsored and ticketed parties
-
-You do not need to remain seated at:
-
--   Conventions and trade shows
--   Conferences (except during lectures, presentations and workshops)
--   Recreational classes and activities like art classes and choir
-    rehearsals
-
-Private social events in workplaces are not subject to these
-restrictions.
-
-#### Outdoor organized gatherings 
-
-Outdoor organized seated gatherings can have a capacity of 5,000 people
-or 50% capacity, whichever is greater. For example, if the venue has a
-normal seated capacity of 30,000 people, 15,000 people can attend. 
-
-### Organized gatherings by sector 
-
-[Expand All]()[ \| ][Collapse
-All]()
-
- 
-
-Fairs, festivals and trade shows
-
-Fairs, festivals and trade shows can return to normal operations with a
-communicable disease plan. 
-
- 
-
-Worship services
-
-If all participants are vaccinated as determined by the worship service
-leader, there are no capacity restrictions on worship services and
-choirs.
-
-If participants are not all vaccinated, worship services and choirs are
-limited to 50% seated capacity.
-
-------------------------------------------------------------------------
-
-Masks are required but can be temporarily removed for ceremonial eating
-and drinking, and by officiants, readers or for singing a solo where
-physical distancing is observed.
-
- 
-
-[Workplaces]()
-
-A workplace that has workers testing positive for COVID-19 and public
-health confirming transmission has occurred in the work environment
-may be ordered to close for a minimum of 10 days.
-
--   Review the [PHO Delegation: Workplace Closures (PDF,
-    319KB)]
-
-For larger workplaces, the closure may be restricted to the locations
-where transmission has occurred.
-
-Exceptions will be made for workplaces like:
-
--   Courthouses, police stations and fire halls
--   Healthcare facilities, schools, shelters
--   Ferry system and public transportation
--   Distribution hubs of necessary goods such as food and medicine
-
-------------------------------------------------------------------------
-
-Workplaces will transition from a COVID-19 Safety Plan to a communicable
-disease plan. Additional safety precautions are required in higher risk
-workplaces. 
-
--   [Review communicable disease prevention guidance from
-    WorkSafeBC]
-
-### Exercise 
-
-#### Indoor high intensity and low intensity group exercise 
-
-Indoor high intensity and low intensity group exercise is allowed with
-normal capacity. 
-
-#### Gyms, pools and recreation facilities 
-
-Gyms, pools and recreation facilities can operate with normal capacity.
-
-### Sports 
-
-#### Adult and youth outdoor and indoor group and team sports  
-
-All outdoor and indoor group sports for adults and youth are allowed.
-This includes:
-
--   Games
--   Competitions
--   Practices
-
-Non-employee supervisors, coaches and assistants of indoor sports and
-group activities for people 21 years or younger must be fully
-vaccinated.
-
-#### Spectators 
-
-Outdoor sport activities can have 5,000 spectators or 50% seated
-capacity, whichever is greater. For example, if the venue has a normal
-seated capacity of 30,000 people, 15,000 spectators can attend. Seats
-must be provided for everyone.
-
-There are no capacity restrictions on indoor sport activities. All
-spectators must have a seat. [Proof of
-vaccination]
-is required for all spectators at indoor sporting events.
-
-#### Travel for sport 
-
-Travel for sport is allowed.
-
-------------------------------------------------------------------------
-
-PHO order on restaurants, pubs and bars 
-------------------------------------------------------------
-
-This content is a summary of the [PHO order --- Food and Liquor Serving
-Premises (PDF,
-402KB)]
-document. It is not legal advice and does not provide an interpretation
-of the law. In the event of any conflict or difference between this
-webpage and the order, the order is correct and legal and must be
-followed. 
-
-Businesses will transition from a COVID-19 Safety Plan to a communicable
-disease plan.
-
-### Restaurants, pubs, bars and nightclubs 
-
-There are no group limits for indoor and outdoor dining. 
-
--   Venues can determine their own table limits
--   No dancing
--   Normal liquor service hours
--   [Masks are required] when not seated at a table
-
-### Casinos 
-
-Casinos can operate at full seated capacity, including gaming positions.
-
-------------------------------------------------------------------------
-
 Guidance for visiting long-term care or seniors\' assisted living facilities 
 -----------------------------------------------------------------------------------------------
 
@@ -494,21 +579,4 @@ can make orders as needed. You must follow the orders. Some orders
 can be enforced by police or other compliance and enforcement officials.
 [People who don\'t follow these orders could be
 fined].
-
-COVID-19 response 
------------------
-
-
-[!]
-
-Information for residents of B.C. about COVID-19, including:
-
--   Vaccines
--   Benefits and supports
--   PHO orders and guidelines
-
-[Get COVID-19
-information]{.btn
-.btn-primary}
-
 

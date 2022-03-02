@@ -2,8 +2,8 @@
 Province-wide restrictions
 ==========================
 
-Starting February 16 at 11:59 pm, [many restrictions will be
-eased]. 
+Many restrictions have been eased. Safety measures like wearing a
+mask and proof of vaccination are still in place.
 
 
 !
@@ -15,11 +15,10 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **February 15, 2022**
+Last updated: **February 17, 2022**
 
 **On this page:**
 
--   [Easing restrictions]
 -   [PHO order on masks in public indoor settings]
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants, pubs, bars and
@@ -27,50 +26,6 @@ Last updated: **February 15, 2022**
 -   [Guidance for visiting long-term care or seniors\' assisted living
     facilities]
 -   [Enforcement]
-
-```{=html}
-<!-- -->
-```
-
-------------------------------------------------------------------------
-
-Easing restrictions 
--------------------------------
-
-### Restrictions and safety measures that aren\'t changing 
-
-Restrictions and safety measures that remain in place will be
-reviewed in March and April 2022.
-
--   Masks required in all indoor public settings
--   [Showing proof of
-    vaccination] to
-    access many businesses, events and services
--   Businesses must have a COVID-19 safety plan
--   Restrictions on visitors to long-term care and assisted living
-    facilities
--   Restrictions on worship services
--   Restrictions on child and youth overnight camps
--   K to 12 and child care safety guidelines
-
-### Restrictions that are changing 
-
-**Starting February 16 at 11:59 pm**, many restrictions will be
-eased. With proof of vaccination and masks, these activities can return
-to normal.
-
--   No restrictions on indoor and outdoor personal gatherings
--   Full capacity allowed for:
-    -   Indoor and outdoor organized events
-    -   Indoor events at venues
-    -   Exercise and fitness, adult sports activities, tournaments and
-        swimming pools
--   Full capacity and fewer restrictions in restaurants, bars, pubs and
-    nightclubs:
-    -   No limits on table size
-    -   Normal liquor service hours
-    -   Customers don\'t have to remain seated
--   Dancing is allowed when wearing a mask indoors
 
 ------------------------------------------------------------------------
 
@@ -135,7 +90,7 @@ PHO order on gatherings and events
 
 This content is a summary of the [PHO order --- Gatherings and
 Events (PDF,
-571KB)]
+522KB)]
 document. It is not legal advice and does not provide an interpretation
 of the law. In the event of any conflict or difference between this
 webpage and the order, the order is correct and legal and must be
@@ -143,175 +98,61 @@ followed. 
 
 ### Personal gatherings 
 
-#### Indoor personal gatherings 
+There are no restrictions on indoor or outdoor personal gatherings.
 
-Indoor personal gatherings at your home or vacation accommodation are
-limited to your household plus 10 visitors or 1 other household. 
+### Organized gatherings and events 
 
-Everyone 12+ must be [fully
-vaccinated].
+Indoor or outdoor gatherings and events can happen at full capacity.
+Dancing is allowed.
 
-#### Outdoor personal gatherings 
+-   [Proof of
+    vaccination] required
+    for entry (12+)
+-   [Masks required] at indoor events, including when dancing
 
-There are no restrictions for outdoor personal gatherings.
+#### Worship services 
 
-It\'s encouraged to keep personal gatherings as small as possible and
-stick to the same group of people.
-
-### Organized gatherings 
-
-####  
-
-#### Indoor organized gatherings 
-
-Indoor organized gatherings of any size are not allowed.
-Examples include:
-
--   Sponsored or ticketed parties, celebrations
--   Wedding and funeral receptions
-
-####  
-
-#### Outdoor organized gatherings 
-
-Outdoor organized seated gatherings can have a capacity of 5,000 people
-or 50% capacity, whichever is greater.
-
-For example, if the venue has a normal seated capacity of 30,000 people,
-15,000 people can attend. 
-
-### Indoor events at venues 
-
-Indoor events at venues can only have 50% capacity, no matter the size.
-Examples of indoor events at venues include:
-
--   Concerts, theatre, dance and symphony performances
--   Sports events and movies
--   Lectures, presentations and workshops
--   Sponsored and ticketed events
-
-Everyone must be fully vaccinated to attend.
-
--   Venues must scan [proof of vaccination QR codes for
-    entry]
--   [Everyone must wear a mask indoors]
--   Dancing is not permitted. All spectators must be seated
-
-### Organized gatherings by sector 
-
-[Expand All]()[ \| ][Collapse
-All]()
-
- 
-
-[Casinos]()
-
-Casinos can operate at 50% seated capacity, including gaming positions.
-Food and liquor services at casinos must follow the [rules for food and
-liquor serving premises].
-
- 
-
-Fairs, festivals and trade shows
-
-There are no capacity restrictions for outdoor fairs, festivals and
-trade shows.
-
-Indoor fairs, festivals and trade shows are limited to 50% capacity with
-a COVID-19 safety plan.
-
- 
-
-Worship services
-
-If all participants are vaccinated as determined by the worship service
-leader, there are no capacity restrictions on worship services and
-choirs.
-
-If participants are not all vaccinated, worship services and choirs are
-limited to 50% seated capacity.
-
-------------------------------------------------------------------------
+-   If all participants are vaccinated as determined by the worship
+    service leader, there are no capacity restrictions on worship
+    services and choirs
+-   If participants are not all vaccinated, worship services and
+    choirs are limited to 50% seated capacity
 
 Masks are required but can be temporarily removed for ceremonial eating
 and drinking, and by officiants, readers or for singing a solo where
 physical distancing is observed.
 
- 
-
-[Workplaces]()
-
-A workplace that has workers testing positive for COVID-19 and public
-health confirming transmission has occurred in the work environment
-may be ordered to close for a minimum of 10 days.
-
--   Review the [PHO Delegation: Workplace Closures (PDF,
-    319KB)]
-
-For larger workplaces, the closure may be restricted to the locations
-where transmission has occurred.
-
-Exceptions will be made for workplaces like:
-
--   Courthouses, police stations and fire halls
--   Healthcare facilities, schools, shelters
--   Ferry system and public transportation
--   Distribution hubs of necessary goods such as food and medicine
-
-------------------------------------------------------------------------
-
-Additional safety precautions are required in higher risk workplaces. 
-
--   [Review COVID-19 prevention guidance from
-    WorkSafeBC]
-
- 
-
 ### Exercise and fitness 
 
-Adult indoor individual, group fitness or exercise activities and adult
-dance classes and activities are allowed with increased safety protocols
-and capacity limits, including:
+Full capacity is allowed for exercise and fitness activities, including:
 
--   Capacity based on 7 square metres of floor space per person for both
-    individual and group fitness and exercise classes
-    -   In addition to floor space, all group fitness and exercise
-        classes have a capacity limit of 25 people
--   Masks worn at all times, except when actively exercising. We
-    strongly encourage people wear a mask even when exercising
--   Pre-bookings for drop-in individual fitness where operationally
-    possible
--   Scanning [proof of vaccination QR codes for
-    entry]
+-   Adult indoor individual, group fitness or exercise activities
+-   Adult dance classes and activities
+-   Exercise and fitness programs for children and youth
 
-Programs specifically for children and youth are allowed. 
+Safety requirements for exercise and fitness activities include:
 
-Fitness and exercise facilities must follow [Indoor Exercise, Fitness,
-and Dance Class Facility COVID-19 Guidance -- January 19, 2022 (PDF,
-383KB)].
+-   [Proof of
+    vaccination] required
+    for entry (12+)
+-   Masks required at all times, except when actively exercising. We
+    strongly encourage people to wear a mask even when exercising
 
 #### Swimming pools 
 
-Swimming pools can operate at 50% capacity. Public swimming pools must
-scan [proof of vaccination QR codes for
-entry].
-Pools at hotels and apartments can stay open.
-
-Activities that take place in swimming pools are allowed. For example,
-aquafit, lane swim and group classes.
+Swimming pools can operate at full capacity.
 
 ### Sport activities 
 
-Sport activities that normally take place in a sport environment are
-allowed, including:
+All sport activities are allowed, including:
 
--   Participating in an adult indoor sport or recreation program as long
-    as it does not exceed 50% of the occupancy of the space
+-   Participating in an adult indoor sport or recreation program 
 -   Participating or competing in individual sports like skiing,
     swimming or skating
 -   Competing in regular league play for individual or team sport
+-   Adult and youth sport tournaments
 
-Other requirements for sport include:
+Safety requirements for sport activities include:
 
 -   [Masks required indoors] when not actively participating in
     a sport
@@ -322,32 +163,6 @@ Other requirements for sport include:
     and group activities for people 21 years or younger must be fully
     vaccinated
 
-### Sport tournaments 
-
-#### Child and youth sport tournaments 
-
-All child and youth sport tournaments are allowed for people 21 years or
-younger. Tournament requirements include:
-
--   [Masks required indoors] when not actively participating in
-    a sport
--   [Proof of
-    vaccination required] for
-    all spectators (12+) and all non-employee tournament support
-    people like parents, coaches and volunteers
--   50% spectator capacity
-
-#### Adult sport tournaments 
-
-Adult sport tournaments are not allowed. Tournaments are single or
-multi-day events where 3 or more teams compete against each other
-outside of regular league play. This restriction does not include:
-
--   A gathering where adult team members compete individually against
-    each other
--   A gathering where the result will decide if an adult team will
-    advance to play in a national or international competition
-
 ------------------------------------------------------------------------
 
 PHO order on restaurants, pubs, bars and nightclubs 
@@ -355,28 +170,27 @@ PHO order on restaurants, pubs, bars and nightclubs
 
 This content is a summary of the [PHO order --- Food and Liquor Serving
 Premises (PDF,
-481KB)]
+476KB)]
 document. It is not legal advice and does not provide an interpretation
 of the law. In the event of any conflict or difference between this
 webpage and the order, the order is correct and legal and must be
 followed. 
 
-Places that do not offer full meal service must close. This includes
-places like bars, nightclubs and lounges that do not serve meals.
+Restaurants, bars, pubs and nightclubs can operate at full capacity and
+have fewer restrictions:
 
-Indoor and outdoor dining is allowed when following physical distancing
-requirements and other rules:
-
--   A maximum of 6 people at a table
--   Two metres or physical barriers between tables
--   Customers must stay seated and cannot move between or visit other
-    tables
--   No dancing
 -   Normal liquor service hours
--   [Masks are required] when not seated at a table
+-   No limits on table size
+-   Customers don\'t have to remain seated
+-   Dancing is allowed
 
-Restaurants, cafes and pubs must scan [proof of vaccination QR codes for
-entry].
+Safety requirements include:
+
+-   [Masks required] when
+    not seated at a table and when dancing
+-   [Proof of
+    vaccination] required
+    for entry (12+)
 
 ------------------------------------------------------------------------
 

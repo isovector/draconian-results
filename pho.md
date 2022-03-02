@@ -17,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **November 17, 2021**
+Last updated: **December 1, 2021**
 
 **On this page:**
 
@@ -116,47 +116,9 @@ workplace\'s Communicable Disease Plan. 
 -   [Map of the Fraser East Health Service Delivery Area (PDF,
     2MB)]
 
-### Interior Health 
-
-Interior Health has restrictions in place for every community in their
-health authority.
-
- 
-
-Regional restrictions in Interior Health
-
-### Personal gatherings 
-
-Indoor personal gatherings are limited to your household plus 5 visitors
-or one other household.
-
-Gatherings in vacation rentals are limited to your household plus 5
-visitors or one other household.
-
-Outdoor personal gatherings (for example, birthday parties or backyard
-barbecues) are limited to no more than 50 people.
-
-------------------------------------------------------------------------
-
--   [Review full details on the Interior Health
-    website]
--   [Map of the Interior Health region (PDF,
-    1.4MB)]
-
 ### Northern Health 
 
-Northern Health has restrictions in place for all communities east
-of Gitwangak (Kitwanga). These restrictions do **not** apply to:
-
--   Haida Gwaii
--   Kitimat
--   Nisga\'a
--   Prince Rupert
-
--   Snow Country
--   Stikine
--   Telegraph Creek
--   Terrace
+Northern Health has restrictions in place for all communities.
 
  
 
@@ -166,12 +128,10 @@ of Gitwangak (Kitwanga). These restrictions do **not** apply to:
 
 All people ages 12 and older must be fully vaccinated.
 
--   Indoor personal gatherings are limited to your household plus up to
-    5 visitors or one other household
-    -   Everyone must wear a mask or practice 2 metre physical
-        distancing
--   Outdoor gatherings are limited to your household, plus up to 25
-    people
+-   Indoor personal gatherings are limited to your household occupants
+    plus up to 10 visitors or one other household
+-   Outdoor gatherings are limited to your household occupants, plus up
+    to 25 people
 
 People who are not fully vaccinated can only gather with their own
 household.
@@ -181,13 +141,13 @@ household.
 All people aged 12 and older must be fully vaccinated and show [proof of
 vaccination].
 
--   Indoor events are limited to 50 people, and [masks are
+-   Indoor seated events are limited to 50% capacity, and [masks are
     required]
--   Outdoor events are limited to 100 people
+-   Outdoor events with more than 25 people are limited to 50% capacity
 
 ### Faith gatherings 
 
-Worship services can only be held virtually.
+Worship services can only be held virtually or as a drive-in service.
 
 ### Restaurants, bars and nightclubs 
 
@@ -197,18 +157,16 @@ Fast food restaurants and unlicensed cafés without table service can
 either:
 
 -   Provide take-out service only
--   Require all patrons to show proof of vaccination using the [BC
-    Vaccine
-    Card]
+-   Require all patrons to show [proof of
+    vaccination]
 
 Licensed establishments, establishments that offer table service, and
 liquor manufacturing facilities with tasting rooms without full meal
 service:
 
 -   Cannot serve alcohol between 10 pm and 9 am
--   Must require all patrons to show proof of vaccination using the [BC
-    Vaccine
-    Card]
+-   Must require all patrons to show [proof of
+    vaccination]
 
 Bars and nightclubs that do not offer full meal service must close.
 
@@ -253,22 +211,23 @@ This includes:
 -   Airports
 -   Coffee shops
 -   On public transportation, in a taxi or ride-sharing vehicle
--   Ski gondolas
 -   Libraries
 -   Clothing and retail stores
+-   Places of worship, including congregants and choirs
 
 -   Areas of office buildings where services to the public are provided
 -   Common areas of sport and fitness centres when not engaged in
     physical activity
 -   Common areas of post-secondary institutions and non-profit
     organizations
+-   Inside schools, including all K to 12 students and staff
 
--   Inside schools, including all K to 12 students
 -   Drug stores
 -   Community centres
 -   Recreation centres
 -   City Halls
 -   Restaurants, pubs and bars when not seated at a table
+-   Events happening under the Gatherings and Events order
 
 There are exemptions for:
 
@@ -352,8 +311,18 @@ communicable disease plan. 
 
 Worship services
 
-There are no capacity limits or restrictions on indoor or outdoor and
-worship services. 
+If all participants are vaccinated as determined by the worship service
+leader, there are no capacity restrictions on worship services and
+choirs.
+
+If participants are not all vaccinated, worship services and choirs are
+limited to 50% seated capacity.
+
+------------------------------------------------------------------------
+
+Masks are required but can be temporarily removed for ceremonial eating
+and drinking, and by officiants, readers or for singing a solo where
+physical distancing is observed.
 
  
 

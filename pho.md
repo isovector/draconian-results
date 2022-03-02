@@ -17,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **December 6, 2021**
+Last updated: **December 9, 2021**
 
 **On this page:**
 
@@ -113,6 +113,9 @@ workplace\'s Communicable Disease Plan. 
 
 -   [Review full details on the Fraser Health
     website]
+-   [Gathering and Events Regional Measures (COVID-19) Order for Fraser
+    Health Authority -- September 28, 2021 (PDF,
+    352KB)]
 -   [Map of the Fraser East Health Service Delivery Area (PDF,
     2MB)]
 
@@ -138,35 +141,37 @@ household.
 
 ### Organized gatherings 
 
-All people aged 12 and older must be fully vaccinated and show [proof of
-vaccination].
+Indoor seated events are limited to 50% capacity. All people aged 12 and
+older must be fully vaccinated and show [proof of
+vaccination]. Masks
+are required.
 
--   Indoor seated events are limited to 50% capacity, and [masks are
-    required]
--   Outdoor events with more than 25 people are limited to 50% capacity
+Outdoor events with more than 25 people are limited to 50% capacity.
 
 ### Faith gatherings 
 
-Worship services can only be held virtually or as a drive-in service.
+Worship services and choirs are limited to 50% seated capacity. All
+people aged 12 and older must be fully vaccinated. Masks are required.
+
+People do not need to be fully vaccinated to attend virtual or drive-in
+services.
 
 ### Restaurants, bars and nightclubs 
 
-[Masks are required] when not seated at a table.
+Masks are required when not seated at a table.
 
 Fast food restaurants and unlicensed cafés without table service can
 either:
 
 -   Provide take-out service only
--   Require all patrons to show [proof of
-    vaccination]
+-   Require all patrons to show proof of vaccination
 
 Licensed establishments, establishments that offer table service, and
 liquor manufacturing facilities with tasting rooms without full meal
 service:
 
 -   Cannot serve alcohol between 10 pm and 9 am
--   Must require all patrons to show [proof of
-    vaccination]
+-   Must require all patrons to show proof of vaccination
 
 Bars and nightclubs that do not offer full meal service must close.
 
@@ -187,6 +192,9 @@ Non-essential travel outside your community is strongly discouraged.
 
 -   [Review full details on the Northern Health
     website]
+-   [Gatherings and Events COVID-19 Order for Northern Health
+    Authority -- December 9, 2021 (PDF,
+    216KB)]
 -   [Map of the Northern Health region (PDF,
     1.3MB)]
 
@@ -267,7 +275,7 @@ gatherings.
 ### Organized gatherings 
 
 Organized gatherings have some capacity restrictions. Examples of an
-organized gathering include wedding ceremonies or funerals. 
+organized gathering include wedding ceremonies or funeral receptions. 
 
 #### Indoor organized gatherings 
 
@@ -381,8 +389,9 @@ This includes:
 -   Competitions
 -   Practices
 
-Non-employee supervisors, coaches and assistants of sports and group
-activities for people 21 years or younger must be fully vaccinated.
+Non-employee supervisors, coaches and assistants of indoor sports and
+group activities for people 21 years or younger must be fully
+vaccinated.
 
 #### Spectators 
 

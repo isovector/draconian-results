@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **March 24, 2021**
+Last updated: **March 25, 2021**
 
 **On this page:**
 
@@ -32,9 +32,48 @@ It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
 
-### Easing restrictions, amendments to the order 
+### Easing restrictions: Amendments and variances to the order 
 
-#### Religious gatherings and worship services 
+#### Indoor religious gatherings and worship services between March 28 and May 13 
+
+-   Read the [Variance: Indoor Worship Services on Four Days -- March
+    25, 2021 (PDF,
+    232KB)]
+
+Religious bodies can hold up to four days of indoor religious services
+between March 28 and May 13. Before, during and after the service,
+people must not gather or socially engage. **Weddings, baptisms and
+indoor [funerals] are not included.**
+
+-   Up to 50 people may attend or 10% of the worship space capacity,
+    whichever is less. For example, if the capacity of the church is 400
+    people, only 40 people may attend
+-   Participants must be 2 metres apart unless they live in the same
+    private residence
+-   Everyone in attendance must complete a self-health check to make
+    sure that people with COVID-19 symptoms or who are at risk of being
+    infected do to attend the service
+-   Musical groups of up to 5 musicians may perform. No choirs
+-   The only people who can sing are soloists and worship leaders. The
+    only people who can chant are worship leaders
+
+Masks are required at all times by everyone in attendance.
+
+-   Masks can only be removed by soloists (when singing), worship
+    leaders (when speaking, singing or chanting), readers (when reading
+    out loud), or musicians who need to do so to play their instrument.
+    They must maintain 3 metres of spacing or use a physical barrier
+-   Masks are not required for people who can't wear a mask due to a
+    condition or impairment or kids under the age of 12
+
+Organizers must:
+
+-   Collect information for contract tracing
+-   Supply hand sanitizer
+-   Caution those at risk, including seniors and those with underlying
+    medical conditions or compromised immune systems, from attending
+
+#### Outdoor religious gatherings and worship services 
 
 -   Read the [Variance: Outdoor Worship Services -- March 23, 2021 (PDF,
     250KB)]
@@ -51,6 +90,8 @@ service, people must not gather or socially engage.
     50 vehicles may be present, and people who attend in a vehicle must
     remain in the vehicle)
 -   Musical groups of up to 5 musicians may perform
+-   The only people who can sing are soloists and worship leaders. The
+    only people who can chant are worship leaders
 
 Masks are required at all times by everyone in attendance.
 
@@ -58,8 +99,6 @@ Masks are required at all times by everyone in attendance.
     leaders (when speaking, singing or chanting), readers (when reading
     out loud), or musicians who need to do so to play their instrument.
     They must maintain 3 metres of spacing or use a physical barrier
--   The only people who can sing are soloists and worship leaders. The
-    only people who can chant are worship leaders
 -   Masks are not required for people who can't wear a mask due to a
     condition or impairment or kids under the age of 12
 
@@ -69,6 +108,15 @@ Organizers must:
 -   Supply hand sanitizer
 -   Caution those at risk, including seniors and those with underlying
     medical conditions or compromised immune systems, from attending
+
+#### Outdoor funerals  
+
+Funerals conducted by a religious body may be held outdoors (including
+in open-sided tents and under overhead coverings). Before, during and
+after the funeral service, people must not gather or socially engage.
+
+-   Up to 50 people may attend, plus 2 extra people to make sure rules
+    are followed
 
 #### Outdoor gatherings 
 
@@ -218,25 +266,6 @@ All drive-in and drop-off events must:\
 
  
 
-[Funerals, weddings and baptisms]()
-
-Funerals, weddings and baptisms may proceed with a limited number of
-people and a COVID-19 Safety Plan in place. You can have a maximum of 10
-people attend, including the officiant. [Review BC Centre for Disease
-Control (BCCDC) information on event
-planning].\
- 
-
--   The event organizer and staff present at the event are not included
-    in the 10 people limit
--   If the event organizer also acts as the officiant, that person is
-    included in the 10 people limit
-
-Receptions associated with funerals, weddings or baptisms are not
-allowed inside homes or venues.
-
- 
-
 [Formal meetings]()
 
 The order restricts most formal in-person meetings outside the
@@ -251,10 +280,33 @@ workplace, with some exceptions including:\
 
  
 
+[Indoor funerals, weddings and baptisms]()
+
+Indoor funerals, weddings and baptisms may proceed with a limited number
+of people and a COVID-19 Safety Plan in place. You can have a maximum of
+10 people attend, including the officiant. [Review BC Centre for Disease
+Control (BCCDC) information on event
+planning].\
+ 
+
+-   The event organizer and staff present at the event are not included
+    in the 10 people limit
+-   If the event organizer also acts as the officiant, that person is
+    included in the 10 people limit
+
+Receptions associated with funerals, weddings or baptisms are not
+allowed inside homes or venues.
+
+ 
+
 [Indoor religious gatherings and worship services]()
 
-Indoor in-person religious gatherings and worship services of any size
-are prohibited.
+**Religious bodies can hold up to [four days of indoor religious
+services] between March 18 and May
+13.**
+
+Ongoing indoor in-person religious gatherings and worship services of
+any size are prohibited.
 
 -   You must not attend a service at a church, synagogue, mosque,
     gudwara, temple or other place of worship

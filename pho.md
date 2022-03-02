@@ -12,7 +12,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **February 17, 2022**
+Last updated: **February 25, 2022**
 
 **On this page:**
 
@@ -194,53 +194,52 @@ Guidance for visiting long-term care or seniors\' assisted living facilities
 -----------------------------------------------------------------------------------------------
 
 
-This content is a summary of the [PHO order --- Residential Care
-COVID-19 Preventive Measures (PDF,
-517KB)]
-document. It is not legal advice and does not provide an interpretation
-of the law. In the event of any conflict or difference between this
-webpage and the order, the order is correct and legal and must be
-followed. 
+This content is a summary of the [Ministry of Health --- Overview of
+Visitors in Long-Term Care and Seniors\' Assisted Living (PDF,
+675KB)] and
+[PHO order --- Visitor and Visitation Review and Appeal (PDF,
+289KB)] documents.
+It is not legal advice and does not provide an interpretation of the
+law. In the event of any conflict or difference between this webpage and
+the order, the order is correct and legal and must be followed. 
 
 
-Residents of long-term care facilities are each allowed:
+Residents of long-term care facilities are allowed:
 
--   1 social visitor
-    -   You do not need a reason for a social visit
--   1 essential visitor
+-   Visits from a single designated visitor
+    -   Every resident in long-term care can name one person, who can
+        continue to visit even if visitation is restricted
+    -   Visits are allowed during active COVID-19 outbreaks, under
+        guidance and direction from the local medical health officer
+-   Essential visits
     -   Essential visits include visits for compassionate reasons, such
         as end-of-life care or those essential to a resident's care and
         mental well-being
 
 All visitors are allowed at seniors\' assisted living facilities.
-
-Larger, facility-wide social events or gatherings, adult day programs
-and in-facility respite are allowed.
-
--   Indoor gatherings may include residents and staff across units of a
-    facility
--   Outdoor gatherings may include family and friends
-
-### Protecting long-term care residents 
-
-All visitors must show proof of vaccination before visiting a long-term
-care or seniors\' assisted-living facility.
-
-All visitors who are 12 years of age and older must also complete rapid
-point-of-care testing at the entrance.
-
-Safety precautions like hand hygiene and physical distancing will
-continue.
-
-Before your visit, review BCCDC information for [Visitors in Long-Term
-Care and Seniors' Assisted Living (PDF,
+Visitors must follow the guidance for [Visitors in Long-Term Care and
+Seniors' Assisted Living (PDF,
 675KB)].
 
-#### When to wear a mask at long-term care facilities 
+### During your visit 
 
--   All visitors must wear medical masks in hallways and common areas
--   You can only remove your mask when visiting residents in their
-    living area **if you\'re fully vaccinated**
+All visitors must show proof of vaccination before visiting a long-term
+care or seniors\' assisted-living facility. Proof of vaccination is not
+required for:
+
+-   Children under the age of 12
+-   People with an approved medical exemption
+-   Compassionate visits related to end-of-life
+
+All visitors (12+) must also take a rapid point-of-care test at the
+entrance. People providing compassionate visits related to end-of-life
+do not have to take a test.
+
+You must wear a medical mask during your visit, even if you are fully
+vaccinated. Masks are required both indoors and outdoors.
+
+You are also required to follow additional safety precautions, including
+screening for symptoms of illness and practicing hand hygiene.
 
 ------------------------------------------------------------------------
 

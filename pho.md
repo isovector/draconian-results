@@ -377,6 +377,9 @@ A workplace that has workers testing positive for COVID-19 and public
 health confirming transmission has occurred in the work environment
 may be ordered to close for a minimum of 10 days.
 
+-   Review the [PHO Delegation: Workplace Closures (PDF,
+    319KB)]
+
 For larger workplaces, the closure may be restricted to the locations
 where transmission has occurred.
 

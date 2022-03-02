@@ -2,10 +2,8 @@
 Provincial and regional restrictions
 ====================================
 
-Regional restrictions are in place for people who live in [Fraser Health
-(Fraser East)], [Interior
-Health] and [Northern
-Health].
+Travelling soon? [Get your federal COVID-19 proof of
+vaccination].
 
 
 !
@@ -19,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **October 27, 2021**
+Last updated: **October 29, 2021**
 
 **On this page:**
 
@@ -239,7 +237,8 @@ Non-essential travel outside your community is strongly discouraged.
 PHO order on masks in public indoor settings 
 ------------------------------------------------------
 
-This content is a summary of the verbal PHO order on face coverings.
+This content is a summary of the [PHO order - Face Coverings (PDF, 419
+KB)].
 It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
@@ -411,8 +410,8 @@ This includes:
 -   Competitions
 -   Practices
 
-Adults supervising or assisting with youth sports must be fully
-vaccinated.
+Unpaid supervisors, coaches and assistants of sports and group
+activities for people 21 years or younger must be fully vaccinated.
 
 #### Spectators 
 
@@ -457,8 +456,7 @@ There are no group limits for indoor and outdoor dining. 
 
 ### Casinos 
 
-Casinos can operate with reduced capacity. Gaming stations can operate
-at approximately 50% capacity across the sector.
+Casinos can operate at full seated capacity, including gaming positions.
 
 ------------------------------------------------------------------------
 

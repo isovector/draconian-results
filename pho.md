@@ -723,33 +723,21 @@ Translated content
 
 
 -   [全省限制 ](Traditional
-    Chinese)\
-     
-
+    Chinese)
 -   [全省限制] (Simplified
-    Chinese)\
-     
-
+    Chinese)
 -   [ਪੂਰੇ ਪਰਾਂਤ ਤੇ ਲਾਗੂ
-    ਪਾਬੰਦੀਆਂ]\
-     
-
+    ਪਾਬੰਦੀਆਂ]
 -   [Restrictions à l'échelle de la
-    province]\
-     
-
+    province]
 -   [Restricciones en toda la
     provincia]
-
 -   [القيود المفروضة في أنحاء
     المقاطعة]
-
 -   [Mga pagbabawal sa buong
     lalawigan]
-
 -   [محدودیت ها در سطح
     استان]
-
 -   [주 전역
     제약]
 

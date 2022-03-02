@@ -13,11 +13,11 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **December 18, 2021**
+Last updated: **December 21, 2021**
 
 **On this page:**
 
--   [New province-wide restrictions starting December 20]
+-   [Province-wide restrictions]
 -   [PHO order on masks in public indoor settings]
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants, pubs and bars]
@@ -28,62 +28,47 @@ Last updated: **December 18, 2021**
 
 ------------------------------------------------------------------------
 
-New province-wide restrictions as of December 20 
------------------------------------------------------------
+Province-wide restrictions 
+----------------------------------
 
 To help keep B.C. safe, the PHO has introduced province-wide
-restrictions. They are in effect December 20, 2021 to January 31, 2022.
+restrictions. These restrictions must be followed in addition to
+[regional restrictions].
 
-### New Year\'s Eve parties 
+### As of December 22, 2021 
 
-[New Year\'s Eve parties are not allowed]. Events held on
-December 31 must be seated events. Standing, mingling or dancing is not
-permitted.
+These restrictions are in effect until January 18, 2022.
 
-### Getting together indoors 
-
-[Indoor personal gatherings] are limited to your household
-plus 10 visitors or 1 other household. Everyone 12 + must be fully
-vaccinated.
-
-### Organized events 
-
-[Indoor organized events] require proof of being
-fully vaccinated to attend. Everyone must wear a mask. 
-
-
-------------------------------------------------------------------------
-
-### Going to a restaurant or pub 
-
-Customers must remain seated and cannot move between or visit other
-tables [at restaurants and pubs]. 
-
-Masks are required when not seated at a table.
+-   [Indoor organized gatherings] of any size are not
+    allowed. This includes gatherings like New Year\'s Eve parties,
+    weddings or other celebrations
+-   [Indoor events at venues] can only have 50%
+    capacity. This includes events like concerts, sports or movies
+-   [Bars, nightclubs and lounges are closed]
+-   [Restaurants, cafes and pubs] can have a maximum
+    of 6 people at each table
+-   [Adult gyms, fitness centres and dance studios] are
+    closed
 
 ```{=html}
 <!-- -->
 ```
 
+### As of December 20, 2021 
+
+These restrictions are in effect until January 31, 2022.
+
+-   [Indoor personal gatherings] are limited to your
+    household plus 10 visitors or 1 other household. Everyone 12 + must
+    be fully vaccinated
+-   [At restaurants, cafes and pubs], customers must
+    stay seated and cannot move between or visit other tables. Masks are
+    required when not seated
+-   [All sports tournaments] and related travel are
+    not allowed
+
 
 ------------------------------------------------------------------------
-
-### Sports tournaments 
-
-[All sports tournaments] and related travel are not
-allowed.
-
-
-------------------------------------------------------------------------
-
-### Large indoor events 
-
-[Large indoor events] can have up to 1,000 people or 50%
-capacity, whichever is greater.
-
-```{=html}
-<!-- -->
-```
 
 ### Restrictions that have not changed 
 
@@ -94,8 +79,10 @@ Restrictions, guidance and requirements stay the same for:
 -   [Fairs, festivals and trade shows]
 -   [Workplaces]
 -   [Outdoor organized events]
--   [Exercise]
 -   [Regional restrictions]
+
+
+------------------------------------------------------------------------
 
 ### Safety recommendations 
 
@@ -110,6 +97,14 @@ In addition to the orders, the PHO strongly recommends:
 -   Follow the [current federal travel
     advisory]
 -   Stay home if you feel sick
+
+```{=html}
+<!-- -->
+```
+
+```{=html}
+<!-- -->
+```
 
 ------------------------------------------------------------------------
 
@@ -177,13 +172,6 @@ events. It is not legal advice and does not provide an interpretation of
 the law. In the event of any conflict or difference between this webpage
 and the order, the order is correct and legal and must be followed. 
 
-### New Year\'s Eve parties 
-
-New Year\'s parties are not allowed. Events held on December 31 must be
-seated events. Standing, mingling or dancing is not permitted. These
-events must also follow restrictions for [organized
-gatherings].
-
 ### Personal gatherings 
 
 Indoor personal gatherings at your home or vacation accommodation are
@@ -193,45 +181,34 @@ vaccinated].
 
 There are no restrictions for outdoor personal gatherings.
 
-### Organized gatherings 
+### Indoor organized gatherings 
 
-Organized gatherings have capacity restrictions. Examples of an
-organized gathering include wedding ceremonies or funeral receptions. 
+Indoor organized gatherings of any size are not allowed. Examples of an
+organized gathering include:
 
-#### Indoor organized gatherings 
+-   New Year\'s Eve parties
+-   Wedding receptions
+-   Funeral receptions
+-   Other life events or celebrations
 
-[Proof of
-vaccination]
-is required for all indoor organized events of all sizes. Everyone must
-be fully vaccinated to attend. Businesses must scan proof of vaccination
-QR codes for entry.
+### Indoor events at venues 
 
-Dancing is not permitted. [Masks are required indoors].
+Indoor events at venues can only have 50% capacity, no matter the size.
 
-Indoor organized gatherings can have up to 1,000 people or 50% capacity,
-whichever is greater. For example:
-
--   If a venue has capacity for 1,600 people, 1,000 people can attend
--   If a venue has capacity for 3,000 people, 1,500 people can attend
+-   This includes events like concerts, sports or movies
+-   Everyone must be fully vaccinated to attend
+-   Venues must scan [proof of vaccination QR codes for
+    entry]
+-   [Everyone must wear a mask indoors]
+-   Dancing is not permitted
 
 All spectators must be seated at:
 
--   Concerts, theatre, dance and symphony performances
--   Weddings and funeral receptions (outside of a funeral home)
+-   Sports events, concerts, theatre, dance and symphony performances
 -   Lectures, presentations and workshops
--   Sponsored and ticketed parties
+-   Sponsored and ticketed events
 
-You do not need to remain seated at:
-
--   Conventions and trade shows
--   Conferences (except during lectures, presentations and workshops)
--   Recreational classes and activities like art classes and choir
-    rehearsals
-
-Private social events in workplaces are not subject to these
-restrictions.
-
-#### Outdoor organized gatherings 
+### Outdoor organized gatherings 
 
 Outdoor organized seated gatherings can have a capacity of 5,000 people
 or 50% capacity, whichever is greater. For example, if the venue has a
@@ -298,14 +275,9 @@ workplaces. 
 
 ### Exercise 
 
-#### Indoor high intensity and low intensity group exercise 
+#### Gyms and fitness centres 
 
-Indoor high intensity and low intensity group exercise is allowed with
-normal capacity. 
-
-#### Gyms, pools and recreation facilities 
-
-Gyms, pools and recreation facilities can operate with normal capacity.
+Adult gyms, fitness centres and dance studios are closed.
 
 ### Sports 
 
@@ -316,14 +288,6 @@ All sports tournaments and related travel are not allowed.
 Non-employee supervisors, coaches and assistants of indoor sports and
 group activities for people 21 years or younger must be fully
 vaccinated.
-
-#### Spectators 
-
-Indoor and outdoor sport activities with capacity for 1,000 spectators
-or more can only have 50% seated capacity. All spectators must have a
-seat. [Proof of
-vaccination]
-is required for all spectators at indoor sporting events.
 
 ------------------------------------------------------------------------
 
@@ -339,21 +303,23 @@ must be followed. 
 Businesses will transition from a COVID-19 Safety Plan to a communicable
 disease plan.
 
-### Restaurants, pubs, bars and nightclubs 
+### Restaurants, cafes, pubs, bars and nightclubs 
 
-There are no group limits for indoor and outdoor dining. You can dine at
-a restaurant or pub for New Year\'s Eve.
+Bars, nightclubs and lounges are closed.
 
+Indoor and outdoor dining is allowed with physical distancing
+requirements and other rules, including:
+
+-   A maximum of 6 people at a table
+-   Physical distancing or barriers between tables
 -   Customers must remain seated and cannot move between or visit other
     tables
--   Venues can determine their own table limits
 -   No dancing
 -   Normal liquor service hours
 -   [Masks are required] when not seated at a table
 
-### Casinos 
-
-Casinos can operate at full seated capacity, including gaming positions.
+Restaurants, cafes and pubs must scan [proof of vaccination QR codes for
+entry].
 
 ------------------------------------------------------------------------
 
@@ -362,8 +328,8 @@ Regional restrictions by health authority
 
 Some health authorities have restrictions for regions with lower
 vaccination rates. Orders are made by a region\'s Medical Health
-Officer. **If regional restrictions are different, follow the
-province-wide restrictions.**
+Officer. **Follow regional restrictions in addition to the province-wide
+restrictions.**
 
 ### Fraser Health 
 

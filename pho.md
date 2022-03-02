@@ -17,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **August 24, 2021**
+Last updated: **August 25, 2021**
 
 **On this page:**
 
@@ -33,8 +33,8 @@ Last updated: **August 24, 2021**
 PHO order on masks in public indoor settings 
 ------------------------------------------------------
 
-Starting August 25, masks are required in all public indoor settings for
-all people born in 2009 or earlier (12+). 
+Masks are required in all public indoor settings for all people born in
+2009 or earlier (12+). 
 
 This includes:
 
@@ -60,11 +60,6 @@ This includes:
 -   City Halls
 -   Restaurants, pubs and bars when not seated at a table
 
-**Note: **The order will be reassessed when [proof of vaccination and
-B.C.\'s vaccine
-card]
-are fully implemented. 
-
 There are exemptions for:
 
 -   People with health conditions or with physical, cognitive or mental
@@ -76,6 +71,11 @@ There are exemptions for:
 
 A face shield is not a substitute for a mask as it has an opening below
 the mouth.
+
+**Note: **The order will be reassessed when [proof of vaccination and
+B.C.\'s vaccine
+card]
+are fully implemented. 
 
 ------------------------------------------------------------------------
 

@@ -11,15 +11,53 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **March 25, 2021**
+Last updated: **March 29, 2021**
 
 **On this page:**
 
+-   [Do your part to keep B.C. safe]
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants and bars]
 -   [EPA order on masks in public indoor settings]
 -   [Travel advisory]
 -   [Enforcement]
+
+------------------------------------------------------------------------
+
+Do your part to keep B.C. safe 
+-----------------------------------------------
+
+### Stronger province-wide restrictions 
+
+Between March 29 at 11:59 pm and April 19 at 11:59 pm the PHO is
+strengthening province-wide restrictions:
+
+-   The variance allowing indoor religious gatherings and worship
+    services between March 28 and May 13 is suspended
+-   Indoor low intensity group exercise classes are
+    [cancelled]
+-   Restaurants, pubs and bars are [closed for
+    indoor dining]. Outdoor patio seating and
+    take-out or delivery is allowed
+-   Whistler Blackcomb ski resort is [closed]
+
+### Safety recommendations 
+
+In addition to the orders, the PHO strongly recommends:
+
+-   Working from home whenever possible, unless it is essential to be in
+    the workplace
+-   Keeping your child home from school if they feel sick or have any
+    sign of illness
+-   [Getting testing
+    immediately]
+    if you or anyone in your family feels sick
+-   Avoiding all [non-essential travel]
+
+#### Masks in schools 
+
+Public health guidance for K to 12 schools has been updated to support
+and encourage students in grade 4 to 12 to wear masks at school. 
 
 ------------------------------------------------------------------------
 
@@ -32,91 +70,17 @@ It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
 
-### Easing restrictions: Amendments and variances to the order 
+### Social gatherings 
 
-#### Indoor religious gatherings and worship services between March 28 and May 13 
+#### Indoor gatherings 
 
--   Read the [Variance: Indoor Worship Services on Four Days -- March
-    25, 2021 (PDF,
-    232KB)]
+No indoor social gatherings of **any size** at your residence with
+anyone other than your household or, if you live alone, your core
+bubble. For example:
 
-Religious bodies can hold up to four days of indoor religious services
-between March 28 and May 13. Before, during and after the service,
-people must not gather or socially engage. **[Weddings, baptisms and
-indoor funerals] are not included.**
-
--   Up to 50 people may attend or 10% of the worship space capacity,
-    whichever is less. For example, if the capacity of the church is 400
-    people, only 40 people may attend
--   Participants must be 2 metres apart unless they live in the same
-    private residence
--   Everyone in attendance must complete a self-health check to make
-    sure that people with COVID-19 symptoms or who are at risk of being
-    infected do not attend the service
--   Musical groups of up to 5 musicians may perform. No choirs
--   The only people who can sing are soloists and worship leaders. The
-    only people who can chant are worship leaders
-
-Masks are required at all times by everyone in attendance.
-
--   Masks can only be removed by soloists (when singing), worship
-    leaders (when speaking, singing or chanting), readers (when reading
-    out loud), or musicians who need to do so to play their instrument.
-    They must maintain 3 metres of spacing or use a physical barrier
--   Masks are not required for people who can't wear a mask due to a
-    condition or impairment or kids under the age of 12
-
-Organizers must:
-
--   Collect information for contract tracing
--   Supply hand sanitizer
--   Caution those at risk, including seniors and those with underlying
-    medical conditions or compromised immune systems, from attending
-
-#### Outdoor religious gatherings and worship services 
-
--   Read the [Variance: Outdoor Worship Services -- March 23, 2021 (PDF,
-    250KB)]
-
-Religious worship services may be held outdoors (including in open-sided
-tents and under overhead coverings). Before, during and after the
-service, people must not gather or socially engage.
-
--   Up to 50 people may attend, plus 2 extra people to make sure rules
-    are followed
--   Participants must be 2 metres apart unless they live in the same
-    private residence
--   Drive-in worship events can continue to operate (No more than
-    50 vehicles may be present, and people who attend in a vehicle must
-    remain in the vehicle)
--   Musical groups of up to 5 musicians may perform
--   The only people who can sing are soloists and worship leaders. The
-    only people who can chant are worship leaders
-
-Masks are required at all times by everyone in attendance.
-
--   Masks can only be removed by soloists (when singing), worship
-    leaders (when speaking, singing or chanting), readers (when reading
-    out loud), or musicians who need to do so to play their instrument.
-    They must maintain 3 metres of spacing or use a physical barrier
--   Masks are not required for people who can't wear a mask due to a
-    condition or impairment or kids under the age of 12
-
-Organizers must:
-
--   Collect information for contract tracing
--   Supply hand sanitizer
--   Caution those at risk, including seniors and those with underlying
-    medical conditions or compromised immune systems, from attending
-
-#### Outdoor funerals  
-
-Funerals conducted by a religious body may be held outdoors (including
-in open-sided tents and under overhead coverings). Before, during and
-after the funeral service, people must not gather or socially engage.
-
--   Up to 50 people may attend, plus 2 extra people to make sure rules
-    are followed
+-   Do not invite friends or extended family inside your residence or
+    vacation accommodation
+-   Do not host a party or event inside your house
 
 #### Outdoor gatherings 
 
@@ -127,22 +91,9 @@ Up to 10 people can gather outdoors. For example:
 
 Do not gather with several groups of new people. **Stick to** **the same
 people**. Continue to use COVID-19 layers of protection and maintain
-physical distancing.
-
-All restrictions for indoor gatherings remain in place. No indoor
-gatherings of any size are allowed. Patios and outdoor areas at
-restaurants, pubs and bars are **not included** as places to gather with
-10 people at one table.
-
-### Gatherings inside residences or vacation accommodations 
-
-No social gatherings of **any size** inside your residence with anyone
-other than your household or, if you live alone, your core bubble. For
-example:
-
--   Do not invite friends or extended family into your residence or
-    vacation accommodation.
--   Do not host a party or event inside your house
+physical distancing. Patios and outdoor areas at restaurants, pubs and
+bars are **not included** as places to gather with 10 people at one
+table.
 
 [Expand All]()[ \| ][Collapse
 All]()
@@ -201,17 +152,6 @@ People who live alone may also visit one other residence with more than
 one occupant. 
 
  
-
-### Activities allowed under the order 
-
-These activities are not considered a social gathering:
-
--   Going for a walk or hike
--   Parents carpooling kids to and from school
--   Grandparents providing child care
--   Public pools and public skating rinks, when not associated with an
-    event, are allowed to continue to operate with a COVID-19 Safety
-    Plan
 
 ### Gatherings and events by sector 
 
@@ -300,14 +240,11 @@ allowed inside homes or venues.
 
  
 
-[Indoor religious gatherings and worship services]()
+[Indoor religious gatherings and worship
+services]()
 
-**Religious bodies can hold up to [four days of indoor religious
-services] between March 18 and May
-13.**
-
-Ongoing indoor in-person religious gatherings and worship services of
-any size are prohibited.
+Indoor in-person religious gatherings and worship services of any size
+are prohibited.
 
 -   You must not attend a service at a church, synagogue, mosque,
     gudwara, temple or other place of worship
@@ -344,6 +281,55 @@ a dining area.\
 -   [Review BC Centre for Disease Control (BCCDC) information on food
     banks and food
     distribution]
+
+ 
+
+[Outdoor funerals]()
+
+Funerals conducted by a religious body may be held outdoors (including
+in open-sided tents and under overhead coverings). Before, during and
+after the funeral service, people must not gather or socially engage.
+
+-   Up to 50 people may attend, plus 2 extra people to make sure rules
+    are followed
+
+ 
+
+[Outdoor religious gatherings and worship services]()
+
+-   Read the [Variance: Outdoor Worship Services -- March 23, 2021 (PDF,
+    250KB)]
+
+Religious worship services may be held outdoors (including in open-sided
+tents and under overhead coverings). Before, during and after the
+service, people must not gather or socially engage.
+
+-   Up to 50 people may attend, plus 2 extra people to make sure rules
+    are followed
+-   Participants must be 2 metres apart unless they live in the same
+    private residence
+-   Drive-in worship events can continue to operate (No more than
+    50 vehicles may be present, and people who attend in a vehicle must
+    remain in the vehicle)
+-   Musical groups of up to 5 musicians may perform
+-   The only people who can sing are soloists and worship leaders. The
+    only people who can chant are worship leaders
+
+Masks are required at all times by everyone in attendance.
+
+-   Masks can only be removed by soloists (when singing), worship
+    leaders (when speaking, singing or chanting), readers (when reading
+    out loud), or musicians who need to do so to play their instrument.
+    They must maintain 3 metres of spacing or use a physical barrier
+-   Masks are not required for people who can't wear a mask due to a
+    condition or impairment or kids under the age of 12
+
+Organizers must:
+
+-   Collect information for contract tracing
+-   Supply hand sanitizer
+-   Caution those at risk, including seniors and those with underlying
+    medical conditions or compromised immune systems, from attending
 
  
 
@@ -428,6 +414,17 @@ Performances, recitals and demonstrations are not allowed. 
 
  
 
+### Activities allowed under the order 
+
+These activities are not considered a social gathering:
+
+-   Going for a walk or hike
+-   Parents carpooling kids to and from school
+-   Grandparents providing child care
+-   Public pools and public skating rinks, when not associated with an
+    event, are allowed to continue to operate with a COVID-19 Safety
+    Plan
+
 ### Exercise 
 
 #### Indoor high intensity group exercise 
@@ -447,9 +444,8 @@ exercise must suspend the following activities:
 
 #### Indoor low intensity group exercise 
 
-Indoor low intensity group exercise is allowed. Low intensity group
-exercise does not cause a sustained and accelerated rate of breathing
-and does not involve close contact with other people. These include:
+Indoor low intensity group exercise is prohibited until April 19 at
+11:59 pm. These include:
 
 -   Yoga (Hatha)
 -   Low intensity exercise machines and cardio equipment
@@ -459,20 +455,11 @@ and does not involve close contact with other people. These include:
 -   Tai-Chi
 -   Low intensity Barre classes
 
-Businesses, recreation centres or other organizations that organize or
-operate low intensity group fitness activities must follow the
-restrictions in the order, including a COVID-19 Safety Plan developed
-following public health guidelines.
-
--   [Public Health Guidelines for Group Low Intensity Exercise --
-    December 14, 2020 (PDF,
-    490KB)]
-
 #### Gyms and recreation facilities 
 
 Gyms and recreation facilities that offer individual workouts and
 personal training sessions can remain open as long as they have
-a COVID-19 Safety Plan that is strictly followed. 
+a COVID-19 Safety Plan that is strictly followed.
 
 ### Sports 
 
@@ -583,21 +570,24 @@ are suspended.
 PHO order on restaurants, pubs and bars 
 ------------------------------------------------------------
 
+Restaurants, pubs, bars and food courts are closed for indoor dining
+until April 19 at 11:59 pm.
+
+-   Outdoor patio seating and take-out or delivery is allowed
+
 In order to limit the spread of COVID-19, people should only be dining
 at restaurants with their household. For people who live alone, this
 should be with a maximum of two people they regularly interact with
 (core bubble).
 
-You must [wear a mask when not at a table]. Events are no longer
-allowed. 
+-   You must [wear a mask when not at a table]
+-   Events are no longer allowed
 
-Restaurants, pubs and bars can continue to operate if they have
-a COVID-19 Safety Plan and employee protocols in place. 
-
-WorkSafeBC will be conducting inspections to verify that COVID-19 Safety
-Plans remain effective. Establishments that are noncompliant with plan
-requirements may face orders and fines, and possible referral to public
-health which may result in a closure order.
+Restaurants, pubs and bars must have a COVID-19 Safety Plan and employee
+protocols in place. WorkSafeBC will be conducting inspections to verify
+that COVID-19 Safety Plans remain effective. Establishments that are
+noncompliant with plan requirements may face orders and fines, and
+possible referral to public health which may result in a closure order.
 
 -   Review the [PHO Order -- Food and Liquor Serving
     Premises (PDF)]
@@ -687,7 +677,7 @@ example:
 -   Do not travel to visit friends or family outside of your household
     or core bubble
 
-### What is essential travel? 
+### Travel for essential reasons 
 
 Individual circumstances may affect whether a trip is considered
 essential or non-essential. Essential travel within B.C. includes:
@@ -715,6 +705,10 @@ communities and enacted COVID-19 community protection by-laws including
 travel bans for non-residents and non-essential visitors. It is
 important to respect these restrictions in addition to the province-wide
 travel advisory. 
+
+### Whistler Blackcomb closure 
+
+The Whistler Blackcomb ski resort is closed until April 19 at 11:59 pm.
 
 ### Coming from outside of B.C. 
 

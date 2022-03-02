@@ -2,6 +2,10 @@
 Provincial and regional restrictions
 ====================================
 
+The PHO orders on [gatherings and events] and
+[food and liquor serving premises] have
+been extended.
+
 
 !
 
@@ -13,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 14, 2022**
+Last updated: **January 17, 2022**
 
 **On this page:**
 

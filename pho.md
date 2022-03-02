@@ -47,6 +47,11 @@ physical distancing.
 All restrictions for indoor gatherings remain in place. No indoor
 gatherings of any size are allowed.
 
+#### Outdoor patios 
+
+Patios and outdoor areas at restaurants, pubs and bars are **not
+included** as places to gather with 10 people at one table.
+
 #### St. Patrick\'s Day liquor sales 
 
 Effective March 17 at 8 pm until March 18 at 9 am, the service and sale

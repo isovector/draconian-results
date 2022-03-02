@@ -2,9 +2,9 @@
 Provincial and regional restrictions
 ====================================
 
-If you have mild symptoms and no risk factors for severe illness, you do
-not need a COVID test. [Find out when you need a
-test].
+If you have mild symptoms and no risk factors for severe illness, you
+don\'t need a COVID test. [When do I need a
+test?]
 
 
 !
@@ -17,102 +17,19 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **December 31, 2021**
+Last updated: **January 4, 2022**
 
 **On this page:**
 
--   [Province-wide restrictions]
 -   [PHO order on masks in public indoor settings]
 -   [PHO order on gatherings and events]
--   [PHO order on restaurants, pubs and bars]
+-   [PHO order on restaurants, pubs, bars and
+    nightclubs]
 -   [Regional restrictions by health authority]
 -   [Guidance for visiting long-term care or seniors\' assisted living
     facilities]
+-   [Safety recommendations]
 -   [Enforcement]
-
-------------------------------------------------------------------------
-
-Province-wide restrictions 
-----------------------------------
-
-To help keep B.C. safe, the PHO has introduced province-wide
-restrictions. These restrictions must be followed in addition to
-[regional restrictions].
-
-### As of December 31, 2021 
-
-This restriction is in effect until January 18, 2022.
-
--   [Only essential visitors are allowed] at long-term
-    care facilities
-
-### As of December 22, 2021 
-
-These restrictions are in effect until January 18, 2022.
-
--   [Indoor organized gatherings] of any size are not
-    allowed. This includes gatherings like New Year\'s Eve parties,
-    wedding receptions or other celebrations
--   [Indoor events at venues] can only have 50%
-    capacity. This includes events like concerts, sports or movies
--   [Bars and nightclubs are closed]
--   [Restaurants, cafes and pubs] can have a maximum
-    of 6 people at each table and must have physical distancing or
-    barriers between tables
--   [Indoor adult exercise, fitness and dance activities] are
-    not permitted
-
-```{=html}
-<!-- -->
-```
-
-### As of December 20, 2021 
-
-These restrictions are in effect until January 31, 2022.
-
--   [Indoor personal gatherings] are limited to your
-    household plus 10 visitors or 1 other household. Everyone 12 + must
-    be fully vaccinated
--   [At restaurants, cafes and pubs], customers must
-    stay seated and cannot move between or visit other tables. Masks are
-    required when not seated
--   [All sports tournaments] are not allowed, except
-    for high performance athletes
-
-
-------------------------------------------------------------------------
-
-### Restrictions that have not changed 
-
-Restrictions, guidance and requirements stay the same for:
-
--   [Wearing masks]
--   [Worship services]
--   [Workplaces]
--   [Outdoor organized events]
--   [Regional restrictions]
-
-
-------------------------------------------------------------------------
-
-### Safety recommendations 
-
-In addition to the orders, the PHO strongly recommends:
-
--   Keep personal gatherings as small as possible
--   Stick to the same group of people and only with those you know are
-    fully vaccinated
--   Outdoor gatherings are safer than indoor
--   Reduce social interactions
--   Ensure proper ventilation indoors by opening windows
--   Avoid all travel, if you\'re not fully vaccinated
--   Follow the [current federal travel
-    advisory]
--   Stay home if you feel sick
-
-```{=html}
-<!-- -->
-```
 
 ```{=html}
 <!-- -->
@@ -135,7 +52,6 @@ Masks are required in all public indoor settings for all people born in
 
 This includes:
 
--   Malls and shopping centres
 -   Grocery and liquor stores
 -   Airports
 -   Coffee shops
@@ -145,6 +61,7 @@ This includes:
 -   [Places of worship, including congregants and
     choirs]
 
+-   Malls and shopping centres
 -   Areas of office buildings where services to the public are provided
 -   Common areas of sport and fitness centres when not engaged in
     physical activity
@@ -189,64 +106,72 @@ followed. 
 
 ### Personal gatherings 
 
+#### Indoor personal gatherings 
+
 Indoor personal gatherings at your home or vacation accommodation are
-limited to your household plus 10 visitors or 1 other
-household. Everyone 12+ must be [fully
+limited to your household plus 10 visitors or 1 other household. 
+
+Everyone 12+ must be [fully
 vaccinated].
+
+#### Outdoor personal gatherings 
 
 There are no restrictions for outdoor personal gatherings.
 
-Everyone is encouraged to:
+It\'s encouraged to keep personal gatherings as small as possible and
+stick to the same group of people.
 
--   Keep personal gatherings as small as possible
--   Stick to the same group of people
+### Organized gatherings 
 
-```{=html}
-<!-- -->
-```
+####  
 
-### Indoor organized gatherings 
+#### Indoor organized gatherings 
 
-Indoor organized gatherings of any size are not allowed. Examples of an
-organized gathering include:
+Indoor organized gatherings of any size are not allowed.
+Examples include:
 
--   Parties and celebrations like New Year\'s Eve parties
+-   Sponsored or ticketed parties, celebrations
 -   Wedding and funeral receptions
--   Sponsored or ticketed parties
+
+####  
+
+#### Outdoor organized gatherings 
+
+Outdoor organized seated gatherings can have a capacity of 5,000 people
+or 50% capacity, whichever is greater.
+
+For example, if the venue has a normal seated capacity of 30,000 people,
+15,000 people can attend. 
 
 ### Indoor events at venues 
 
 Indoor events at venues can only have 50% capacity, no matter the size.
+Examples of indoor events at venues include:
 
--   This includes events like concerts, sports or movies
--   Everyone must be fully vaccinated to attend
--   Venues must scan [proof of vaccination QR codes for
-    entry]
--   [Everyone must wear a mask indoors]
--   Dancing is not permitted
-
-All spectators must be seated at:
-
--   Sports events, concerts, theatre, dance and symphony performances
+-   Concerts, theatre, dance and symphony performances
+-   Sports events and movies
 -   Lectures, presentations and workshops
 -   Sponsored and ticketed events
 
-#### Casinos 
+Everyone must be fully vaccinated to attend.
 
-Casinos can operate at 50% seated capacity, including gaming positions.
-Food and liquor services at casinos must follow the [rules for food and
-liquor serving premises].
-
-### Outdoor organized gatherings 
-
-Outdoor organized seated gatherings can have a capacity of 5,000 people
-or 50% capacity, whichever is greater. For example, if the venue has a
-normal seated capacity of 30,000 people, 15,000 people can attend. 
+-   Venues must scan [proof of vaccination QR codes for
+    entry]
+-   [Everyone must wear a mask indoors]
+-   Dancing is not permitted. All spectators must be seated
 
 ### Organized gatherings by sector 
 
 [Expand All]()[ \| ][Collapse
 All]()
+
+ 
+
+[Casinos]()
+
+Casinos can operate at 50% seated capacity, including gaming positions.
+Food and liquor services at casinos must follow the [rules for food and
+liquor serving premises].
 
  
 
@@ -302,17 +227,19 @@ workplaces. 
 -   [Review communicable disease prevention guidance from
     WorkSafeBC]
 
+ 
+
 ### Exercise and fitness 
 
-**Adult** indoor individual and group fitness or exercise activities are
-not permitted. For example:
+Adult indoor individual and group fitness or exercise activities are not
+allowed. For example:
 
--   Working out at the gym
+-   Working out at a gym
 -   Participating in low or high intensity group exercise or fitness
     classes
 -   Participating in dance classes at a dance studio
 
-The following exercise and fitness activities can continue:
+The exercise and fitness activities that can continue include:
 
 -   Programs specifically for children and youth
 -   Activities that take place in [swimming pools]
@@ -371,8 +298,8 @@ with their sport association\'s COVID-19 safety protocols.
 
 ------------------------------------------------------------------------
 
-PHO order on restaurants, pubs and bars 
-------------------------------------------------------------
+PHO order on restaurants, pubs, bars and nightclubs 
+------------------------------------------------------------------------
 
 This content is a summary of the [PHO order --- Food and Liquor Serving
 Premises (PDF,
@@ -382,19 +309,14 @@ of the law. In the event of any conflict or difference between this
 webpage and the order, the order is correct and legal and must be
 followed. 
 
-Businesses will transition from a COVID-19 Safety Plan to a communicable
-disease plan.
-
-### Restaurants, cafes, pubs, bars and nightclubs 
-
 Places that do not offer full meal service must close. This includes
 places like bars, nightclubs and lounges that do not serve meals.
 
-Indoor and outdoor dining is allowed with physical distancing
-requirements and other rules, including:
+Indoor and outdoor dining is allowed when following physical distancing
+requirements and other rules:
 
 -   A maximum of 6 people at a table
--   There needs to be 2 metres or physical barriers between tables
+-   Two metres or physical barriers between tables
 -   Customers must stay seated and cannot move between or visit other
     tables
 -   No dancing
@@ -414,21 +336,21 @@ vaccination rates. Orders are made by a region\'s Medical Health
 Officer. **Follow regional restrictions in addition to the province-wide
 restrictions.**
 
-### Fraser Health 
+[Expand All]()[ \| ][Collapse
+All]()
+
+ 
+
+Regional restrictions in Fraser Health (Fraser East region)
 
 Fraser Health has restrictions in place for the Fraser East region:
 
 -   Abbotsford
 -   Agassiz
 -   Chilliwack
-
 -   Harrison Hot Springs
 -   Hope
 -   Mission
-
- 
-
-Regional restrictions in Fraser Health (Fraser East region)
 
 ### Personal gatherings 
 
@@ -495,13 +417,11 @@ workplace\'s Communicable Disease Plan. 
 -   [Map of the Fraser East Health Service Delivery Area (PDF,
     2MB)]
 
-### Northern Health 
-
-Northern Health has restrictions in place for all communities.
-
  
 
 [Regional restrictions in Northern Health]()
+
+Northern Health has restrictions in place for all communities.
 
 ### Personal gatherings 
 
@@ -574,6 +494,8 @@ Non-essential travel outside your community is strongly discouraged.
 -   [Map of the Northern Health region (PDF,
     1.3MB)]
 
+ 
+
 ------------------------------------------------------------------------
 
 Guidance for visiting long-term care or seniors\' assisted living facilities 
@@ -625,6 +547,24 @@ Care and Seniors' Assisted Living (PDF,
 -   All visitors must wear medical masks in hallways and common areas
 -   You can only remove your mask when visiting residents in their
     living area **if you\'re fully vaccinated**
+
+------------------------------------------------------------------------
+
+Safety recommendations 
+---------------------------------
+
+In addition to the orders, the PHO strongly recommends:
+
+-   Keep personal gatherings as small as possible
+-   Stick to the same group of people and only with those you know are
+    fully vaccinated
+-   Outdoor gatherings are safer than indoor
+-   Reduce social interactions
+-   Ensure proper ventilation indoors by opening windows
+-   Avoid all travel, if you\'re not fully vaccinated
+-   Follow the [current federal travel
+    advisory]
+-   Stay home if you feel sick
 
 ------------------------------------------------------------------------
 

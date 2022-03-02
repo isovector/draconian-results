@@ -29,9 +29,8 @@ Do your part to keep B.C. safe
 ### Stronger province-wide restrictions 
 
 The PHO has strengthened province-wide restrictions. These
-restrictions came into effect March 29 at 11:59 pm and will be kept in
-place until further notice based on direction from the PHO. They
-include:
+restrictions came into effect March 29 at 11:59 pm and last to May 25 at
+midnight. They include:
 
 -   The variance allowing indoor religious gatherings and worship
     services between March 28 and May 13 is suspended
@@ -45,7 +44,7 @@ include:
     minimum of 10 days]
 
 **Avoid all non-essential travel.** Review the [current travel
-advisory.]
+advisory].
 
 ### Safety recommendations 
 
@@ -58,7 +57,6 @@ In addition to the orders, the PHO strongly recommends:
 -   [Getting testing
     immediately]
     if you or anyone in your family feels sick
--   Avoiding all [non-essential travel]
 
 #### Masks in schools 
 

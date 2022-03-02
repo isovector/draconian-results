@@ -183,8 +183,7 @@ have fewer restrictions:
 
 Safety requirements include:
 
--   [Masks required] when
-    not seated at a table and when dancing
+-   [Masks required] when not seated at a table and when dancing
 -   [Proof of
     vaccination] required
     for entry (12+)

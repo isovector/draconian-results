@@ -2,6 +2,11 @@
 Province-wide restrictions
 ==========================
 
+Travel restrictions for non-essential travel in B.C. are in place until
+May 25. Fines can be given to people who leave their region for
+non-essential travel. [Read the
+restrictions]. 
+
 
 !
 
@@ -11,7 +16,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **April 20, 2021**
+Last updated: **April 23, 2021**
 
 **On this page:**
 
@@ -41,9 +46,6 @@ midnight. They include:
     take-out or delivery is allowed
 -   Workplaces with a COVID-19 exposure may be ordered to [close for a
     minimum of 10 days]
-
-**Avoid all non-essential travel.** Review the [current travel
-advisory].
 
 ### Safety recommendations 
 
@@ -674,7 +676,8 @@ This includes:
 -   Recreation centres
 -   City Halls
 -   Restaurants, pubs and bars when not seated at a table
--   Sport or fitness facilities when not working out
+-   Indoor exercise/fitness facilities
+-   Indoor sport facilities when not actively participating
 
 ### Mask enforcement 
 
@@ -720,34 +723,34 @@ Translated content
 
 
 -   [全省限制 ](Traditional
-    Chinese)
+    Chinese)\
+     
 
 -   [全省限制] (Simplified
-    Chinese)
+    Chinese)\
+     
 
 -   [ਪੂਰੇ ਪਰਾਂਤ ਤੇ ਲਾਗੂ
-    ਪਾਬੰਦੀਆਂ]
+    ਪਾਬੰਦੀਆਂ]\
+     
 
 -   [Restrictions à l'échelle de la
-    province]
+    province]\
+     
 
 -   [Restricciones en toda la
     provincia]
 
--   ::: {style="text-align:start"}
-    [القيود المفروضة في أنحاء
+-   [القيود المفروضة في أنحاء
     المقاطعة]
 
--   ::: {style="text-align:start"}
-    [Mga pagbabawal sa buong
+-   [Mga pagbabawal sa buong
     lalawigan]
 
--   ::: {style="text-align:start"}
-    [محدودیت ها در سطح
+-   [محدودیت ها در سطح
     استان]
 
--   ::: {style="text-align:start"}
-    [주 전역
+-   [주 전역
     제약]
 
 

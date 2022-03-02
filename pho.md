@@ -17,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **December 24, 2021**
+Last updated: **December 31, 2021**
 
 **On this page:**
 
@@ -38,6 +38,13 @@ Province-wide restrictions
 To help keep B.C. safe, the PHO has introduced province-wide
 restrictions. These restrictions must be followed in addition to
 [regional restrictions].
+
+### As of December 31, 2021 
+
+This restriction is in effect until January 18, 2022.
+
+-   [Only essential visitors are allowed] at long-term
+    care facilities
 
 ### As of December 22, 2021 
 
@@ -572,15 +579,22 @@ Non-essential travel outside your community is strongly discouraged.
 Guidance for visiting long-term care or seniors\' assisted living facilities 
 -----------------------------------------------------------------------------------------------
 
-This content is a summary of the [PHO order --- Residential Care
-COVID-19 Preventive Measures (PDF,
-517KB)] and
-[PHO order --- Residential Care COVID-19 Vaccination Status Information
-(PDF,
-506KB)] documents.
+
+This content is a summary of the verbal PHO orders on residential care.
 It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
+
+
+Only essential visitors are allowed at long-term care facilities.
+
+-   Essential visits include visits for compassionate reasons, such as
+    end-of-life care or those essential to a resident's care and mental
+    well-being
+-   Contact the long-term care facility to find out if you qualify as an
+    essential visitor
+
+All visitors are allowed at seniors\' assisted living facilities.
 
 Larger, facility-wide social events or gatherings, adult day programs
 and in-facility respite are allowed.
@@ -589,10 +603,6 @@ and in-facility respite are allowed.
     facility
 -   Outdoor gatherings may include family and friends
 
-You do not need to schedule an appointment to visit residents in
-long-term care or seniors\' assisted living facilities. There is no
-limit to the number of visitors for each resident.
-
 ### Protecting long-term care residents 
 
 All visitors must show proof of full vaccination before visiting a
@@ -600,12 +610,15 @@ long-term care or seniors\' assisted-living facility. The easiest way to
 show proof of vaccination is using your [BC Vaccine
 Card].
 
-Safety precautions like visitor health screening, hand hygiene and
-physical distancing will continue.
+All visitors who are 12 years of age and older must also complete rapid
+point-of-care testing at the entrance.
 
--   Before your visit, review BCCDC information for [Visitors in
-    Long-Term Care and Seniors' Assisted Living (PDF,
-    661KB)]
+Safety precautions like hand hygiene and physical distancing will
+continue.
+
+Before your visit, review BCCDC information for [Visitors in Long-Term
+Care and Seniors' Assisted Living (PDF,
+661KB)].
 
 #### When to wear a mask at long-term care facilities 
 

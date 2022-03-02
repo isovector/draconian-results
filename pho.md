@@ -2,10 +2,6 @@
 Provincial and regional restrictions
 ====================================
 
-If you have mild symptoms and no risk factors for severe illness, you
-don\'t need a COVID test. [When do I need a
-test?]
-
 
 !
 
@@ -17,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 4, 2022**
+Last updated: **January 7, 2022**
 
 **On this page:**
 
@@ -48,7 +44,7 @@ webpage and the order, the order is correct and legal and must be
 followed. 
 
 Masks are required in all public indoor settings for all people born in
-2016 or earlier (5+). 
+2017 or earlier (5+). 
 
 This includes:
 
@@ -178,7 +174,7 @@ liquor serving premises].
 Fairs, festivals and trade shows
 
 Fairs, festivals and trade shows are limited to 50% capacity with a
-communicable disease plan. 
+COVID-19 safety plan.
 
  
 
@@ -220,9 +216,7 @@ Exceptions will be made for workplaces like:
 
 ------------------------------------------------------------------------
 
-Workplaces will transition from a COVID-19 Safety Plan to a communicable
-disease plan. Additional safety precautions are required in higher risk
-workplaces. 
+Additional safety precautions are required in higher risk workplaces. 
 
 -   [Review communicable disease prevention guidance from
     WorkSafeBC]
@@ -405,8 +399,7 @@ You must wear a mask in all indoor workspaces, unless:
     work duties
 -   You have [a valid exemption]
 
-Workplaces must have a COVID-19 safety plan in place as part of the
-workplace\'s Communicable Disease Plan. 
+Workplaces must have a COVID-19 safety plan in place. 
 
 ------------------------------------------------------------------------
 

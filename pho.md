@@ -2,9 +2,6 @@
 Province-wide restrictions
 ==========================
 
-Many restrictions have been eased. Safety measures like wearing a
-mask and proof of vaccination are still in place.
-
 
 !
 

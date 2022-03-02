@@ -2,15 +2,16 @@
 Province-wide restrictions
 ==========================
 
-Travel restrictions for non-essential travel in B.C. are in place until
-May 25. Fines can be given to people who leave their region for
-non-essential travel. [Read the
+Travel restrictions for non-essential travel between regions in B.C. are
+in place until June 15. Fines can be given to people who leave their
+region for non-essential travel. Recreational travel in your region is
+allowed. [Read the
 restrictions]. 
 
 
 !
 
-Provincial restrictions are in place to help stop the spread of
+Provincial restrictions remain in place to help stop the spread of
 COVID-19. Some restrictions are made by the Provincial Health Officer
 (PHO) under the Public Health Act and others are made under the
 Emergency Program Act (EPA). Most orders can be enforced by police and
@@ -18,59 +19,14 @@ compliance and enforcement officials.
 
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
 
-Last updated: **April 23, 2021**
+Last updated: **May 25, 2021**
 
 **On this page:**
 
--   [Do your part to keep B.C. safe]
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants and bars]
 -   [EPA order on masks in public indoor settings]
 -   [Enforcement]
-
-------------------------------------------------------------------------
-
-Do your part to keep B.C. safe 
------------------------------------------------
-
-### Stronger province-wide restrictions 
-
-The PHO has strengthened province-wide restrictions. These
-restrictions came into effect March 29 at 11:59 pm and last to May 24 at
-midnight. They include:
-
--   The variance allowing indoor religious gatherings and worship
-    services between March 28 and May 13 is suspended
--   Indoor low intensity group exercise classes are
-    [cancelled]
--   Restaurants, pubs and bars are [closed for
-    indoor dining]. Outdoor patio seating and
-    take-out or delivery is allowed
--   Workplaces with a COVID-19 exposure may be ordered to [close for a
-    minimum of 10 days]
-
-### Safety recommendations 
-
-In addition to the orders, the PHO strongly recommends:
-
--   Working from home whenever possible, unless it is essential to be in
-    the workplace
--   Keeping your child home from school if they feel sick or have any
-    sign of illness
--   [Getting testing
-    immediately]
-    if you or anyone in your family feels sick
-
-#### Masks in schools 
-
-All K to 12 staff and all students in grades 4 to 12 are [required to
-wear non-medical masks in all indoor
-areas],
-including:
-
--   At their work stations (desks)
--   On school buses
--   Within and outside learning groups
 
 ------------------------------------------------------------------------
 
@@ -83,90 +39,35 @@ It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
 
-### Social gatherings 
+### Personal gatherings 
 
-#### Indoor gatherings 
+Examples of a personal gathering include having friends over to your
+house or meeting up with friends at a park. 
 
-No indoor social gatherings of **any size** at your residence with
-anyone other than your household or, if you live alone, your core
-bubble. For example:
-
--   Do not invite friends or extended family inside your residence or
-    vacation accommodation
--   Do not host a party or event inside your house
-
-#### Outdoor gatherings 
+#### Outdoor personal gatherings 
 
 Up to 10 people can gather outdoors. For example:
 
 -   Up to 10 people can gather at a park or beach
 -   Up to 10 people can gather in the backyard of a residence
 
-Do not gather with several groups of new people. **Stick to** **the same
-people**. Continue to use COVID-19 layers of protection and maintain
-physical distancing. Patios and outdoor areas at restaurants, pubs and
-bars are **not included** as places to gather with 10 people at one
-table.
+Patios and outdoor areas at restaurants, pubs and bars are **not
+included** as places to gather with 10 people at one table.
 
-[Expand All]()[ \| ][Collapse
-All]()
+#### Indoor personal gatherings 
 
- 
-
-[Core bubble]()
-
-For most people, their core bubble is their immediate household. An
-immediate household is a group of people who live in the same residence.
+Up to 5 visitors or 1 other household can visit a personal residence.
 For example:
 
--   If you have a rental suite in your home, the suite is a separate
-    residence
--   If you live in an apartment or house with roommates, you are all
-    members of the same household
+-   Up to 5 people from different households can attend a dinner party
+    at a household of 4 people
+-   One household of 7 people can attend a birthday at another household
+    of 4 people
 
-For people who live alone, a core bubble is a maximum of two people you
-see regularly.
+### Organized gatherings by sector 
 
- 
-
-[Co-parenting and legal parenting arrangements]()
-
-The order does not impact arrangements where children are occupants of
-two separate households. Children may go back and forth between the two
-residences.
-
- 
-
-[Supporting family members or isolated people]()
-
-For those who rely on a family member or close friends for support with
-things like picking up children after school or delivering essential
-items like mail, medication or groceries, these activities can continue.
-
- 
-
-[University students]()
-
-Welcoming your child home from university is okay. This is not a social
-gathering. 
-
- 
-
-Visiting people who live alone
-
-People who live alone may have up to two visitors inside their
-residence for a social purpose. These are the two people in your core
-bubble.
-
--   If those two people regularly interact with each other, they may
-    visit the residence of the person who lives alone at the same time
-
-People who live alone may also visit one other residence with more than
-one occupant. 
-
- 
-
-### Gatherings and events by sector 
+Examples of an organized gathering include wedding ceremonies or
+funerals.
 
 [Expand All]()[ \| ][Collapse
 All]()
@@ -175,13 +76,18 @@ All]()
 
 [Cultural events and gatherings]()
 
-Cultural events and gatherings are prohibited. For example:\
+Indoor seated organized gatherings of up to 10 people are allowed with a
+COVID-19 Safety Plan in place. These could include things like:\
  
 
--   Musical or theatre performances
--   Galas
--   Silent auctions
--   Movie viewings in cinemas
+-   [An indoor wedding ceremony]
+
+Outdoor organized gatherings of up to 50 people are allowed with a
+COVID-19 Safety Plan in place. These could include things like:
+
+-   A small outdoor concert
+-   An [outdoor wedding ceremony]
+-   Outdoor live theatre performances
 
  
 
@@ -256,11 +162,13 @@ allowed inside homes or venues.
 [Indoor religious gatherings and worship
 services]()
 
-Indoor in-person religious gatherings and worship services of any size
-are prohibited.
+Safety protocols for indoor in-person religious gatherings and worship
+services of any size are being reviewed and will be updated shortly.
+Until new protocols are released:\
+ 
 
--   You must not attend a service at a church, synagogue, mosque,
-    gudwara, temple or other place of worship
+-   You must not attend an indoor service at a church, synagogue,
+    mosque, gudwara, temple or other place of worship
 -   Religious services can continue using remote or virtual attendance
     options, like Zoom or Skype
 
@@ -297,7 +205,8 @@ a dining area.\
 
  
 
-[Outdoor funerals]()
+[Outdoor funerals and
+weddings]()
 
 Funerals conducted by a religious body may be held outdoors (including
 in open-sided tents and under overhead coverings). Before, during and
@@ -305,6 +214,20 @@ after the funeral service, people must not gather or socially engage.
 
 -   Up to 50 people may attend, plus 2 extra people to make sure rules
     are followed
+
+------------------------------------------------------------------------
+
+Outdoor weddings and associated receptions may proceed with a COVID-19
+Safety Plan in place. You can have a maximum of 50 people attend,
+including the officiant. [Review BC Centre for Disease Control
+(BCCDC) information on event
+planning].\
+ 
+
+-   The event organizer and staff present at the event are not included
+    in the 50 people limit
+-   If the event organizer also acts as the officiant, that person is
+    included in the 50 people limit
 
  
 
@@ -365,7 +288,8 @@ away from every other person present at all times.
 
 [Retail businesses, vending markets and episodic markets]()
 
-Retail businesses are required to:\
+Retail businesses are required to continue operating under their
+COVID-19 Safety Plan. A plan must:\
  
 
 -   Establish capacity limits based on 5 square metres of unencumbered
@@ -397,7 +321,8 @@ Exceptions will be made for workplaces like:
 
 ------------------------------------------------------------------------
 
-Employers must make every effort to provide work from home options.  
+Employers are required to continue operating under their COVID-19 Safety
+Plans and can begin a gradual return to the workplace.
 
 
 -   Workplaces must ensure that all workers and customers maintain an
@@ -438,20 +363,7 @@ include:\
 Structured extracurricular activities and programs for children or youth
 are subject to a 50 person limit.
 
-Performances, recitals and demonstrations are not allowed. 
-
  
-
-### Activities allowed under the order 
-
-These activities are not considered a social gathering:
-
--   Going for a walk or hike
--   Parents carpooling kids to and from school
--   Grandparents providing child care
--   Public pools and public skating rinks, when not associated with an
-    event, are allowed to continue to operate with a COVID-19 Safety
-    Plan
 
 ### Exercise 
 
@@ -459,9 +371,7 @@ These activities are not considered a social gathering:
 
 Indoor high intensity group exercise is prohibited. High intensity group
 exercise causes a sustained and accelerated rate of breathing and may
-involve close contact with other people. Businesses, recreation centres
-or other organizations that organize or operate high intensity group
-exercise must suspend the following activities:
+involve close contact with other people. These include:
 
 -   Hot yoga
 -   Spin classes 
@@ -472,8 +382,9 @@ exercise must suspend the following activities:
 
 #### Indoor low intensity group exercise 
 
-Indoor low intensity group exercise is prohibited until May 24 at
-midnight. These include:
+Indoor low intensity group exercise is allowed. Low intensity group
+exercise does not cause a sustained and accelerated rate of breathing
+and does not involve close contact with other people. These include:
 
 -   Yoga (Hatha)
 -   Low intensity exercise machines and cardio equipment
@@ -482,6 +393,11 @@ midnight. These include:
 -   Stretching
 -   Tai-Chi
 -   Low intensity Barre classes
+
+Businesses, recreation centres or other organizations that organize or
+operate low intensity group fitness activities must follow the
+restrictions in the order, including a COVID-19 Safety Plan developed
+following public health guidelines.
 
 #### Gyms and recreation facilities 
 
@@ -494,68 +410,13 @@ a COVID-19 Safety Plan that is strictly followed.
 
 ### Sports 
 
-The order places restrictions on adult and youth indoor and outdoor
-group sports. 
+The order places restrictions on adult and youth group sports. 
 
-[Expand All]()[ \| ][Collapse
-All]()
-
- 
-
-[High performance athletes]()
-
-High performance athletes already training in B.C. as of November 19,
-2020 can train, travel and compete together. They must follow the
-COVID-19 safety protocols of the provincial or national sports
-organization they are affiliated with.
-
-To qualify as a high-performance athlete, you must be identified by the
-Canadian Sports Institute Pacific as a high-performance athlete
-affiliated with an accredited provincial or national sports
-organization.
-
- 
-
-[Spectators]()
-
-Spectators are not allowed at any sport activities. The only people
-allowed to attend sport activities are those that provide care to a
-participant or player. For example, providing personal care or first
-aid to a player.
-
- 
-
-Travel for sport
-
-Travel for athletic activities like games, competitions, training and
-practice is prohibited. This includes:
-
--   A hockey player travelling from Vernon to Penticton to participate
-    on their spring hockey team
--   A softball player traveling from Kamloops to Vancouver to
-    participate on their rep team
--   A dancer travelling from Langley to Whistler to participate in a
-    virtual competition
-
-Participants can travel to their home club if their home club is outside
-of their immediate community. That club needs to be close to a
-participant\'s residence, like a neighbouring community. For example:
-
--   A skier part of the local ski club travelling to their local
-    mountain, which may be in a neighbouring community
--   An archer travelling to a neighbouring community because their
-    community does not have an archery club
--   A high-performance athlete travelling to a nearby community to
-    receive specialized training
-
- 
-
-#### Adult indoor and outdoor group sports 
+#### Adult and youth group and team sports 
 
 Group sports are activities involving more than one person. This
 includes group training and practice for an individual or team sport.
-Games, tournaments and competitions for indoor and outdoor group sports
-for people 22 years of age and older are prohibited. These include:
+These include:
 
 -   Basketball
 -   Cheerleading
@@ -584,54 +445,98 @@ for people 22 years of age and older are prohibited. These include:
 -   Softball
 -   Tennis (Tournaments)
 -   Golf (Tournaments)
--   Pickleball (Tournaments/Group Competitions)
+-   Pickleball (Tournaments /Group Competitions)
 -   Cricket
 -   Group cycling (Competitions)
 
-While restrictions are currently in place related to adult group sports,
-some indoor and outdoor sports and activities, including drills and
-training activities, are permitted with modifications and a reduced
-number of participants:
+[Expand All]()[ \| ][Collapse
+All]()
+
+ 
+
+[Adult and youth outdoor group and team
+sports]()
+
+Outdoor group sports for adults and youth are allowed, including:\
+ 
+
+-   Games
+-   Tournaments and competitions
+-   Practices
+
+Contact your local sports organization for guidance on COVID-19 Safety
+Plan requirements.
+
+ 
+
+Adult indoor group and team sports
+
+Games, tournaments and competitions for indoor group sports for people
+22 years of age and older are prohibited.
+
+Some indoor sports and activities, including drills and training
+activities, are permitted with modifications and a reduced number of
+participants:\
+ 
 
 -   2 people may engage in indoor sports with one another
--   10 people may engage in outdoor sports with one another
 
 Participants must maintain a distance of 3 metres from one another
 unless everyone lives in the same private residence.
 
-#### Youth indoor and outdoor team sports 
+ 
 
-All organized indoor and outdoor sports for people 21 years of age and
-younger are limited to training and practice where all participants
-maintain 3 metres of physical distance from one another. This means
-games, tournaments and competitions are temporarily suspended. Amateur
-sports organizations and leagues may implement additional guidelines to
-ensure the health and safety of participants.
+Youth indoor group and team sports
+
+Games, tournaments and competitions for indoor group sports for people
+21 years of age and younger are prohibited.
+
+Indoor drills and training activities are permitted. Participants must
+maintain a distance of 3 metres from one another unless everyone lives
+in the same private residence.
+
+ 
+
+[High performance athletes]()
+
+High performance athletes already training in B.C. as of November 19,
+2020 can train, travel and compete together. They must follow the
+COVID-19 safety protocols of the provincial or national sports
+organization they are affiliated with.
+
+To qualify as a high-performance athlete, you must be identified by the
+Canadian Sports Institute Pacific as a high-performance athlete
+affiliated with an accredited provincial or national sports
+organization.
+
+#### Spectators 
+
+Spectators are not allowed at any sport activities. The only people
+allowed to attend sport activities are those that provide care to a
+participant or player. For example, providing personal care or first
+aid to a player. 
+
+#### Travel for sport 
+
+Travel outside your travel region for athletic activities like games,
+competitions, training and practice is prohibited.
 
 ------------------------------------------------------------------------
 
 PHO order on restaurants, pubs and bars 
 ------------------------------------------------------------
 
-Restaurants, pubs, bars and food courts are closed for indoor dining
-until May 24 at midnight.
-
--   Outdoor patio seating and take-out or delivery is allowed
--   Breweries, wineries and tasting rooms can operate outdoor patios
--   Liquor may only be served on a patio if people are seated
-
-In order to limit the spread of COVID-19, people should only be dining
-at restaurants with their household. For people who live alone, this
-should be with a maximum of two people they regularly interact with
-(core bubble).
+Indoor and outdoor dining is allowed with capacity limits based on
+physical distancing requirements and other rules, including a maximum of
+6 people at a table (not restricted to your household or bubble).
 
 -   You must [wear a mask when not at a table]
--   Events are no longer allowed
+-   Events are prohibited
 
 Restaurants, pubs and bars must have a COVID-19 Safety Plan and employee
 protocols in place. WorkSafeBC will be conducting inspections to verify
 that COVID-19 Safety Plans remain effective. Establishments that are
-noncompliant with plan requirements may face orders and fines, and
+non-compliant with plan requirements may face orders and fines, and
 possible referral to public health which may result in a closure order.
 
 -   Review the [PHO Order -- Food and Liquor Serving
@@ -681,7 +586,7 @@ This includes:
 -   City Halls
 -   Restaurants, pubs and bars when not seated at a table
 -   Indoor exercise/fitness facilities
--   Indoor sport facilities when not actively participating
+-   Indoor sport facilities
 
 You could be subject to a \$230 fine if you:
 
@@ -691,23 +596,17 @@ You could be subject to a \$230 fine if you:
     including the direction to leave the space
 -   Engage in abusive or belligerent behaviour
 
-### Masks at workplaces and shared living areas 
+### Masks in common and shared living areas 
 
 
-It is strongly recommended that masks be worn in the following areas:
+It is strongly recommended that masks be worn in the common areas in
+apartment buildings and condos, including:
 
+-   Elevators
+-   Hallways
+-   Lobbies
+-   Stairwell
 
--   Common areas in apartment buildings and condos, including:
-    -   Elevators
-    -   Hallways
-    -   Lobbies
-    -   Stairwells
-
--   Shared indoor workplace spaces, including:
-    -   Elevators
-    -   Kitchens
-    -   Hallways
-    -   Break rooms
 
 ------------------------------------------------------------------------
 

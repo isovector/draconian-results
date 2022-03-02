@@ -29,7 +29,7 @@ Last updated: **December 17, 2021**
 ------------------------------------------------------------------------
 
 New province-wide restrictions starting December 20 
------------------------------------------------------------
+--------------------------------------------------------------
 
 To help keep B.C. safe, the PHO has introduced province-wide
 restrictions. They will be in effect December 20, 2021 to January 31,

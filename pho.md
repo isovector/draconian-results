@@ -91,7 +91,7 @@ PHO order on gatherings and events
 
 This content is a summary of the [PHO order -- Gatherings and
 Events (PDF,
-305KB)] document.
+417KB)] document.
 It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
@@ -233,7 +233,7 @@ PHO order on restaurants, pubs and bars
 
 This content is a summary of the [PHO order --- Food and Liquor Serving
 Premises (PDF,
-613KB)] document.
+402KB)] document.
 It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
@@ -286,9 +286,9 @@ limit to the number of visitors for each resident.
 ### Protecting long-term care residents 
 
 All visitors should be fully vaccinated before visiting a long-term care
-or seniors\' assisted-living facility. You\'re fully vaccinated 7 days
-after [dose
-2]. 
+or seniors\' assisted-living facility. The easiest way to show proof of
+vaccination is using your [BC Vaccine
+Card].
 
 Safety precautions like visitor health screening, hand hygiene and
 physical distancing will continue.
@@ -302,11 +302,6 @@ physical distancing will continue.
 -   All visitors must wear medical masks in hallways and common areas
 -   You can only remove your mask when visiting residents in their
     living area **if you\'re fully vaccinated**
--   You will need to show your [paper immunization record
-    card]
-    or your [online immunization record on Health
-    Gateway]
-    (available 48 hours after your vaccination appointment)
 
 ------------------------------------------------------------------------
 

@@ -634,6 +634,8 @@ possible referral to public health which may result in a closure order.
 
 -   Review the [PHO Order -- Food and Liquor Serving
     Premises (PDF)]
+-   Review [Guidance for Outside Dining Spaces
+    (PDF)]
 
 ------------------------------------------------------------------------
 

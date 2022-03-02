@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 18, 2022**
+Last updated: **January 19, 2022**
 
 **On this page:**
 
@@ -24,7 +24,6 @@ Last updated: **January 18, 2022**
 -   [Regional restrictions by health authority]
 -   [Guidance for visiting long-term care or seniors\' assisted living
     facilities]
--   [Safety recommendations]
 -   [Enforcement]
 
 ```{=html}
@@ -222,16 +221,24 @@ Additional safety precautions are required in higher risk workplaces. 
 
 ### Exercise and fitness 
 
-**Starting January 20**, adult indoor individual and group fitness or
-exercise activities are allowed with increased safety protocols and
-capacity limits, including:
+**Starting January 20**, adult indoor individual, group fitness or
+exercise activities and adult dance classes and activities are allowed
+with increased safety protocols and capacity limits, including:
 
--   7 square metres of space between workout machines or people in a
-    group class
+-   Capacity based on 7m^2^ of floor space per person for both
+    individual and group fitness and exercise classes
+    -   In addition to floor space, all group fitness and exercise
+        classes have a capacity limit of 25 people
 -   Masks worn at all times, except when actively exercising. We
     strongly encourage people wear a mask even when exercising
 -   Pre-bookings for drop-in individual fitness where operationally
     possible
+-   Scanning [proof of vaccination QR codes for
+    entry]
+
+Fitness and exercise facilities must follow [Indoor Exercise, Fitness,
+and Dance Class Facility COVID-19 Guidance -- January 19, 2022 (PDF,
+383KB)].
 
 **Until January 19 at 11:59 pm**, adult indoor individual and group
 fitness or exercise activities are not allowed. For example:
@@ -443,10 +450,8 @@ and in-facility respite are allowed.
 
 ### Protecting long-term care residents 
 
-All visitors must show proof of full vaccination before visiting a
-long-term care or seniors\' assisted-living facility. The easiest way to
-show proof of vaccination is using your [BC Vaccine
-Card].
+All visitors must show proof of vaccination before visiting a long-term
+care or seniors\' assisted-living facility.
 
 All visitors who are 12 years of age and older must also complete rapid
 point-of-care testing at the entrance.
@@ -463,24 +468,6 @@ Care and Seniors' Assisted Living (PDF,
 -   All visitors must wear medical masks in hallways and common areas
 -   You can only remove your mask when visiting residents in their
     living area **if you\'re fully vaccinated**
-
-------------------------------------------------------------------------
-
-Safety recommendations 
----------------------------------
-
-In addition to the orders, the PHO strongly recommends:
-
--   Keep personal gatherings as small as possible
--   Stick to the same group of people and only with those you know are
-    fully vaccinated
--   Outdoor gatherings are safer than indoor
--   Reduce social interactions
--   Ensure proper ventilation indoors by opening windows
--   Avoid all travel, if you\'re not fully vaccinated
--   Follow the [current federal travel
-    advisory]
--   Stay home if you feel sick
 
 ------------------------------------------------------------------------
 

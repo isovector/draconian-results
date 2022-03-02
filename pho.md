@@ -644,11 +644,11 @@ possible referral to public health which may result in a closure order.
 EPA order on masks in public indoor settings 
 ------------------------------------------------------
 
-As outlined in the [EPA mask mandate
-order],
-masks are required for everyone in many public indoor settings. A face
-shield is not a substitute for a mask as it has an opening below the
-mouth.
+Masks are required for everyone in many public indoor settings, as
+outlined in the [EPA mask mandate
+order].
+A face shield is not a substitute for a mask as it has an opening below
+the mouth.
 
 There are exemptions for:
 
@@ -682,8 +682,6 @@ This includes:
 -   Restaurants, pubs and bars when not seated at a table
 -   Indoor exercise/fitness facilities
 -   Indoor sport facilities when not actively participating
-
-### Mask enforcement 
 
 You could be subject to a \$230 fine if you:
 

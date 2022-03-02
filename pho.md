@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 19, 2022**
+Last updated: **January 20, 2022**
 
 **On this page:**
 
@@ -221,11 +221,11 @@ Additional safety precautions are required in higher risk workplaces. 
 
 ### Exercise and fitness 
 
-**Starting January 20**, adult indoor individual, group fitness or
-exercise activities and adult dance classes and activities are allowed
-with increased safety protocols and capacity limits, including:
+Adult indoor individual, group fitness or exercise activities and adult
+dance classes and activities are allowed with increased safety protocols
+and capacity limits, including:
 
--   Capacity based on 7m^2^ of floor space per person for both
+-   Capacity based on 7 square metres of floor space per person for both
     individual and group fitness and exercise classes
     -   In addition to floor space, all group fitness and exercise
         classes have a capacity limit of 25 people
@@ -236,20 +236,11 @@ with increased safety protocols and capacity limits, including:
 -   Scanning [proof of vaccination QR codes for
     entry]
 
+Programs specifically for children and youth are allowed. 
+
 Fitness and exercise facilities must follow [Indoor Exercise, Fitness,
 and Dance Class Facility COVID-19 Guidance -- January 19, 2022 (PDF,
 383KB)].
-
-**Until January 19 at 11:59 pm**, adult indoor individual and group
-fitness or exercise activities are not allowed. For example:
-
--   Working out at a gym. Gyms at hotels and apartments can stay open
--   Participating in low or high intensity group exercise or fitness
-    classes, including yoga, barre, CrossFit, High Intensity Interval
-    Training (HIIT) and weight training
--   Participating in dance classes at a dance studio
-
-Programs specifically for children and youth are allowed. 
 
 #### Swimming pools 
 

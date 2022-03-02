@@ -2,21 +2,24 @@
 Province-wide restrictions
 ==========================
 
+Starting February 16 at 11:59 pm, [many restrictions will be
+eased]. 
+
 
 !
 
-Provincial restrictions are in place to help stop the spread of
-COVID-19. The restrictions are made by the Provincial Health Officer
-(PHO) under the Public Health Act.
+Provincial restrictions are made by the Provincial Health Officer (PHO)
+under the Public Health Act.
 
 English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **February 3, 2022**
+Last updated: **February 15, 2022**
 
 **On this page:**
 
+-   [Easing restrictions]
 -   [PHO order on masks in public indoor settings]
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants, pubs, bars and
@@ -28,6 +31,46 @@ Last updated: **February 3, 2022**
 ```{=html}
 <!-- -->
 ```
+
+------------------------------------------------------------------------
+
+Easing restrictions 
+-------------------------------
+
+### Restrictions and safety measures that aren\'t changing 
+
+Restrictions and safety measures that remain in place will be
+reviewed in March and April 2022.
+
+-   Masks required in all indoor public settings
+-   [Showing proof of
+    vaccination] to
+    access many businesses, events and services
+-   Businesses must have a COVID-19 safety plan
+-   Restrictions on visitors to long-term care and assisted living
+    facilities
+-   Restrictions on worship services
+-   Restrictions on child and youth overnight camps
+-   K to 12 and child care safety guidelines
+
+### Restrictions that are changing 
+
+**Starting February 16 at 11:59 pm**, many restrictions will be
+eased. With proof of vaccination and masks, these activities can return
+to normal.
+
+-   No restrictions on indoor and outdoor personal gatherings
+-   Full capacity allowed for:
+    -   Indoor and outdoor organized events
+    -   Indoor events at venues
+    -   Exercise and fitness, adult sports activities, tournaments and
+        swimming pools
+-   Full capacity and fewer restrictions in restaurants, bars, pubs and
+    nightclubs:
+    -   No limits on table size
+    -   Normal liquor service hours
+    -   Customers don\'t have to remain seated
+-   Dancing is allowed when wearing a mask indoors
 
 ------------------------------------------------------------------------
 
@@ -278,16 +321,6 @@ Other requirements for sport include:
 -   Non-employee supervisors, coaches and assistants of indoor sports
     and group activities for people 21 years or younger must be fully
     vaccinated
-
-#### Travel for sport 
-
-Travel to other provinces or countries is not recommended.
-
-#### High performance athletes 
-
-High performance athletes who have a Canadian Sport Institute Pacific
-designation can train, travel or compete in accordance with their sport
-association\'s COVID-19 safety protocols.
 
 ### Sport tournaments 
 

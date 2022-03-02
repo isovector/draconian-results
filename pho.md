@@ -42,8 +42,8 @@ the order, the order is correct and legal and must be followed. 
 
 Religious bodies can hold up to four days of indoor religious services
 between March 28 and May 13. Before, during and after the service,
-people must not gather or socially engage. **Weddings, baptisms and
-indoor [funerals] are not included.**
+people must not gather or socially engage. **[Weddings, baptisms and
+indoor funerals] are not included.**
 
 -   Up to 50 people may attend or 10% of the worship space capacity,
     whichever is less. For example, if the capacity of the church is 400
@@ -52,7 +52,7 @@ indoor [funerals] are not included.**
     private residence
 -   Everyone in attendance must complete a self-health check to make
     sure that people with COVID-19 symptoms or who are at risk of being
-    infected do to attend the service
+    infected do not attend the service
 -   Musical groups of up to 5 musicians may perform. No choirs
 -   The only people who can sing are soloists and worship leaders. The
     only people who can chant are worship leaders
@@ -280,7 +280,8 @@ workplace, with some exceptions including:\
 
  
 
-[Indoor funerals, weddings and baptisms]()
+[Indoor funerals, weddings and
+baptisms]()
 
 Indoor funerals, weddings and baptisms may proceed with a limited number
 of people and a COVID-19 Safety Plan in place. You can have a maximum of

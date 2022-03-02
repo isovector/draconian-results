@@ -9,6 +9,7 @@ Some provincial restrictions remain in place to help stop the spread of
 COVID-19. The restrictions are made by the Provincial Health Officer
 (PHO) under the Public Health Act.
 
+English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 

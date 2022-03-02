@@ -19,7 +19,7 @@ compliance and enforcement officials.
 
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
 
-Last updated: **May 28, 2021**
+Last updated: **May 31, 2021**
 
 **On this page:**
 
@@ -360,8 +360,8 @@ Gyms and recreation facilities that offer individual workouts and
 personal training sessions can remain open as long as they have
 a COVID-19 Safety Plan that is strictly followed.
 
--   [Requirements: Indoor Individual Exercise
-    (PDF)]
+-   [Indoor Exercise Requirements -- May 27, 2021 (PDF,
+    462KB)]
 
 ### Sports 
 

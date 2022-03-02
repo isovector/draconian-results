@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **March 31, 2021**
+Last updated: **April 1, 2021**
 
 **On this page:**
 
@@ -580,6 +580,8 @@ Restaurants, pubs, bars and food courts are closed for indoor dining
 until April 19 at 11:59 pm.
 
 -   Outdoor patio seating and take-out or delivery is allowed
+-   Breweries, wineries and tasting rooms can operate outdoor patios
+-   Liquor may only be served on a patio if people are seated
 
 In order to limit the spread of COVID-19, people should only be dining
 at restaurants with their household. For people who live alone, this

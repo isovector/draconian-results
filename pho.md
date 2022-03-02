@@ -489,8 +489,8 @@ Gyms and recreation facilities that offer individual workouts and
 personal training sessions can remain open as long as they have
 a COVID-19 Safety Plan that is strictly followed.
 
--   [Requirements: Indoor Individual Exercise -- March 31, 2021 (PDF,
-    352KB)]
+-   [Requirements: Indoor Individual Exercise
+    (PDF)]
 
 ### Sports 
 

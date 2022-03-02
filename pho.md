@@ -17,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **October 29, 2021**
+Last updated: **November 17, 2021**
 
 **On this page:**
 
@@ -280,12 +280,10 @@ There are exemptions for:
     person\'s hearing impairment
 
 A face shield is not a substitute for a mask as it has an opening below
-the mouth.
+the mouth. 
 
-**Note: **The order will be reassessed when [proof of vaccination and
-the BC Vaccine
-Card]
-are fully implemented. 
+-   [Review Health Canada guidance on
+    masks]
 
 ------------------------------------------------------------------------
 
@@ -294,7 +292,7 @@ PHO order on gatherings and events
 
 This content is a summary of the [PHO order --- Gatherings and Events
 (PDF,
-422KB)]
+483KB)]
 document. It is not legal advice and does not provide an interpretation
 of the law. In the event of any conflict or difference between this
 webpage and the order, the order is correct and legal and must be
@@ -315,24 +313,22 @@ organized gathering include wedding ceremonies or funerals. 
 There are no capacity restrictions on indoor organized gatherings.
 [Proof of
 vaccination]
-is required for organized gatherings with more than 50 people.
+is required for organized gatherings with more than 50 people. Dancing
+is not permitted. [Masks are required indoors].
 
-Seats must be provided for all people at some indoor events with more
-than 50 people, including:
+If more than 50 people are attending, all spectators must be seated at:
 
 -   Concerts, theatre, dance and symphony performances
 -   Weddings and funeral receptions (outside of a funeral home)
 -   Lectures, presentations and workshops
--   Recreational classes and activities like art classes or choir
-    rehearsals
+-   Sponsored and ticketed parties
 
-Seats are not required for all people at:
+You do not need to remain seated at:
 
 -   Conventions and trade shows
 -   Conferences (except during lectures, presentations and workshops)
--   Sponsored and ticketed parties
-
-Dancing is not permitted. [Masks are required indoors].
+-   Recreational classes and activities like art classes and choir
+    rehearsals
 
 #### Outdoor organized gatherings 
 

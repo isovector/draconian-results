@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **February 1, 2022**
+Last updated: **February 3, 2022**
 
 **On this page:**
 
@@ -351,19 +351,23 @@ Guidance for visiting long-term care or seniors\' assisted living facilities
 -----------------------------------------------------------------------------------------------
 
 
-This content is a summary of the verbal PHO orders on residential care.
-It is not legal advice and does not provide an interpretation of the
-law. In the event of any conflict or difference between this webpage and
-the order, the order is correct and legal and must be followed. 
+This content is a summary of the [PHO order --- Residential Care
+COVID-19 Preventive Measures (PDF,
+517KB)]
+document. It is not legal advice and does not provide an interpretation
+of the law. In the event of any conflict or difference between this
+webpage and the order, the order is correct and legal and must be
+followed. 
 
 
-Only essential visitors are allowed at long-term care facilities.
+Residents of long-term care facilities are each allowed:
 
--   Essential visits include visits for compassionate reasons, such as
-    end-of-life care or those essential to a resident's care and mental
-    well-being
--   Contact the long-term care facility to find out if you qualify as an
-    essential visitor
+-   1 social visitor
+    -   You do not need a reason for a social visit
+-   1 essential visitor
+    -   Essential visits include visits for compassionate reasons, such
+        as end-of-life care or those essential to a resident's care and
+        mental well-being
 
 All visitors are allowed at seniors\' assisted living facilities.
 
@@ -387,7 +391,7 @@ continue.
 
 Before your visit, review BCCDC information for [Visitors in Long-Term
 Care and Seniors' Assisted Living (PDF,
-661KB)].
+675KB)].
 
 #### When to wear a mask at long-term care facilities 
 

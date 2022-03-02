@@ -2,11 +2,8 @@
 Province-wide restrictions
 ==========================
 
-Travel restrictions for non-essential travel between regions in B.C. are
-in place until June 15. Fines can be given to people who leave their
-region for non-essential travel. Recreational travel in your region is
-allowed. [Read the
-restrictions]. 
+Starting June 15, the province moves to [Step 2 of BC\'s Restart
+Plan]. 
 
 
 !

@@ -19,7 +19,7 @@ compliance and enforcement officials.
 
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
 
-Last updated: **June 7, 2021**
+Last updated: **June 8, 2021**
 
 **On this page:**
 
@@ -110,11 +110,11 @@ baptisms]()
 
 Indoor funerals, wedding ceremonies and baptisms may proceed with a
 limited number of people and a COVID-19 Safety Plan in place. You can
-have a maximum of 10 people attend, including the officiant. [Review BC
-Centre for Disease Control (BCCDC) information on event
-planning].\
+have a maximum of 10 people attend, including the officiant.\
  
 
+-   Up to 10 people may attend, plus 2 extra people to make sure rules
+    are followed
 -   The event organizer and staff present at the event are not included
     in the 10 people limit
 -   If the event organizer also acts as the officiant, that person is
@@ -122,6 +122,17 @@ planning].\
 
 Receptions associated with funerals, weddings or baptisms are not
 allowed inside homes or venues.
+
+Organizers should review all of the rules and guidelines:\
+ 
+
+-   [BC Centre for Disease Control (BCCDC) information on event
+    planning]
+-   [Guidance for Holding Low Risk Stand-Alone Lifecycle Events -- June
+    6, 2021 (PDF,
+    429KB)]
+-   [Variance: Indoor Worship Services (PDF,
+    225KB)]
 
  
 
@@ -152,9 +163,10 @@ weddings]()
 
 Funerals conducted by a religious body may be held outdoors (including
 in open-sided tents and under overhead coverings). Before, during and
-after the funeral service, people must not gather or socially engage.
+after the funeral service, people must not gather or socially engage.\
+ 
 
--   Up to 50 people may attend, plus 2 extra people to make sure rules
+-   Up to 50 people may attend, plus 4 extra people to make sure rules
     are followed
 
 ------------------------------------------------------------------------
@@ -162,17 +174,29 @@ after the funeral service, people must not gather or socially engage.
 Outdoor seated wedding ceremonies may proceed with a COVID-19 Safety
 Plan in place. You can have a maximum of 50 people attend if the space
 allows for social distancing between guests, including the
-officiant. [Review BC Centre for Disease Control (BCCDC) information on
-event
-planning].
-Before, during and after the wedding service, people must not gather or
-engage socially. For example, there cannot be receptions or dancing.\
+officiant. Before, during and after the wedding service, people must not
+gather or engage socially. For example, no receptions or dancing.\
  
 
+-   Up to 50 people may attend, plus 4 extra people to make sure rules
+    are followed
 -   The event organizer and staff present at the event are not included
     in the 50 people limit
 -   If the event organizer also acts as the officiant, that person is
     included in the 50 people limit
+
+------------------------------------------------------------------------
+
+Organizers should review all of the rules and guidelines:\
+ 
+
+-   [BC Centre for Disease Control (BCCDC) information on event
+    planning]
+-   [Guidance for Holding Low Risk Stand-Alone Lifecycle Events -- June
+    6, 2021 (PDF,
+    429KB)]
+-   [Variance: Outdoor Worship Services (PDF,
+    259KB)]
 
  
 
@@ -195,11 +219,11 @@ Organizers should review all of the rules and guidelines:\
  
 
 -   [Guidance for Holding Low Risk Worship Services (PDF,
-    384KB)]
--   [Variance: Indoor Worship Services (PDF,
-    191KB)]
--   [Variance: Outdoor Worship Services (PDF,
-    226KB)]
+    427KB)]
+-   [Variance: Inside Worship Services (PDF,
+    225KB)]
+-   [Variance: Outside Worship Services (PDF,
+    259KB)]
 
 ------------------------------------------------------------------------
 
@@ -299,7 +323,9 @@ existing COVID-19 Safety Plan.\
 
  
 
-[Youth extracurricular activities]()
+[Youth extracurricular activities and overnight camps]()
+
+#### Extracurricular activities 
 
 Structured extracurricular activities and programs for children or youth
 21 years of age and younger can continue to operate with a COVID-19
@@ -317,6 +343,17 @@ include:\
 
 Structured extracurricular activities and programs for children or youth
 are subject to a 50 person limit.
+
+------------------------------------------------------------------------
+
+#### Overnight camps 
+
+Overnight camps for youth are allowed to operate. They need to prepare a
+COVID-19 Safety Plan that aligns with the [BC Camps Association COVID-19
+Guidelines for Overnight
+Camps].
+Camps must submit the COVID-19 Safety Plan to the medical health officer
+and, if required, make changes to the plan.
 
  
 
@@ -412,15 +449,19 @@ All]()
 [Adult and youth outdoor group and team
 sports]()
 
-Outdoor group sports are allowed for adults or youth who are registered
-with a sports club, organization or facility. Activities include:\
+Outdoor group sports for adults and youth are allowed within their home
+club (the sport club, organization or facility a person is registered
+with for sport programming).
+
+Activities include:\
  
 
 -   Games
--   Tournaments and competitions
+-   Competitions
 -   Practices
 
-Contact your local sports organization:
+Contact your local sports organization:\
+ 
 
 -   For guidance on current COVID-19 Safety Plan requirements
 -   To discuss safety plan adjustments that will align with [BC\'s

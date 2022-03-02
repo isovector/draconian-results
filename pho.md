@@ -19,7 +19,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **October 21, 2021**
+Last updated: **October 27, 2021**
 
 **On this page:**
 
@@ -42,9 +42,7 @@ Medical Health Officer.
 
 ### Fraser Health 
 
-Fraser Health has restrictions in place for the [Fraser East Health
-Service Delivery Area (PDF,
-2MB)]:
+Fraser Health has restrictions in place for the Fraser East region:
 
 -   Abbotsford
 -   Agassiz
@@ -113,31 +111,12 @@ You must wear a mask in all indoor workspaces, unless:
 Workplaces must have a COVID-19 safety plan in place as part of the
 workplace\'s Communicable Disease Plan. 
 
-### Increased proof of vaccination requirements and the BC Vaccine Card 
-
-[Proof of
-vaccination]
-is required to access some events, services and businesses.
-
-In the Fraser East region, you must be fully vaccinated to meet the
-requirement. You\'re fully vaccinated with 2 doses of vaccine. This
-applies to:
-
--   Ticketed events like sports, concerts, theatre and dance
--   Nightclubs, casinos and movie theatres
--   Gyms, exercise and dance facilities or studios
--   Businesses offering indoor exercise and fitness
--   Indoor organized group recreational classes and activities with more
-    than 10 people
-    -   For example, pottery studios, art classes or choir rehearsals
--   Outdoor organized events with more than 50 people
-
-The restrictions do not apply to programs for children or youth. 
-
 ------------------------------------------------------------------------
 
-[Review full details on the Fraser Health
-website.]
+-   [Review full details on the Fraser Health
+    website]
+-   [Map of the Fraser East Health Service Delivery Area (PDF,
+    2MB)]
 
 ### Interior Health 
 
@@ -161,23 +140,29 @@ barbecues) are limited to no more than 50 people.
 
 ------------------------------------------------------------------------
 
-[Review full details on the Interior Health
-website].
+-   [Review full details on the Interior Health
+    website]
+-   [Map of the Interior Health region (PDF,
+    1.4MB)]
 
 ### Northern Health 
 
-Northern Health has restrictions in place for every community in their
-health authority. Restrictions vary by your local health area.
+Northern Health has restrictions in place for all communities east
+of Gitwangak (Kitwanga). These restrictions do **not** apply to:
 
-[Expand All]()[ \| ][Collapse
-All]()
+-   Haida Gwaii
+-   Kitimat
+-   Nisga\'a
+-   Prince Rupert
+
+-   Snow Country
+-   Stikine
+-   Telegraph Creek
+-   Terrace
 
  
 
-[Local health areas east of Gitwangak (Kitwanga)]()
-
-Restrictions apply to all communities in Northern Health, except [some
-local health areas in the northwest].
+[Regional restrictions in Northern Health]()
 
 ### Personal gatherings 
 
@@ -196,7 +181,6 @@ household.
 ### Organized gatherings 
 
 All people aged 12 and older must be fully vaccinated and show [proof of
-full
 vaccination].
 
 -   Indoor events are limited to 50 people, and [masks are
@@ -237,49 +221,18 @@ capacity and must have a COVID-19 safety plan. All spectators aged 5 and
 older must wear a mask, and all spectators aged 12 and older must show
 proof of full vaccination. 
 
-All participants aged 22 and older must have at least one dose of a
-COVID-19 vaccine. By October 24, 2021, all participants aged 22 and
-older must be fully vaccinated.
+All participants aged 22 and older must be fully vaccinated.
 
 ### Travel 
 
 Non-essential travel outside your community is strongly discouraged.
 
- 
+------------------------------------------------------------------------
 
-[Local health areas west of Gitwangak
-(Kitwanga)]()
-
-Different restrictions are in place for the following local health
-areas:
-
--   Haida Gwaii
--   Kitimat
--   Nisga\'a
--   Prince Rupert
-
--   Snow Country
--   Stikine
--   Telegraph Creek
--   Terrace
-
-### Personal gatherings 
-
-Indoor personal gatherings are limited to your household plus 5 visitors
-or one other household.
-
-Outdoor personal gatherings are limited to 50 people.
-
-### Organized gatherings 
-
-A COVID-19 safety plan is required for:
-
--   Outdoor gatherings with more than 200 people
--   All indoor events, where [masks are also required]
--   Indoor and outdoor sporting events that have spectators
-
-[Review full details on the Northern Health
-website].
+-   [Review full details on the Northern Health
+    website]
+-   [Map of the Northern Health region (PDF,
+    1.3MB)]
 
 ------------------------------------------------------------------------
 
@@ -339,10 +292,13 @@ are fully implemented. 
 PHO order on gatherings and events 
 ------------------------------------------------
 
-This content is a summary of the verbal PHO order on gatherings and
-events. It is not legal advice and does not provide an interpretation of
-the law. In the event of any conflict or difference between this webpage
-and the order, the order is correct and legal and must be followed. 
+This content is a summary of the [PHO order --- Gatherings and Events
+(PDF,
+422KB)]
+document. It is not legal advice and does not provide an interpretation
+of the law. In the event of any conflict or difference between this
+webpage and the order, the order is correct and legal and must be
+followed. 
 
 ### Personal gatherings 
 
@@ -356,14 +312,25 @@ organized gathering include wedding ceremonies or funerals. 
 
 #### Indoor organized gatherings 
 
-Indoor organized seated gatherings can have a capacity of 50 people or
-50% capacity, whichever is greater. For example, if the venue has a
-normal seated capacity of 500 people, 250 people can attend. 
-
-Venues where [proof of
+There are no capacity restrictions on indoor organized gatherings.
+[Proof of
 vaccination]
-is required can return to full capacity from October 25, unless
-[additional regional restrictions] are in place.
+is required for organized gatherings with more than 50 people.
+
+Seats must be provided for all people at some indoor events with more
+than 50 people, including:
+
+-   Concerts, theatre, dance and symphony performances
+-   Weddings and funeral receptions (outside of a funeral home)
+-   Lectures, presentations and workshops
+-   Recreational classes and activities like art classes or choir
+    rehearsals
+
+Seats are not required for all people at:
+
+-   Conventions and trade shows
+-   Conferences (except during lectures, presentations and workshops)
+-   Sponsored and ticketed parties
 
 Dancing is not permitted. [Masks are required indoors].
 
@@ -422,8 +389,6 @@ workplaces. 
 -   [Review communicable disease prevention guidance from
     WorkSafeBC]
 
- 
-
 ### Exercise 
 
 #### Indoor high intensity and low intensity group exercise 
@@ -446,46 +411,48 @@ This includes:
 -   Competitions
 -   Practices
 
+Adults supervising or assisting with youth sports must be fully
+vaccinated.
+
 #### Spectators 
 
 Outdoor sport activities can have 5,000 spectators or 50% seated
 capacity, whichever is greater. For example, if the venue has a normal
-seated capacity of 30,000 people, 15,000 spectators can attend. 
+seated capacity of 30,000 people, 15,000 spectators can attend. Seats
+must be provided for everyone.
 
-Indoor sport activities can have 50 spectators or 50% seated capacity,
-whichever is greater. For example, if the venue has a normal seated
-capacity of 500 people, 250 spectators can attend. Venues can return to
-full capacity from October 25, unless [additional regional
-restrictions] are in place.
+There are no capacity restrictions on indoor sport activities. All
+spectators must have a seat. [Proof of
+vaccination]
+is required for all spectators at indoor sporting events.
 
 #### Travel for sport 
 
-Travel for sport is allowed. Non-essential travel to or from the
-Interior is discouraged unless you are fully vaccinated.
+Travel for sport is allowed.
 
 ------------------------------------------------------------------------
 
 PHO order on restaurants, pubs and bars 
 ------------------------------------------------------------
 
-This content is a summary of the verbal PHO order on food and liquor
-serving premises. It is not legal advice and does not provide an
-interpretation of the law. In the event of any conflict or difference
-between this webpage and the order, the order is correct and legal and
-must be followed. 
+This content is a summary of the [PHO order --- Food and Liquor Serving
+Premises (PDF,
+402KB)]
+document. It is not legal advice and does not provide an interpretation
+of the law. In the event of any conflict or difference between this
+webpage and the order, the order is correct and legal and must be
+followed. 
 
 Businesses will transition from a COVID-19 Safety Plan to a communicable
 disease plan.
 
 ### Restaurants, pubs, bars and nightclubs 
 
-There are no group limits for indoor and outdoor dining. The requirement
-to stay seated will be lifted from October 25, unless [additional
-regional restrictions] are in place.
+There are no group limits for indoor and outdoor dining. 
 
 -   Venues can determine their own table limits
 -   No dancing
--   Liquor service hours return to normal
+-   Normal liquor service hours
 -   [Masks are required] when not seated at a table
 
 ### Casinos 
@@ -521,13 +488,10 @@ limit to the number of visitors for each resident.
 
 ### Protecting long-term care residents 
 
-All visitors must show proof of vaccination before visiting a long-term
-care or seniors\' assisted-living facility. The easiest way to show
-proof of vaccination is using your [BC Vaccine
+All visitors must show proof of full vaccination before visiting a
+long-term care or seniors\' assisted-living facility. The easiest way to
+show proof of vaccination is using your [BC Vaccine
 Card].
-
-Currently, all visitors must have at least one dose. Starting October
-26, all visitors must be fully vaccinated.
 
 Safety precautions like visitor health screening, hand hygiene and
 physical distancing will continue.

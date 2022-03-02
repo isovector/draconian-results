@@ -17,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **September 30, 2021**
+Last updated: **October 4, 2021**
 
 **On this page:**
 
@@ -256,7 +256,7 @@ law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
 
 Masks are required in all public indoor settings for all people born in
-2009 or earlier (12+). 
+2012 or earlier (9+). 
 
 This includes:
 
@@ -274,8 +274,7 @@ This includes:
 -   Common areas of post-secondary institutions and non-profit
     organizations
 
--   Inside schools for all K to 12 staff, visitors and students in
-    grades 4 to 12
+-   Inside schools, including all K to 12 students
 -   Drug stores
 -   Community centres
 -   Recreation centres
@@ -287,7 +286,7 @@ There are exemptions for:
 -   People with health conditions or with physical, cognitive or mental
     impairments who cannot wear one
 -   People who cannot remove a mask on their own
--   Children under the age of 12
+-   Children under the age of 9
 -   People who need to remove their masks to communicate due to another
     person\'s hearing impairment
 

@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **March 29, 2021**
+Last updated: **March 31, 2021**
 
 **On this page:**
 
@@ -56,8 +56,14 @@ In addition to the orders, the PHO strongly recommends:
 
 #### Masks in schools 
 
-Public health guidance for K to 12 schools has been updated to support
-and encourage students in grade 4 to 12 to wear masks at school. 
+All K to 12 staff and all students in grades 4 to 12 are [required to
+wear non-medical masks in all indoor
+areas],
+including:
+
+-   At their work stations (desks)
+-   On school buses
+-   Within and outside learning groups
 
 ------------------------------------------------------------------------
 

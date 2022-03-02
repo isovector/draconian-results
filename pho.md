@@ -218,7 +218,7 @@ Exceptions will be made for workplaces like:
 
 Additional safety precautions are required in higher risk workplaces. 
 
--   [Review communicable disease prevention guidance from
+-   [Review COVID-19 prevention guidance from
     WorkSafeBC]
 
  

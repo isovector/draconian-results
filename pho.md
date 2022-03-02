@@ -2,8 +2,10 @@
 Provincial and regional restrictions
 ====================================
 
-Regional restrictions are in place for people who live in Fraser Health
-(Fraser East), Interior Health and Northern Health.
+Regional restrictions are in place for people who live in [Fraser Health
+(Fraser East)], [Interior
+Health] and [Northern
+Health].
 
 
 !
@@ -17,7 +19,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **October 4, 2021**
+Last updated: **October 15, 2021**
 
 **On this page:**
 
@@ -218,11 +220,98 @@ website].
 ### Northern Health 
 
 Northern Health has restrictions in place for every community in their
-health authority.
+health authority. Restrictions vary by your local health area.
+
+[Expand All]()[ \| ][Collapse
+All]()
 
  
 
-[Regional restrictions in Northern Health]()
+[Local health areas east of Gitwangak (Kitwanga)]()
+
+Restrictions apply to all communities in Northern Health, except [some
+local health areas in the northwest].
+
+### Personal gatherings 
+
+All people ages 12 and older must be fully vaccinated.
+
+-   Indoor personal gatherings are limited to your household plus up to
+    5 visitors or one other household
+    -   Everyone must wear a mask or practice 2 metre physical
+        distancing
+-   Outdoor gatherings are limited to your household, plus up to 25
+    people
+
+People who are not fully vaccinated can only gather with their own
+household.
+
+### Organized gatherings 
+
+All people aged 12 and older must be fully vaccinated and show [proof of
+full
+vaccination].
+
+-   Indoor events are limited to 50 people
+-   Outdoor events are limited to 100 people
+
+### Faith gatherings 
+
+Worship services can only be held virtually.
+
+### Restaurants, bars and nightclubs 
+
+Fast food restaurants and unlicensed cafés without table service can
+either:
+
+-   Provide take-out service only
+-   Require all patrons to show proof of vaccination using the [BC
+    Vaccine
+    Card]
+
+Licensed establishments, establishments that offer table service, and
+liquor manufacturing facilities with tasting rooms without full meal
+service:
+
+-   Cannot serve alcohol between 10 pm and 9 am
+-   Must require all patrons to show proof of vaccination using the [BC
+    Vaccine
+    Card]
+
+Bars and nightclubs that do not offer full meal service must close.
+
+### Sports 
+
+Indoor and outdoor sporting events are limited to 50% spectator
+capacity and must have a COVID-19 safety plan. All spectators aged 5 and
+older must wear a mask, and all spectators aged 12 and older must show
+proof of full vaccination. 
+
+All participants aged 22 and older must have at least one dose of a
+COVID-19 vaccine. By October 24, 2021, all participants aged 22 and
+older must be fully vaccinated.
+
+### Travel 
+
+Non-essential travel outside your community is strongly discouraged.
+
+ 
+
+[Local health areas west of Gitwangak
+(Kitwanga)]()
+
+Different restrictions are in place for the following local health
+areas:
+
+-   Haida Gwaii
+-   Kitimat
+-   Nisga\'a
+-   Prince Rupert
+
+-   Snow Country
+-   Stikine
+-   Telegraph Creek
+-   Terrace
 
 ### Personal gatherings 
 
@@ -239,8 +328,6 @@ A COVID-19 safety plan is required for:
 -   All indoor events
 -   Indoor and outdoor sporting events that have spectators
 
-------------------------------------------------------------------------
-
 [Review full details on the Northern Health
 website].
 
@@ -249,14 +336,13 @@ website].
 PHO order on masks in public indoor settings 
 ------------------------------------------------------
 
-This content is a summary of the [PHO order --- Face Coverings (PDF,
-308KB)] document.
+This content is a summary of the verbal PHO order on face coverings.
 It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
 
 Masks are required in all public indoor settings for all people born in
-2012 or earlier (9+). 
+2016 or earlier (5+). 
 
 This includes:
 
@@ -286,7 +372,7 @@ There are exemptions for:
 -   People with health conditions or with physical, cognitive or mental
     impairments who cannot wear one
 -   People who cannot remove a mask on their own
--   Children under the age of 9
+-   Children under the age of 5
 -   People who need to remove their masks to communicate due to another
     person\'s hearing impairment
 
@@ -338,11 +424,10 @@ All]()
 
  
 
-[Fairs, festivals, trade shows and
-receptions]()
+Fairs, festivals and trade shows
 
-Fairs, festivals, trade shows and stand up receptions can return to
-normal operations with a communicable disease plan. 
+Fairs, festivals and trade shows can return to normal operations with a
+communicable disease plan. 
 
  
 
@@ -357,8 +442,7 @@ worship services. 
 
 A workplace that has workers testing positive for COVID-19 and public
 health confirming transmission has occurred in the work environment
-may be ordered to close for a minimum of 10 days.\
- 
+may be ordered to close for a minimum of 10 days.
 
 -   Review the [PHO Delegation: Workplace Closures (PDF,
     319KB)]
@@ -366,8 +450,7 @@ may be ordered to close for a minimum of 10 days.\
 For larger workplaces, the closure may be restricted to the locations
 where transmission has occurred.
 
-Exceptions will be made for workplaces like:\
- 
+Exceptions will be made for workplaces like:
 
 -   Courthouses, police stations and fire halls
 -   Healthcare facilities, schools, shelters
@@ -476,17 +559,20 @@ limit to the number of visitors for each resident.
 
 ### Protecting long-term care residents 
 
-All visitors should be fully vaccinated before visiting a long-term care
-or seniors\' assisted-living facility. The easiest way to show proof of
-vaccination is using your [BC Vaccine
+All visitors must show proof of vaccination before visiting a long-term
+care or seniors\' assisted-living facility. The easiest way to show
+proof of vaccination is using your [BC Vaccine
 Card].
+
+Currently, all visitors must have at least one dose. Starting October
+26, all visitors must be fully vaccinated.
 
 Safety precautions like visitor health screening, hand hygiene and
 physical distancing will continue.
 
--   Before your visit, review information for [Visitors in Long-Term
-    Care and Seniors' Assisted Living -- July 19, 2021 (PDF,
-    601KB)]
+-   Before your visit, review BCCDC information for [Visitors in
+    Long-Term Care and Seniors' Assisted Living (PDF,
+    661KB)]
 
 #### When to wear a mask at long-term care facilities 
 

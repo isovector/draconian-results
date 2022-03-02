@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **December 17, 2021**
+Last updated: **December 18, 2021**
 
 **On this page:**
 
@@ -28,12 +28,11 @@ Last updated: **December 17, 2021**
 
 ------------------------------------------------------------------------
 
-New province-wide restrictions starting December 20 
---------------------------------------------------------------
+New province-wide restrictions as of December 20 
+-----------------------------------------------------------
 
 To help keep B.C. safe, the PHO has introduced province-wide
-restrictions. They will be in effect December 20, 2021 to January 31,
-2022.
+restrictions. They are in effect December 20, 2021 to January 31, 2022.
 
 ### New Year\'s Eve parties 
 
@@ -49,8 +48,8 @@ vaccinated.
 
 ### Organized events 
 
-[Organized events] require proof of being fully
-vaccinated to attend. Everyone must wear a mask. 
+[Indoor organized events] require proof of being
+fully vaccinated to attend. Everyone must wear a mask. 
 
 
 ------------------------------------------------------------------------
@@ -77,10 +76,10 @@ allowed.
 
 ------------------------------------------------------------------------
 
-### Large events 
+### Large indoor events 
 
-[Large events] with capacity for 1,000 or more people can
-only use 50% seated capacity.
+[Large indoor events] can have up to 1,000 people or 50%
+capacity, whichever is greater.
 
 ```{=html}
 <!-- -->
@@ -94,6 +93,7 @@ Restrictions, guidance and requirements stay the same for:
 -   [Worship services]
 -   [Fairs, festivals and trade shows]
 -   [Workplaces]
+-   [Outdoor organized events]
 -   [Exercise]
 -   [Regional restrictions]
 
@@ -195,23 +195,26 @@ There are no restrictions for outdoor personal gatherings.
 
 ### Organized gatherings 
 
-[Proof of
-vaccination]
-is required for all organized events of all sizes. Everyone must be
-fully vaccinated to attend. Businesses must scan proof of vaccination QR
-codes for entry.
-
 Organized gatherings have capacity restrictions. Examples of an
 organized gathering include wedding ceremonies or funeral receptions. 
 
 #### Indoor organized gatherings 
 
+[Proof of
+vaccination]
+is required for all indoor organized events of all sizes. Everyone must
+be fully vaccinated to attend. Businesses must scan proof of vaccination
+QR codes for entry.
+
 Dancing is not permitted. [Masks are required indoors].
 
-Indoor organized gatherings with capacity for 1,000 people or more can
-only use 50% capacity.
+Indoor organized gatherings can have up to 1,000 people or 50% capacity,
+whichever is greater. For example:
 
-If more than 50 people are attending, all spectators must be seated at:
+-   If a venue has capacity for 1,600 people, 1,000 people can attend
+-   If a venue has capacity for 3,000 people, 1,500 people can attend
+
+All spectators must be seated at:
 
 -   Concerts, theatre, dance and symphony performances
 -   Weddings and funeral receptions (outside of a funeral home)
@@ -230,10 +233,9 @@ restrictions.
 
 #### Outdoor organized gatherings 
 
-Outdoor organized seated gatherings with capacity for 1,000 people or
-more can only have 50% seated capacity. [Proof of
-vaccination]
-is required.
+Outdoor organized seated gatherings can have a capacity of 5,000 people
+or 50% capacity, whichever is greater. For example, if the venue has a
+normal seated capacity of 30,000 people, 15,000 people can attend. 
 
 ### Organized gatherings by sector 
 

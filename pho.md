@@ -2,11 +2,11 @@
 Province-wide restrictions
 ==========================
 
-Regional restrictions are in place for people who live in Kelowna, West
-Kelowna, Peachland, Lake Country and on Westbank First Nations lands
-(Central Okanagan Local Health Area). [You must wear a mask in all
-indoor public
-spaces]. 
+[Regional restrictions are in
+place]
+for people who live in Kelowna, West Kelowna, Peachland, Lake Country
+and on Westbank First Nations lands (Central Okanagan Local Health
+Area).
 
 
 !
@@ -19,7 +19,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **July 28, 2021**
+Last updated: **August 6, 2021**
 
 **On this page:**
 
@@ -63,6 +63,12 @@ or 50% capacity, whichever is greater. For example, if the venue has a
 normal seated capacity of 30,000 people, 15,000 people can attend. 
 
 ### Organized gatherings by sector 
+
+[Regional restrictions are in
+place]
+for people who live in Kelowna, West Kelowna, Peachland, Lake Country
+and on Westbank First Nations lands (Central Okanagan Local Health
+Area).
 
 [Expand All]()[ \| ][Collapse
 All]()
@@ -118,6 +124,12 @@ workplaces. 
 
 ### Exercise 
 
+[Regional restrictions are in
+place]
+for people who live in Kelowna, West Kelowna, Peachland, Lake Country
+and on Westbank First Nations lands (Central Okanagan Local Health
+Area).
+
 #### Indoor high intensity and low intensity group exercise 
 
 Indoor high intensity and low intensity group exercise is allowed with
@@ -156,6 +168,12 @@ Travel for sport is allowed. 
 
 PHO order on restaurants, pubs and bars 
 ------------------------------------------------------------
+
+[Regional restrictions are in
+place]
+for people who live in Kelowna, West Kelowna, Peachland, Lake Country
+and on Westbank First Nations lands (Central Okanagan Local Health
+Area).
 
 Businesses will transition from a COVID-19 Safety Plan to a communicable
 disease plan. 

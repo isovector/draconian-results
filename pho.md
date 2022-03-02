@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **March 18, 2021**
+Last updated: **March 24, 2021**
 
 **On this page:**
 
@@ -32,10 +32,46 @@ It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
 
-### March 2021 update 
+### Easing restrictions, amendments to the order 
 
-The PHO has amended the gathering and events order. Up to 10 people can
-gather outdoors. For example:
+#### Religious gatherings and worship services 
+
+-   Read the [Variance: Outdoor Worship Services -- March 23, 2021 (PDF,
+    250KB)]
+
+Religious worship services may be held outdoors. Before, during and
+after the service, people must not gather or socially engage.
+
+-   Up to 50 people may attend, plus 2 extra people to make sure rules
+    are followed
+-   Participants must be 2 metres apart unless they live in the same
+    private residence
+-   Drive-in worship events can continue to operate (No more than
+    50 vehicles may be present, and people who attend in a vehicle must
+    remain in the vehicle)
+-   Musical groups of up to 5 musicians may perform
+
+Masks are required at all times by everyone in attendance.
+
+-   Masks can only be removed by soloists (when singing), worship
+    leaders (when speaking, singing or chanting), readers (when reading
+    out loud), or musicians who need to do so to play their instrument.
+    They must maintain 3 metres of spacing or use a physical barrier
+-   The only people who can sing are soloists and worship leaders. The
+    only people who can chant are worship leaders
+-   Masks are not required for people who can't wear a mask due to a
+    condition or impairment or kids under the age of 12
+
+Organizers must:
+
+-   Collect information for contract tracing
+-   Supply hand sanitizer
+-   Caution those at risk, including seniors and those with underlying
+    medical conditions or compromised immune systems, from attending
+
+#### Outdoor gatherings 
+
+Up to 10 people can gather outdoors. For example:
 
 -   Up to 10 people can gather at a park or beach
 -   Up to 10 people can gather in the backyard of a residence
@@ -45,12 +81,9 @@ people**. Continue to use COVID-19 layers of protection and maintain
 physical distancing.
 
 All restrictions for indoor gatherings remain in place. No indoor
-gatherings of any size are allowed.
-
-#### Outdoor patios 
-
-Patios and outdoor areas at restaurants, pubs and bars are **not
-included** as places to gather with 10 people at one table.
+gatherings of any size are allowed. Patios and outdoor areas at
+restaurants, pubs and bars are **not included** as places to gather with
+10 people at one table.
 
 ### Gatherings inside residences or vacation accommodations 
 
@@ -217,6 +250,26 @@ workplace, with some exceptions including:\
 
  
 
+[Indoor religious gatherings and worship services]()
+
+Indoor in-person religious gatherings and worship services of any size
+are prohibited.
+
+-   You must not attend a service at a church, synagogue, mosque,
+    gudwara, temple or other place of worship
+-   Religious services can continue using remote or virtual attendance
+    options, like Zoom or Skype
+
+You can still visit your place of worship for individual activities such
+as guidance from spiritual leaders, contemplation or personal prayer.
+
+Religious leaders may attend the home of a member of their religious
+community to provide religious services to the occupant.
+
+You can attend an [outdoor religious gathering].
+
+ 
+
 [Meals for people in need]()
 
 Meals for people in need may proceed with a limited number of people and
@@ -253,24 +306,6 @@ distancing of passengers.
 Rental and home viewings should be restricted to a maximum of six
 people, subject to each person present  being able to keep two metres
 away from every other person present at all times.
-
- 
-
-[Religious gatherings and worship services]()
-
-Inside in-person religious gatherings and worship services of any size
-are prohibited.
-
--   You must not attend a service at a church, synagogue, mosque,
-    gudwara, temple or other place of worship
--   Religious services can continue using remote or virtual attendance
-    options, like Zoom or Skype
-
-You can still visit your place of worship for individual activities such
-as guidance from spiritual leaders, contemplation or personal prayer.
-
-Religious leaders may attend the home of a member of their religious
-community to provide religious services to the occupant.
 
  
 

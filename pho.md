@@ -19,7 +19,7 @@ compliance and enforcement officials.
 
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
 
-Last updated: **May 25, 2021**
+Last updated: **May 26, 2021**
 
 **On this page:**
 
@@ -88,40 +88,6 @@ COVID-19 Safety Plan in place. These could include things like:
 -   A small outdoor concert
 -   An [outdoor wedding ceremony]
 -   Outdoor live theatre performances
-
- 
-
-[Drive-in and drop-off events]()
-
-#### Drive-in events 
-
-Drive-in events may proceed with a limited number of people. Drive-in
-events can have a maximum of 50 cars in attendance. People must stay in
-their cars and should attend with their household or core
-bubble. Drive-in events must have a COVID-19 Safety Plan in place.
-
-Examples of drive-in events:\
- 
-
--   Drive-in movies
--   Religious services
-
-#### Drop-off events 
-
-Drop-off events may proceed with a COVID-19 Safety Plan in place.
-
-Examples of drop-off events:\
- 
-
--   Fundraisers
--   Toy drives
-
-All drive-in and drop-off events must:\
- 
-
--   Maintain physical distancing 
--   Control the entry and exit points
--   Avoid congestion of cars and congregating of people
 
  
 
@@ -217,11 +183,12 @@ after the funeral service, people must not gather or socially engage.
 
 ------------------------------------------------------------------------
 
-Outdoor weddings and associated receptions may proceed with a COVID-19
-Safety Plan in place. You can have a maximum of 50 people attend,
-including the officiant. [Review BC Centre for Disease Control
-(BCCDC) information on event
-planning].\
+Outdoor weddings may proceed with a COVID-19 Safety Plan in place. You
+can have a maximum of 50 people attend, including the officiant. [Review
+BC Centre for Disease Control (BCCDC) information on event
+planning].
+Before, during and after the wedding service, people must not gather or
+engage socially.\
  
 
 -   The event organizer and staff present at the event are not included

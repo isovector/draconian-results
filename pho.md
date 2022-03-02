@@ -17,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **December 1, 2021**
+Last updated: **December 6, 2021**
 
 **On this page:**
 
@@ -195,11 +195,12 @@ Non-essential travel outside your community is strongly discouraged.
 PHO order on masks in public indoor settings 
 ------------------------------------------------------
 
-This content is a summary of the [PHO order - Face Coverings (PDF, 419
-KB)].
-It is not legal advice and does not provide an interpretation of the
-law. In the event of any conflict or difference between this webpage and
-the order, the order is correct and legal and must be followed. 
+This content is a summary of the [PHO order --- Face Coverings (PDF,
+440KB)]
+document. It is not legal advice and does not provide an interpretation
+of the law. In the event of any conflict or difference between this
+webpage and the order, the order is correct and legal and must be
+followed. 
 
 Masks are required in all public indoor settings for all people born in
 2016 or earlier (5+). 
@@ -213,7 +214,8 @@ This includes:
 -   On public transportation, in a taxi or ride-sharing vehicle
 -   Libraries
 -   Clothing and retail stores
--   Places of worship, including congregants and choirs
+-   [Places of worship, including congregants and
+    choirs]
 
 -   Areas of office buildings where services to the public are provided
 -   Common areas of sport and fitness centres when not engaged in
@@ -227,7 +229,7 @@ This includes:
 -   Recreation centres
 -   City Halls
 -   Restaurants, pubs and bars when not seated at a table
--   Events happening under the Gatherings and Events order
+-   Events happening under the [Gatherings and Events order]
 
 There are exemptions for:
 
@@ -249,9 +251,9 @@ the mouth. 
 PHO order on gatherings and events 
 ------------------------------------------------
 
-This content is a summary of the [PHO order --- Gatherings and Events
+This content is a summary of the [PHO order -- Gatherings and Events
 (PDF,
-483KB)]
+480KB)]
 document. It is not legal advice and does not provide an interpretation
 of the law. In the event of any conflict or difference between this
 webpage and the order, the order is correct and legal and must be
@@ -288,6 +290,9 @@ You do not need to remain seated at:
 -   Conferences (except during lectures, presentations and workshops)
 -   Recreational classes and activities like art classes and choir
     rehearsals
+
+Private social events in workplaces are not subject to these
+restrictions.
 
 #### Outdoor organized gatherings 
 

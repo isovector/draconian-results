@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 7, 2022**
+Last updated: **January 10, 2022**
 
 **On this page:**
 
@@ -333,83 +333,6 @@ restrictions.**
 
 [Expand All]()[ \| ][Collapse
 All]()
-
- 
-
-Regional restrictions in Fraser Health (Fraser East region)
-
-Fraser Health has restrictions in place for the Fraser East region:
-
--   Abbotsford
--   Agassiz
--   Chilliwack
--   Harrison Hot Springs
--   Hope
--   Mission
-
-### Personal gatherings 
-
-#### People who are fully vaccinated 
-
-If all people age 12 or older are fully vaccinated, there are
-no restrictions on indoor or outdoor personal gatherings at private
-residences or vacation accommodations.
-
-#### People who are not fully vaccinated 
-
-Indoor personal gatherings in private residences are limited to your
-household plus 5 visitors or one other household.
-
-Outdoor personal gatherings at private residences are limited to your
-household plus up to 10 visitors, who must remain outside. 
-
-### ​Organized gatherings 
-
-#### People who are fully vaccinated 
-
-Province-wide indoor and outdoor gathering capacity limits and mask
-orders remain in place, with 3 additional requirements:
-
--   All people must be fully vaccinated and show [proof of
-    vaccination] to
-    attend.
-    -   Examples of organized gatherings include ticketed events like
-        sports, movies, plays, and festivals, indoor adult sport,
-        fitness or dance activities
--   Organizers must collect contact information from all people
--   Events must have a COVID-19 safety plan
-
-#### People who are not fully vaccinated 
-
-People who are not fully vaccinated:
-
--   Can\'t attend ticketed events like movies, plays, festivals and
-    sports
--   Can attend indoor organized gatherings that are limited to 10 people
--   Can attend outdoor organized gatherings that are limited to 50
-    people
-
-### Workplaces 
-
-You must wear a mask in all indoor workspaces, unless:
-
--   You are alone in a room or there is a barrier between you and other
-    people
--   Wearing a mask would interfere with the safe performance of your
-    work duties
--   You have [a valid exemption]
-
-Workplaces must have a COVID-19 safety plan in place. 
-
-------------------------------------------------------------------------
-
--   [Review full details on the Fraser Health
-    website]
--   [Gathering and Events Regional Measures (COVID-19) Order for Fraser
-    Health Authority -- September 28, 2021 (PDF,
-    352KB)]
--   [Map of the Fraser East Health Service Delivery Area (PDF,
-    2MB)]
 
  
 

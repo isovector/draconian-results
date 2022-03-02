@@ -13,7 +13,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **January 21, 2022**
+Last updated: **January 25, 2022**
 
 **On this page:**
 
@@ -251,19 +251,10 @@ Pools at hotels and apartments can stay open.
 Activities that take place in swimming pools are allowed. For example,
 aquafit, lane swim and group classes.
 
-### Sports 
+### Sport activities 
 
-Sport tournaments are not allowed. Tournaments are single or multi-day
-events where 3 or more teams compete against each other outside of
-regular league play. This restriction does not include:
-
--   A gathering where team members compete individually against each
-    other
--   A gathering where the result will decide if a team will advance to
-    play in a national or international competition
-
-Other sport activities that normally take place in a sport environment
-can continue, including:
+Sport activities that normally take place in a sport environment are
+allowed, including:
 
 -   Participating in an adult indoor sport or recreation program as long
     as it does not exceed 50% of the occupancy of the space
@@ -273,11 +264,11 @@ can continue, including:
 
 Other requirements for sport include:
 
--   [Masks are required indoors] when not participating in a
-    sport
--   [Proof of vaccination is
-    required] for
-    spectators and adult participants at indoor sporting events
+-   [Masks required indoors] when not actively participating in
+    a sport
+-   [Proof of
+    vaccination required] for
+    spectators (12+) and adult participants at indoor sporting events
 -   Non-employee supervisors, coaches and assistants of indoor sports
     and group activities for people 21 years or younger must be fully
     vaccinated
@@ -289,8 +280,34 @@ Travel to other provinces or countries is not recommended.
 #### High performance athletes 
 
 High performance athletes who have a Canadian Sport Institute Pacific
-designation are exempt. They can train, travel or compete in accordance
-with their sport association\'s COVID-19 safety protocols.
+designation can train, travel or compete in accordance with their sport
+association\'s COVID-19 safety protocols.
+
+### Sport tournaments 
+
+#### Child and youth sport tournaments 
+
+**Starting February 1,** all child and youth sport tournaments are
+allowed for people 21 years or younger. Tournament requirements include:
+
+-   [Masks required indoors] when not actively participating in
+    a sport
+-   [Proof of
+    vaccination required] for
+    all spectators (12+) and all non-employee tournament support
+    people like parents, coaches and volunteers
+-   50% spectator capacity
+
+#### Adult sport tournaments 
+
+Adult sport tournaments are not allowed. Tournaments are single or
+multi-day events where 3 or more teams compete against each other
+outside of regular league play. This restriction does not include:
+
+-   A gathering where adult team members compete individually against
+    each other
+-   A gathering where the result will decide if an adult team will
+    advance to play in a national or international competition
 
 ------------------------------------------------------------------------
 

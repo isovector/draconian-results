@@ -39,8 +39,9 @@ the order, the order is correct and legal and must be followed. 
 -   Read the [Variance: Outdoor Worship Services -- March 23, 2021 (PDF,
     250KB)]
 
-Religious worship services may be held outdoors. Before, during and
-after the service, people must not gather or socially engage.
+Religious worship services may be held outdoors (including in open-sided
+tents and under overhead coverings). Before, during and after the
+service, people must not gather or socially engage.
 
 -   Up to 50 people may attend, plus 2 extra people to make sure rules
     are followed
@@ -266,7 +267,8 @@ as guidance from spiritual leaders, contemplation or personal prayer.
 Religious leaders may attend the home of a member of their religious
 community to provide religious services to the occupant.
 
-You can attend an [outdoor religious gathering].
+You can attend an [outdoor religious
+gathering].
 
  
 

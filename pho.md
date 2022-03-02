@@ -237,8 +237,9 @@ Organizers should review all of the rules and guidelines:\
 
 [Rental and home sale viewings]()
 
-Rental and home viewings restricted capacity so each person present can
-keep two metres away from every other person present at all times.
+Rental and home viewings should restrict capacity so each person
+present can keep two metres away from every other person present at all
+times.
 
  
 

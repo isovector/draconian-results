@@ -36,7 +36,7 @@ Do your part to keep B.C. safe
 ### Stronger province-wide restrictions 
 
 The PHO has strengthened province-wide restrictions. These
-restrictions came into effect March 29 at 11:59 pm and last to May 25 at
+restrictions came into effect March 29 at 11:59 pm and last to May 24 at
 midnight. They include:
 
 -   The variance allowing indoor religious gatherings and worship
@@ -472,7 +472,7 @@ exercise must suspend the following activities:
 
 #### Indoor low intensity group exercise 
 
-Indoor low intensity group exercise is prohibited until May 25 at
+Indoor low intensity group exercise is prohibited until May 24 at
 midnight. These include:
 
 -   Yoga (Hatha)
@@ -614,7 +614,7 @@ PHO order on restaurants, pubs and bars
 ------------------------------------------------------------
 
 Restaurants, pubs, bars and food courts are closed for indoor dining
-until May 25 at midnight.
+until May 24 at midnight.
 
 -   Outdoor patio seating and take-out or delivery is allowed
 -   Breweries, wineries and tasting rooms can operate outdoor patios

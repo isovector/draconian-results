@@ -1,6 +1,6 @@
 
-Provincial and regional restrictions
-====================================
+Province-wide restrictions
+==========================
 
 
 !

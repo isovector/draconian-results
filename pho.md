@@ -19,7 +19,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **October 19, 2021**
+Last updated: **October 21, 2021**
 
 **On this page:**
 
@@ -62,9 +62,9 @@ Regional restrictions in Fraser Health (Fraser East region)
 
 #### People who are fully vaccinated 
 
-If all people age 12 or older are fully vaccinated, there are no
-restrictions on indoor or outdoor personal gatherings at private
-residences or vacation accommodations. 
+If all people age 12 or older are fully vaccinated, there are
+no restrictions on indoor or outdoor personal gatherings at private
+residences or vacation accommodations.
 
 #### People who are not fully vaccinated 
 
@@ -78,8 +78,8 @@ household plus up to 10 visitors, who must remain outside. 
 
 #### People who are fully vaccinated 
 
-Province-wide indoor and outdoor gathering capacity limits remain in
-place, with 3 additional requirements:
+Province-wide indoor and outdoor gathering capacity limits and mask
+orders remain in place, with 3 additional requirements:
 
 -   All people must be fully vaccinated and show [proof of
     vaccination] to
@@ -159,59 +159,6 @@ visitors or one other household.
 Outdoor personal gatherings (for example, birthday parties or backyard
 barbecues) are limited to no more than 50 people.
 
-### ​Organized gatherings 
-
-#### People who are fully vaccinated 
-
-Province-wide indoor and outdoor gathering capacity limits remain in
-place, with 1 additional requirement:
-
--   All people must be fully vaccinated and show proof of vaccination
-
-#### People who are not fully vaccinated 
-
-You can only attend indoor organized gatherings with less than 50
-people, or outdoor organized gatherings with less than 100 people.
-
--   Organizers must collect contact information from all people
-
-### **Schools** 
-
-Indoor assemblies are limited to 50 people or 2 classes (whichever is
-larger) in a single space.
-
-Visitors should be limited to those involved with activities
-benefiting student learning and well-being. For example, teacher
-candidates, immunizers and meal program volunteers.
-
-#### Extracurricular school sport events and social activities 
-
-Players, coaches and volunteers on the field of play do not require
-proof of vaccination.
-
-Proof of vaccination is not required for spectators at indoor school
-events with less than 50 people or outdoor school events with less than
-100 people.
-
--   Proof of full vaccination is required for events that exceed these
-    capacity limits
-
-### Exercise 
-
-Participants and instructors of indoor high intensity group exercise
-must be fully vaccinated. 
-
-### Sports 
-
-You must be fully vaccinated and show proof of vaccination to:
-
--   Be a spectator at indoor youth and adult sporting events with more
-    than 50 people
--   Be a spectator at outdoor youth and adult sporting events with more
-    than 100 people
--   Participate in adult group and team sports for people 22 years old
-    or older
-
 ------------------------------------------------------------------------
 
 [Review full details on the Interior Health
@@ -252,7 +199,8 @@ All people aged 12 and older must be fully vaccinated and show [proof of
 full
 vaccination].
 
--   Indoor events are limited to 50 people
+-   Indoor events are limited to 50 people, and [masks are
+    required]
 -   Outdoor events are limited to 100 people
 
 ### Faith gatherings 
@@ -260,6 +208,8 @@ vaccination].
 Worship services can only be held virtually.
 
 ### Restaurants, bars and nightclubs 
+
+[Masks are required] when not seated at a table.
 
 Fast food restaurants and unlicensed cafés without table service can
 either:
@@ -325,7 +275,7 @@ Outdoor personal gatherings are limited to 50 people.
 A COVID-19 safety plan is required for:
 
 -   Outdoor gatherings with more than 200 people
--   All indoor events
+-   All indoor events, where [masks are also required]
 -   Indoor and outdoor sporting events that have spectators
 
 [Review full details on the Northern Health
@@ -396,7 +346,8 @@ and the order, the order is correct and legal and must be followed. 
 
 ### Personal gatherings 
 
-There are no restrictions on indoor or outdoor personal gatherings. 
+There are no capacity restrictions on indoor or outdoor personal
+gatherings.
 
 ### Organized gatherings 
 
@@ -414,7 +365,7 @@ vaccination]
 is required can return to full capacity from October 25, unless
 [additional regional restrictions] are in place.
 
-Dancing is not permitted.
+Dancing is not permitted. [Masks are required indoors].
 
 #### Outdoor organized gatherings 
 
@@ -535,6 +486,7 @@ regional restrictions] are in place.
 -   Venues can determine their own table limits
 -   No dancing
 -   Liquor service hours return to normal
+-   [Masks are required] when not seated at a table
 
 ### Casinos 
 
@@ -546,9 +498,12 @@ at approximately 50% capacity across the sector.
 Guidance for visiting long-term care or seniors\' assisted living facilities 
 -----------------------------------------------------------------------------------------------
 
-This content is a summary of the [PHO order --- COVID-19 Vaccination
-Status Information and Preventive Measures (PDF,
-513KB)] document.
+This content is a summary of the [PHO order --- Residential Care
+COVID-19 Preventive Measures (PDF,
+517KB)] and
+[PHO order --- Residential Care COVID-19 Vaccination Status Information
+(PDF,
+506KB)] documents.
 It is not legal advice and does not provide an interpretation of the
 law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 

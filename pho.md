@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **March 15, 2021**
+Last updated: **March 18, 2021**
 
 **On this page:**
 
@@ -51,19 +51,6 @@ gatherings of any size are allowed.
 
 Patios and outdoor areas at restaurants, pubs and bars are **not
 included** as places to gather with 10 people at one table.
-
-#### St. Patrick\'s Day liquor sales 
-
-Effective March 17 at 8 pm until March 18 at 9 am, the service and sale
-of alcohol is prohibited. This applies to any establishment that sells
-or serves alcohol, including: 
-
--   Restaurants
--   Bars and pubs
--   Liquor stores and grocery stores
-
-Unless a full meal service is provided, premises which are licensed to
-serve liquor must close between 9 pm on March 17 and 9 am on March 18.
 
 ### Gatherings inside residences or vacation accommodations 
 

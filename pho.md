@@ -17,7 +17,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **August 20, 2021**
+Last updated: **August 23, 2021**
 
 **On this page:**
 
@@ -221,17 +221,9 @@ limit to the number of visitors for each resident.
 ### Protecting long-term care residents 
 
 All visitors should be fully vaccinated before visiting a long-term care
-or seniors\' assisted-living facility. You\'re fully vaccinated 14 days
+or seniors\' assisted-living facility. You\'re fully vaccinated 7 days
 after [dose
 2]. 
-
-To confirm your immunization record when visiting a long-term care
-facility, use ImmunizeBC\'s COVID-19 Vaccination Status Indicator tool. 
-
-[Launch
-tool]{.btn
-.btn-primary} You must provide your date of birth and Personal Health
-Number (PHN). 
 
 Safety precautions like visitor health screening, wearing masks in
 common areas, hand hygiene and physical distancing will continue.
@@ -264,7 +256,7 @@ restrictions].
 Masks are recommended in indoor public settings for all people 12 and
 older who are not yet fully vaccinated. 
 
--   You\'re fully vaccinated 14 days after [dose
+-   You\'re fully vaccinated 7 days after [dose
     2]
 -   Masks are optional for children aged 2 to 12
 -   Children under 2 should not wear masks

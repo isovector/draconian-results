@@ -2,6 +2,9 @@
 Province-wide restrictions
 ==========================
 
+Starting July 1, the province moves to [Step 3 of BC\'s Restart
+Plan].
+
 
 !
 

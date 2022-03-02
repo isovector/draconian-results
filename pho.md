@@ -360,7 +360,7 @@ Travel to other provinces or countries is not recommended.
 
 High performance athletes who have a Canadian Sport Institute Pacific
 designation are exempt. They can train, travel or compete in accordance
-with their sport association\'s COIVID-19 safety protocols.
+with their sport association\'s COVID-19 safety protocols.
 
 ------------------------------------------------------------------------
 

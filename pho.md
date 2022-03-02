@@ -41,7 +41,7 @@ These restrictions are in effect until January 18, 2022.
 
 -   [Indoor organized gatherings] of any size are not
     allowed. This includes gatherings like New Year\'s Eve parties,
-    weddings or other celebrations
+    wedding receptions or other celebrations
 -   [Indoor events at venues] can only have 50%
     capacity. This includes events like concerts, sports or movies
 -   [Bars, nightclubs and lounges are closed]
@@ -88,8 +88,9 @@ Restrictions, guidance and requirements stay the same for:
 
 In addition to the orders, the PHO strongly recommends:
 
--   Keep gatherings small and only with those you know are fully
-    vaccinated
+-   Keep personal gatherings as small as possible
+-   Stick to the same group of people and only with those you know are
+    fully vaccinated
 -   Outdoor gatherings are safer than indoor
 -   Reduce social interactions
 -   Ensure proper ventilation indoors by opening windows
@@ -180,6 +181,15 @@ household. Everyone 12+ must be [fully
 vaccinated].
 
 There are no restrictions for outdoor personal gatherings.
+
+Everyone is encouraged to:
+
+-   Keep personal gatherings as small as possible
+-   Stick to the same group of people
+
+```{=html}
+<!-- -->
+```
 
 ### Indoor organized gatherings 
 

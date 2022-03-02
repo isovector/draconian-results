@@ -2,7 +2,9 @@
 Province-wide restrictions
 ==========================
 
-Regional restrictions are in place for people who live in [Interior
+Regional restrictions are in place for people who live in [Fraser Health
+(Fraser
+East)], [Interior
 Health] and
 [Northern
 Health].

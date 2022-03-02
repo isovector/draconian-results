@@ -253,6 +253,7 @@ This includes:
 -   Airports
 -   Coffee shops
 -   On public transportation, in a taxi or ride-sharing vehicle
+-   Ski gondolas
 -   Libraries
 -   Clothing and retail stores
 

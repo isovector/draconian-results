@@ -2,9 +2,10 @@
 Province-wide restrictions
 ==========================
 
-[Regional restrictions are in
-place]
-for people who live in Interior Health.
+Regional restrictions are in place for people who live in [Interior
+Health] and
+[Northern
+Health].
 
 
 !
@@ -17,7 +18,7 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **August 25, 2021**
+Last updated: **September 2, 2021**
 
 **On this page:**
 
@@ -32,6 +33,12 @@ Last updated: **August 25, 2021**
 
 PHO order on masks in public indoor settings 
 ------------------------------------------------------
+
+This content is a summary of the [PHO order --- Face Coverings (PDF,
+308KB)] document.
+It is not legal advice and does not provide an interpretation of the
+law. In the event of any conflict or difference between this webpage and
+the order, the order is correct and legal and must be followed. 
 
 Masks are required in all public indoor settings for all people born in
 2009 or earlier (12+). 
@@ -91,19 +98,25 @@ the order, the order is correct and legal and must be followed. 
 
 ### Personal gatherings 
 
-There are no restrictions on indoor or outdoor personal gatherings. 
+There are no restrictions on indoor or outdoor personal
+gatherings. People in these regions must follow local restrictions:
 
--   People who live in Interior Health [must follow regional personal
-    gathering
+-   [Interior Health personal gathering
+    restrictions]
+-   [Northern Health personal
+    ga][thering
     restrictions]
 
 ### Organized gatherings 
 
 Organized gatherings have some capacity restrictions. Examples of an
-organized gathering include wedding ceremonies or funerals.
+organized gathering include wedding ceremonies or funerals. People in
+these regions must follow local restrictions:
 
--   People who live in Interior Health [must follow regional organized
-    gathering
+-   [Interior Health organized gathering
+    restrictions]
+-   [Northern Health organized
+    ga][thering
     restrictions]
 
 #### Indoor organized gatherings 
@@ -177,9 +190,11 @@ workplaces. 
 #### Indoor high intensity and low intensity group exercise 
 
 Indoor high intensity and low intensity group exercise is allowed with
-normal capacity. 
+normal capacity. People in these regions must follow local restrictions:
 
--   People who live in Interior Health [must follow regional exercise
+-   [Interior Health exercise
+    restrictions]
+-   [Northern Health exercise
     restrictions]
 
 #### Gyms, pools and recreation facilities 
@@ -224,10 +239,11 @@ law. In the event of any conflict or difference between this webpage and
 the order, the order is correct and legal and must be followed. 
 
 Businesses will transition from a COVID-19 Safety Plan to a communicable
-disease plan. 
+disease plan. People in these regions must follow local restrictions:
 
--   People who live in Interior Health [must follow regional restaurant,
-    bar and
+-   [Interior Health restaurant, bar and
+    casino restrictions]
+-   [Northern Health restaurant, bar and
     casino restrictions]
 
 ### Restaurants, pubs, bars and nightclubs 

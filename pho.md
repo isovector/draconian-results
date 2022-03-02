@@ -9,7 +9,8 @@ Some provincial restrictions remain in place to help stop the spread of
 COVID-19. The restrictions are made by the Provincial Health Officer
 (PHO) under the Public Health Act.
 
-[繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] 
+[繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
+Việt] \| [日本語] \| [हिंदी]
 
 Last updated: **July 7, 2021**
 
@@ -191,4 +192,21 @@ can make orders as needed. You must follow the orders. Some orders
 can be enforced by police or other compliance and enforcement officials.
 [People who don\'t follow these orders could be
 fined].
+
+COVID-19 response 
+-----------------
+
+
+[!]
+
+Information for residents of B.C. about COVID-19, including:
+
+-   Vaccines
+-   Benefits and supports
+-   PHO orders and guidelines
+
+[Get COVID-19
+information]{.btn
+.btn-primary}
+
 

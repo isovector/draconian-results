@@ -2,11 +2,9 @@
 Province-wide restrictions
 ==========================
 
-[Regional restrictions for gatherings, exercise and restaurants are in
+[Regional restrictions and a mask mandate are in
 place]
-for people who live in Kelowna, West Kelowna, Peachland, Lake Country
-and on Westbank First Nations lands (Central Okanagan Local Health
-Area).
+for people who live in Interior Health.
 
 
 !
@@ -46,9 +44,8 @@ the order, the order is correct and legal and must be followed. 
 
 There are no restrictions on indoor or outdoor personal gatherings. 
 
--   People who live in Kelowna, West Kelowna, Peachland, Lake Country
-    and on Westbank First Nations lands (Central Okanagan Local Health
-    Area) [must follow regional personal gathering
+-   People who live in Interior Health [must follow regional personal
+    gathering
     restrictions]
 
 ### Organized gatherings 
@@ -56,9 +53,8 @@ There are no restrictions on indoor or outdoor personal gatherings. 
 Organized gatherings have some capacity restrictions. Examples of an
 organized gathering include wedding ceremonies or funerals.
 
--   People who live in Kelowna, West Kelowna, Peachland, Lake Country
-    and on Westbank First Nations lands (Central Okanagan Local Health
-    Area) [must follow regional organized gathering
+-   People who live in Interior Health [must follow regional organized
+    gathering
     restrictions]
 
 #### Indoor organized gatherings 
@@ -134,9 +130,7 @@ workplaces. 
 Indoor high intensity and low intensity group exercise is allowed with
 normal capacity. 
 
--   People who live in Kelowna, West Kelowna, Peachland, Lake Country
-    and on Westbank First Nations lands (Central Okanagan Local Health
-    Area) [must follow regional exercise
+-   People who live in Interior Health [must follow regional exercise
     restrictions]
 
 #### Gyms, pools and recreation facilities 
@@ -183,9 +177,8 @@ the order, the order is correct and legal and must be followed. 
 Businesses will transition from a COVID-19 Safety Plan to a communicable
 disease plan. 
 
--   People who live in Kelowna, West Kelowna, Peachland, Lake Country
-    and on Westbank First Nations lands (Central Okanagan Local Health
-    Area) [must follow regional restaurant, bar and
+-   People who live in Interior Health [must follow regional restaurant,
+    bar and
     casino restrictions]
 
 ### Restaurants, pubs, bars and nightclubs 
@@ -264,6 +257,9 @@ common areas, hand hygiene and physical distancing will continue.
 
 Mask guidance 
 -------------------------------
+
+People who live in Interior Health [must follow regional mask
+restrictions].
 
 Masks are recommended in indoor public settings for all people 12 and
 older who are not yet fully vaccinated. 

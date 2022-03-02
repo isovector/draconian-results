@@ -11,7 +11,7 @@ COVID-19. Some restrictions are made by the Provincial Health Officer
 Emergency Program Act (EPA). Most orders can be enforced by police and
 compliance and enforcement officials.
 
-Last updated: **April 9, 2021**
+Last updated: **April 12, 2021**
 
 **On this page:**
 
@@ -522,15 +522,25 @@ aid to a player.
 Travel for sport
 
 Travel to, from and between communities for athletic activities like
-games, competitions, training and practice is prohibited. However,
-athletes can travel to their home club if their home club is outside of
-their immediate community. For example:\
- 
+games, competitions, training and practice is prohibited. This includes:
 
--   A figure skater who lives in the Vancouver Coastal Health region but
-    trains at their home club in Burnaby
--   A soccer player who lives in the Fraser Health region but trains at
-    their home club in Vancouver
+-   A hockey player travelling from Vernon to Penticton to participate
+    on their spring hockey team
+-   A softball player traveling from Kamloops to Vancouver to
+    participate on their rep team
+-   A dancer travelling from Langley to Whistler to participate in a
+    virtual competition
+
+Athletes can travel to their home club if their home club is outside of
+their immediate community. That club needs to be close to the
+athletes\' residence, like a neighbouring community. For example:
+
+-   A skier part of the local ski club travelling to their local
+    mountain, which may be in a neighbouring community
+-   An archer travelling to a neighbouring community because their
+    community does not have an archery club
+-   A high-performance athlete travelling to a nearby community to
+    receive specialized training
 
  
 

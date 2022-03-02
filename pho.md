@@ -1,0 +1,676 @@
+
+Province-wide restrictions
+==========================
+
+
+!
+
+Provincial restrictions are in place to help stop the spread of
+COVID-19. Some restrictions are made by the Provincial Health Officer
+(PHO) under the Public Health Act and others are made under the
+Emergency Program Act (EPA). Most orders can be enforced by police and
+compliance and enforcement officials.
+
+Last updated: **February 8, 2021**
+
+**On this page:**
+
+-   [PHO order on gatherings and events]
+-   [PHO order on restaurants and bars]
+-   [EPA order on masks in public indoor settings]
+-   [Travel advisory]
+-   [Enforcement]
+
+------------------------------------------------------------------------
+
+PHO order on gatherings and events 
+------------------------------------------------
+
+This content is a summary of the [PHO order -- Gatherings and
+Events (PDF)] document.
+It is not legal advice and does not provide an interpretation of the
+law. In the event of any conflict or difference between this webpage and
+the order, the order is correct and legal and must be followed. 
+
+By order of the PHO, all gatherings and events are suspended
+to significantly reduce COVID-19 transmission related to social
+interactions. The order came into effect November 19, 2020 at midnight
+and will be kept in place until further notice based on direction from
+the PHO.
+
+### Gatherings at residences or vacation accommodations 
+
+No social gatherings of **any size** at your residence with anyone other
+than your household or, if you live alone, your core bubble. For
+example:
+
+-   Do not invite friends or extended family into your residence or
+    vacation accommodation
+-   Do not gather in your backyard, patio, driveway or anywhere else
+    on your property
+-   Do not host playdates for children
+
+#### Core bubble 
+
+For most people, their core bubble is their immediate household. An
+immediate household is a group of people who live in the same residence.
+For example:
+
+-   If you have a rental suite in your home, the suite is a separate
+    residence
+-   If you live in an apartment or house with roommates, you are all
+    members of the same household
+
+For people who live alone, a core bubble is a maximum of two people you
+see regularly.
+
+[Expand All]()[ \| ][Collapse
+All]()
+
+ 
+
+[Co-parenting and legal parenting arrangements]()
+
+The order does not impact arrangements where children are occupants of
+two separate households. Children may go back and forth between the two
+residences.
+
+ 
+
+[Supporting family members or isolated people]()
+
+For those who rely on a family member or close friends for support with
+things like picking up children after school or delivering essential
+items like mail, medication or groceries, these activities can continue.
+
+ 
+
+[University students]()
+
+Welcoming your child home from university is okay. This is not a social
+gathering. 
+
+ 
+
+Visiting people who live alone
+
+People who live alone may have up to two visitors at their residence for
+a social purpose. These are the two people in your core bubble.
+
+-   If those two people regularly interact with each other, they may
+    visit the residence of the person who lives alone at the same time
+
+People who live alone may also visit one other residence with more than
+one occupant. 
+
+ 
+
+### Activities allowed under the order 
+
+These activities are not considered a social gathering:
+
+-   Going for a walk or hike. You must make sure a walk or hike does
+    not turn into a group of people meeting outside
+-   Parents carpooling kids to and from school
+-   Grandparents providing child care
+-   Public pools and public skating rinks, when not associated with an
+    event, are allowed to continue to operate with a COVID-19 Safety
+    Plan
+
+### Gatherings and events by sector 
+
+[Expand All]()[ \| ][Collapse
+All]()
+
+ 
+
+[Cultural events and gatherings]()
+
+Cultural events and gatherings are prohibited. For example:\
+ 
+
+-   Musical or theatre performances
+-   Galas
+-   Silent auctions
+-   Movie viewings in cinemas
+
+ 
+
+[Drive-in and drop-off events]()
+
+#### Drive-in events 
+
+Drive-in events may proceed with a limited number of people. Drive-in
+events can have a maximum of 50 cars in attendance. People must stay in
+their cars and should attend with their household or core
+bubble. Drive-in events must have a COVID-19 Safety Plan in place.
+
+Examples of drive-in events:\
+ 
+
+-   Drive-in movies
+-   Religious services
+
+#### Drop-off events 
+
+Drop-off events may proceed with a COVID-19 Safety Plan in place.
+
+Examples of drop-off events:\
+ 
+
+-   Fundraisers
+-   Toy drives
+
+All drive-in and drop-off events must:\
+ 
+
+-   Maintain physical distancing 
+-   Control the entry and exit points
+-   Avoid congestion of cars and congregating of people
+
+ 
+
+[Funerals, weddings and baptisms]()
+
+Funerals, weddings and baptisms may proceed with a limited number of
+people and a COVID-19 Safety Plan in place. You can have a maximum of 10
+people attend, including the officiant. [Review BC Centre for Disease
+Control (BCCDC) information on event
+planning].
+
+-   The event organizer and staff present at the event are not included
+    in the 10 people limit
+-   If the event organizer also acts as the officiant, that person is
+    included in the 10 people limit
+
+Receptions associated with funerals, weddings or baptisms are not
+allowed at any location, that includes:\
+ 
+
+-   Inside or outside homes
+-   Any public or community-based venues
+
+ 
+
+[Formal meetings]()
+
+The order restricts most formal in-person meetings outside the
+workplace, with some exceptions including:\
+ 
+
+-   The B.C. legislature and cabinet meetings
+-   City council meetings. It is recommended virtual meetings be held as
+    much as possible. The public is not allowed to attend
+-   Support groups like Alcoholics and Narcotics Anonymous
+-   Critical service meetings
+
+ 
+
+[Meals for people in need]()
+
+Meals for people in need may proceed with a limited number of people and
+a COVID-19 Safety Plan in place. You can have a maximum of 50 people in
+attendance in addition to the organizer and people assisting. This
+includes:\
+ 
+
+-   Soup kitchens
+-   Meals at shelters
+-   Charities offering meals
+
+Pre-packaged meals are the best option to limit gatherings inside
+a dining area.\
+ 
+
+-   [Review BC Centre for Disease Control (BCCDC) information on food
+    banks and food
+    distribution]
+
+ 
+
+[Perimeter seating vehicles and buses (limo and party
+bus)]()
+
+The limited operation of perimeter seating vehicles and buses is
+permitted, subject to restrictions respecting hours of operation and
+distancing of passengers.
+
+ 
+
+[Rental and home sale viewings]()
+
+Rental and home viewings should be restricted to a maximum of six
+people, subject to each person present  being able to keep two metres
+away from every other person present at all times.
+
+ 
+
+[Religious gatherings and worship services]()
+
+In-person religious gatherings and worship services of any size are
+prohibited.\
+ 
+
+-   You must not attend a service at a church, synagogue, mosque,
+    gudwara, temple or other place of worship
+-   Religious services can continue using remote or virtual attendance
+    options, like Zoom or Skype
+
+You can still visit your place of worship for individual activities such
+as guidance from spiritual leaders, contemplation or personal prayer.
+
+Religious leaders may attend the home of a member of their religious
+community to provide religious services to the occupant.
+
+ 
+
+[Retail businesses, vending markets and episodic markets]()
+
+Retail businesses are required to:\
+ 
+
+-   Establish capacity limits based on 5 square metres of unencumbered
+    space per person
+-   Post occupancy limits
+-   Where practical, post directional signs to keep people moving in the
+    same direction and not congregating
+
+ 
+
+[Workplaces]()
+
+Employers must review and redouble their efforts on their COVID-19
+Safety Plan, remind employees to monitor themselves daily and to always
+stay home if they have symptoms.
+
+Employers must make every effort to provide work from home options.  
+
+
+-   Workplaces must ensure that all workers and customers maintain an
+    appropriate physical distance and extra care should be taken in
+    small office spaces, break rooms and kitchens
+
+-   [Review the WorkSafeBC COVID-19 Safety Plan
+    documentation]
+
+#### Daily health check 
+
+A daily health check should already be included in every business's
+existing COVID-19 Safety Plan.\
+ 
+
+-   [Review WorkSafeBC information on daily health
+    checks]
+
+
+ 
+
+[Youth extracurricular activities]()
+
+Structured extracurricular activities and programs for children or youth
+21 years of age and younger can continue to operate with a COVID-19
+Safety Plan in place. They must be supervised by an adult. These
+include:\
+ 
+
+-   Education programs
+-   Music
+-   Art
+-   Dance
+-   Drama
+-   Outdoor exercise
+-   Recreational programs
+
+Structured extracurricular activities and programs for children or youth
+are subject to a 50 person limit.
+
+Performances, recitals and demonstrations are not allowed. 
+
+ 
+
+### Exercise 
+
+#### Indoor high intensity group exercise 
+
+Indoor high intensity group exercise is prohibited. High intensity group
+exercise causes a sustained and accelerated rate of breathing and may
+involve close contact with other people. Businesses, recreation centres
+or other organizations that organize or operate high intensity group
+exercise must suspend the following activities:
+
+-   Hot yoga
+-   Spin classes 
+-   Aerobics
+-   Bootcamp
+-   High intensity aspects of circuit training
+-   High intensity interval training (HIIT)
+
+#### Indoor low intensity group exercise 
+
+Indoor low intensity group exercise is allowed. Low intensity group
+exercise does not cause a sustained and accelerated rate of breathing
+and does not involve close contact with other people. These include:
+
+-   Yoga (Hatha)
+-   Low intensity exercise machines and cardio equipment
+-   Pilates
+-   Light weightlifting
+-   Stretching
+-   Tai-Chi
+-   Low intensity Barre classes
+
+Businesses, recreation centres or other organizations that organize or
+operate low intensity group fitness activities must follow the
+restrictions in the order, including a COVID-19 Safety Plan developed
+following public health guidelines.
+
+-   [Public Health Guidelines for Group Low Intensity Exercise --
+    December 14, 2020 (PDF,
+    490KB)]
+
+#### Gyms and recreation facilities 
+
+Gyms and recreation facilities that offer individual workouts and
+personal training sessions can remain open as long as they have
+a COVID-19 Safety Plan that is strictly followed. 
+
+### Sports 
+
+The order places restrictions on adult and youth indoor and outdoor team
+sports. 
+
+[Expand All]()[ \| ][Collapse
+All]()
+
+ 
+
+[High performance athletes]()
+
+High performance athletes can train, travel and compete together. They
+must follow the COVID-19 safety protocols of the provincial or national
+sports organization they are affiliated with.
+
+To qualify as a high-performance athlete, you must be identified by the
+Canadian Sports Institute Pacific as a high-performance athlete
+affiliated with an accredited provincial or national sports
+organization.
+
+ 
+
+[Spectators]()
+
+Spectators are not allowed at any sport activities. The only people
+allowed to attend sport activities are those that provide care to a
+participant or player. For example, providing personal care or first
+aid to a player.
+
+ 
+
+Travel for sport
+
+Travel to, from and between communities for athletic activities like
+games, competitions, training and practice is prohibited. However,
+athletes can travel to their home club if their home club is outside of
+their immediate community. For example:\
+ 
+
+-   A figure skater who lives in the Vancouver Coastal Health region but
+    trains at their home club in Burnaby
+-   A soccer player who lives in the Fraser Health region but trains at
+    their home club in Vancouver
+
+ 
+
+#### Adult indoor and outdoor team sports 
+
+Indoor and outdoor team sports for people 22 years of age and older are
+prohibited. These include:
+
+-   Basketball
+-   Cheerleading
+-   Combat sports
+-   Floor hockey
+-   Floor ringette
+-   Road hockey
+-   Ice hockey
+-   Ringette
+
+-   Martial arts
+-   Netball
+-   Team skating
+-   Soccer
+-   Volleyball
+-   Indoor bowling
+-   Lawn bowling
+-   Curling
+
+-   Lacrosse
+-   Hockey
+-   Ultimate
+-   Rugby 
+-   Football
+-   Baseball
+-   Softball
+
+While restrictions are currently in place related to adult team sports,
+some indoor and outdoor sports and activities, including drills and
+training activities, are permitted with a reduced number of
+participants:
+
+-   Two people may engage in indoor sports with one another
+-   Four people may engage in outdoor sports with one another
+
+In both cases, participants must maintain a distance of 3 metres from
+one another unless everyone lives in the same private residence.
+
+#### Youth indoor and outdoor team sports 
+
+All organized indoor and outdoor sports for people 21 years of age and
+younger should follow [viaSport\'s Return to Sport Phase 2
+guidance] with
+respect to maintaining physical distance for participants. This means
+games, tournaments and competitions are temporarily suspended for teams.
+
+-   Individual drills and modified training activities can continue
+-   Amateur sports organizations and leagues may implement additional
+    guidelines to ensure the health and safety of participants
+
+All indoor and outdoor team sports for people 22 years of age and older
+are suspended.
+
+------------------------------------------------------------------------
+
+PHO order on restaurants, pubs and bars 
+------------------------------------------------------------
+
+In order to limit the spread of COVID-19, people should only be visiting
+restaurants with their household. For people who live alone, this should
+be with a maximum of two people they regularly interact with (core
+bubble).
+
+You must [wear a mask when not at a table]. Events are no longer
+allowed. 
+
+Restaurants, pubs and bars can continue to operate if they have
+a COVID-19 Safety Plan and employee protocols in place. 
+
+WorkSafeBC will be conducting inspections to verify that COVID-19 Safety
+Plans remain effective. Establishments that are noncompliant with plan
+requirements may face orders and fines, and possible referral to public
+health which may result in a closure order.
+
+-   Review the [PHO Order -- Food and Liquor Serving
+    Premises (PDF)]
+
+------------------------------------------------------------------------
+
+EPA order on masks in public indoor settings 
+------------------------------------------------------
+
+As outlined in the [EPA mask mandate
+order],
+masks are required for everyone in many public indoor settings. A face
+shield is not a substitute for a mask as it has an opening below the
+mouth.
+
+There are exemptions for:
+
+-   People with health conditions or with physical, cognitive or mental
+    impairments who cannot wear one
+-   People who cannot remove a mask on their own
+-   Children under the age of 12
+-   People who need to remove their masks to communicate due to another
+    person\'s hearing impairment
+
+Masks are required in many indoor public settings and all retail stores.
+This includes:
+
+-   Malls, shopping centres
+-   Grocery stores
+-   Airports
+-   Coffee shops
+-   On public transportation, in a taxi or ride-sharing vehicle
+-   Places of worship
+-   Libraries
+
+-   Common areas of post-secondary institutions, office buildings, court
+    houses (except court rooms), hospitals and hotels
+-   Clothing stores
+-   Liquor stores
+-   Drug stores
+
+-   Community centres
+-   Recreation centres
+-   City Halls
+-   Restaurants, pubs and bars when not seated at a table
+-   Sport or fitness facilities when not working out
+
+### Mask enforcement 
+
+You could be subject to a \$230 fine if you:
+
+-   Do not wear a mask in an indoor public setting, unless you are
+    exempt
+-   Refuse to comply with the direction of an enforcement officer,
+    including the direction to leave the space
+-   Engage in abusive or belligerent behaviour
+
+### Masks at workplaces and shared living areas 
+
+
+It is strongly recommended that masks be worn in the following areas:
+
+
+-   Common areas in apartment buildings and condos, including:
+    -   Elevators
+    -   Hallways
+    -   Lobbies
+    -   Stairwells
+
+-   Shared indoor workplace spaces, including:
+    -   Elevators
+    -   Kitchens
+    -   Hallways
+    -   Break rooms
+
+------------------------------------------------------------------------
+
+Travel advisory 
+--------------------------
+
+
+At this time, all non-essential travel should be avoided. This includes
+travel into and out of B.C. and between regions of the province. For
+example:
+
+-   Do not travel for a vacation
+-   Do not travel to visit friends or family outside of your household
+    or core bubble
+
+### What is essential travel? 
+
+Individual circumstances may affect whether a trip is considered
+essential or non-essential. Essential travel within B.C. includes:
+
+-   Regular travel for work within your region
+-   Travel for things like medical appointments and hospital visits
+
+For example, if you live in Vancouver and work in Surrey you can
+continue to commute. 
+
+If you need to travel for essential reasons, take
+the same health and safety precautions you do at home.
+
+-   Wash your hands often
+-   Practice safe distancing, 2 m
+-   Travel only with yourself, household or core bubble
+-   Stick to the outdoors whenever possible
+-   Clean spaces often
+-   Wear a mask in indoor spaces
+
+#### First Nations communities 
+
+Many First Nations have declared a state of emergency for their
+communities and enacted COVID-19 community protection by-laws including
+travel bans for non-residents and non-essential visitors. It is
+important to respect these restrictions in addition to the province-wide
+travel advisory. 
+
+### Coming from outside of B.C. 
+
+At this time, people travelling to B.C. from another province or
+territory within Canada should only come for essential reasons. If you
+do travel, you are expected to follow the same travel guidelines as
+everyone else in B.C.
+
+-   Review [B.C. travel
+    information]
+
+
+------------------------------------------------------------------------
+
+Enforcement 
+---------------------------
+
+During a public health emergency under the Public Health Act, the PHO
+can make orders as needed. You must follow the orders. Some orders
+can be enforced by police or other compliance and enforcement officials.
+[People who don\'t follow these orders could be
+fined].
+
+Translated content 
+------------------
+
+
+-   [全省限制 ](Traditional
+    Chinese)
+
+-   [全省限制] (Simplified
+    Chinese)
+
+-   [ਪੂਰੇ ਪਰਾਂਤ ਤੇ ਲਾਗੂ
+    ਪਾਬੰਦੀਆਂ]
+
+-   [Restrictions à l'échelle de la
+    province]
+
+-   [Restricciones en toda la
+    provincia]
+
+-   ::: {style="text-align:start"}
+    [القيود المفروضة في أنحاء
+    المقاطعة]
+
+-   ::: {style="text-align:start"}
+    [Mga pagbabawal sa buong
+    lalawigan]
+
+-   ::: {style="text-align:start"}
+    [محدودیت ها در سطح
+    استان]
+
+-   ::: {style="text-align:start"}
+    [주 전역
+    제약]
+
+

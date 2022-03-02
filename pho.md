@@ -2,7 +2,7 @@
 Province-wide restrictions
 ==========================
 
-[Regional restrictions and a mask mandate are in
+[Regional restrictions are in
 place]
 for people who live in Interior Health.
 
@@ -17,16 +17,65 @@ English \|
 [繁體中文] \| [简体中文] \| [Français] \| [ਪੰਜਾਬੀ] \| [فارسی] \| [Tagalog] \| [한국어] \| [Españo][l] \| [عربى] \| [Tiếng
 Việt] \| [日本語] \| [हिंदी]
 
-Last updated: **August 23, 2021**
+Last updated: **August 24, 2021**
 
 **On this page:**
 
+-   [PHO order on masks in public indoor settings]
 -   [PHO order on gatherings and events]
 -   [PHO order on restaurants and bars]
 -   [Guidance for visiting long-term care or seniors\' assisted living
     facilities]
--   [Mask guidance]
 -   [Enforcement]
+
+------------------------------------------------------------------------
+
+PHO order on masks in public indoor settings 
+------------------------------------------------------
+
+Starting August 25, masks are required in all public indoor settings for
+all people born in 2009 or earlier (12+). 
+
+This includes:
+
+-   Malls, shopping centres
+-   Grocery and liquor stores
+-   Airports
+-   Coffee shops
+-   On public transportation, in a taxi or ride-sharing vehicle
+-   Libraries
+-   Clothing and retail stores
+
+-   Areas of office buildings where services to the public are provided
+-   Common areas of sport and fitness centres when not engaged in
+    physical activity
+-   Common areas of post-secondary institutions and non-profit
+    organizations
+
+-   Inside schools for all K to 12 staff, visitors and students in
+    grades 4 to 12
+-   Drug stores
+-   Community centres
+-   Recreation centres
+-   City Halls
+-   Restaurants, pubs and bars when not seated at a table
+
+**Note: **The order will be reassessed when [proof of vaccination and
+B.C.\'s vaccine
+card]
+are fully implemented. 
+
+There are exemptions for:
+
+-   People with health conditions or with physical, cognitive or mental
+    impairments who cannot wear one
+-   People who cannot remove a mask on their own
+-   Children under the age of 12
+-   People who need to remove their masks to communicate due to another
+    person\'s hearing impairment
+
+A face shield is not a substitute for a mask as it has an opening below
+the mouth.
 
 ------------------------------------------------------------------------
 
@@ -225,11 +274,9 @@ or seniors\' assisted-living facility. You\'re fully vaccinated 7 days
 after [dose
 2]. 
 
-Safety precautions like visitor health screening, wearing masks in
-common areas, hand hygiene and physical distancing will continue.
+Safety precautions like visitor health screening, hand hygiene and
+physical distancing will continue.
 
--   Staff who are not confirmed to be fully vaccinated will continue to
-    wear a medical mask at work and follow safety precautions
 -   Before your visit, review information for [Visitors in Long-Term
     Care and Seniors' Assisted Living -- July 19, 2021 (PDF,
     601KB)]
@@ -244,27 +291,6 @@ common areas, hand hygiene and physical distancing will continue.
     or your [online immunization record on Health
     Gateway]
     (available 48 hours after your vaccination appointment)
-
-------------------------------------------------------------------------
-
-Mask guidance 
--------------------------------
-
-People who live in Interior Health [must follow regional mask
-restrictions].
-
-Masks are recommended in indoor public settings for all people 12 and
-older who are not yet fully vaccinated. 
-
--   You\'re fully vaccinated 7 days after [dose
-    2]
--   Masks are optional for children aged 2 to 12
--   Children under 2 should not wear masks
--   Proof of vaccination does not need to be requested by service
-    providers, [except when visiting long-term care or seniors\'
-    assisted living facilities]
--   Some people may choose to continue to wear a mask after they\'re
-    fully vaccinated and that\'s okay
 
 ------------------------------------------------------------------------
 
